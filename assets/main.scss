@@ -171,9 +171,6 @@ h2.weekname{
     gap: $base-font-size * 1.1 !important;
 }
 
-.wrapper{
-    position: sticky;
-}
 
 @include media-query($on-palm) {
   .week{
