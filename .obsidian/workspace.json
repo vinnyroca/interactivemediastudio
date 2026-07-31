@@ -186,6 +186,8 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
+    "_site/CNAME",
+    "CNAME",
     "_site/resources/index.html",
     "_site/resources",
     "03_IntroductionToUnity.md",
@@ -219,9 +221,7 @@
     "_site/05_GameObjectsComponentsCSharp.md",
     "_site/04_GameObjectsComponentsCSharp.md/index.html",
     "_site/04_GameObjectsComponentsCSharp.md",
-    "_site/04_IntroductionToAsteroids.md/index.html",
     "_site/04_IntroductionToAsteroids.md",
-    "_site/03_IntroductionToUnity.md/index.html",
     "_site/03_IntroductionToUnity.md",
     "_site/Untitled.md",
     "_site/01_WhatIsAGameEngine.md",
