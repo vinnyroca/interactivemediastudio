@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Resources
-permalink: /resources.md/
+permalink: /resources/
 ---
 # Resources
 
 ## Lecture Notes
 
-1. [What is a Game Engine?](/01_WhatIsAGameEngine.md)
+1. [What is a Game Engine?](/01_WhatIsAGameEngine)
 2. Installing Unity and Visual Studio/Code
-3. [Introduction to Unity](/03_IntroductionToUnity.md)
+3. [Introduction to Unity](/03_IntroductionToUnity)
 4. Introduction to Asteroids
 5. Game Objects, Components, and C#
 6. Prefabs and Instantiations 

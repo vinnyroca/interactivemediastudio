@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Unity
-permalink: /03_IntroductionToUnity.md/
+permalink: /03_IntroductionToUnity/
 ---
 # Introduction to Unity
 
