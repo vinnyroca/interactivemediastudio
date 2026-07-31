@@ -11,19 +11,23 @@ permalink: /resources/
 2. Installing Unity and Visual Studio/Code
 3. [Introduction to Unity](/03_IntroductionToUnity)
 4. Introduction to Asteroids
-5. Game Objects, Components, and C#
-6. Prefabs and Instantiations 
-7. Physics Motion
-8. Input System
-9. Physics Triggers and Collisions
-10. Lists, Game Manager, and Singelton Pattern
-11. Text, Art, and Sound
-12. Scenes
-13. Building Your Game
-14. Introduction to Interactive Media Art
+5. [Game Objects, Components, and MonoBehavior](/05_GameObjectsComponentsCSharp)
+6. [C# Fundamentals](/06_CSharpFundamentals)
+7. [Getting Components, Transform and Time](/07_GetComponentAndTransform)
+8. [Duplication, Random, and Camera](/08_DuplicationRandomandCamera)
+9. Physics Motion
+10. Input System
+11. Physics Triggers and Collisions
+12. Prefabs and Instantiations 
+13. Lists, Game Manager, and Singelton Pattern
+14. Text, Art, and Sound
+15. Scenes
+16. Building Your Game
+17. Introduction to Interactive Media Art
 
 ## Unity Documentation
 
+- [Unity Documentation](https://docs.unity.com/en-us)
 - [Unity 6.3 User Manual](https://docs.unity3d.com/6000.3/Documentation/Manual/index.html)
 - [Unity 6.3 Scripting API](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/index.html)
 - [Unity Website](https://unity.com/)

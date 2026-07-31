@@ -10,7 +10,7 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     30px !default;
 
 $text-color:       rgb(218, 218, 218)!default;
-$background-color: rgb(30, 30, 30) !default;
+$background-color: rgb(28, 28, 28) !default;
 $brand-color:      rgb(142, 192, 124) !default;
 
 $grey-color:       rgb(142, 192, 124) !default;
@@ -20,10 +20,10 @@ $grey-color-dark:  darken($grey-color, 5%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    1000px !default;
+$content-width:    940px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        1000px !default;
+$on-laptop:        940px !default;
 
 @import "minima";
 
@@ -38,9 +38,21 @@ $on-laptop:        1000px !default;
 }
 }
 
-code{
+details{
+  margin-top: 10px; 
+  margin-bottom: 20px; 
+  border: none;
+  
+}
+summary{
+  border:1px solid  rgb(87, 87, 87)!important;
+  font-size: $base-font-size !important;
+  padding: 10px;
+}
+
+.highlight{
     font-size: $base-font-size* 0.875;
-    max-width: 50px;
+    line-height: $base-line-height* 0.875!important;
 }
 body{
     font-family: 'Funnel Sans', 'Noto Sans', 'Roboto', sans-serif;
@@ -50,8 +62,22 @@ body{
   border: none;
 }
 
-.site-footer{
+code{
+  background-color: rgb(36, 36, 36)
+}
 
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: $background-color;
+
+  .wrapper {
+    max-width: 940px; // Minima's variable, usually 800px
+    margin: 0 auto;
+  }
 }
 
 img{
@@ -59,10 +85,19 @@ img{
 
 }
 
+.page-content {
+  padding-top: 72px;
+}
+
+@media screen and (max-width: 600px) {
+  .page-content {
+    padding-top: 100px; // adjust for taller mobile header if nav wraps
+  }
+}
 
 h1{
     font-size: $base-font-size * 1.75 !important;
-    color: rgb(142, 192, 124);
+    color: $brand-color;
 
    
 }
@@ -71,14 +106,11 @@ h2{
     margin-top: $base-font-size * 2;
     font-weight: bold;
     padding-bottom: $base-font-size*.5;
-    border-bottom: 1px solid rgb(142, 192, 124)  !important;
+    border-bottom: 1px solid  $brand-color !important;
     // border-top: 1px solid rgb(142, 192, 124)  !important;
 }
 
-summary{
-    font-size: $base-font-size * 1.2 !important;
-    border-bottom: 1px solid rgb(142, 192, 124)   !important;
-}
+
 
 
 h3{
@@ -134,13 +166,13 @@ h3.day{
 }
 
 .date{
-    color: rgb(142, 192, 124)  ;
+    color: $brand-color  ;
 }
 
 h2.weekname{
     text-transform: uppercase;
     font-size: $base-font-size !important;
-    border-bottom: 1px solid rgb(142, 192, 124)  !important;
+    border-bottom: 1px solid $brand-color !important;
     color: rgb(218, 218, 218);
 }
 
@@ -240,11 +272,12 @@ h2.weekname{
     width: 200px;
     flex-shrink: 0;
     position: sticky;
-    top: 2rem;
+    top: 4rem;
     align-self: flex-start;
     font-size: 0.9rem;
     margin: 0;
     padding: 0%;
+
   }
 
 
