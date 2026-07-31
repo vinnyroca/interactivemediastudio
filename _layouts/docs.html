@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const headings = document.querySelectorAll(".docs-content h2, .docs-content h3");
+  const links = document.querySelectorAll(".docs-toc a");
+  const map = new Map();
+  headings.forEach((h, i) => map.set(h.id, links[i]));
+
+  new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      const link = map.get(entry.target.id);
+      if (link) link.classList.toggle("active", entry.isIntersecting);
+    });
+  }, { rootMargin: "-20% 0px -70% 0px" }).observe;
+
+  headings.forEach(h => observer.observe(h)); // fix var name if copying directly
+});
+</script>
+
+<div class="docs-wrapper">
+  <article class="docs-content">
+    {{ content }}
+  </article>
+  <aside class="docs-toc">
+    <p class="toc-title">On this page</p>
+    {% toc %}
+  </aside>
+</div>

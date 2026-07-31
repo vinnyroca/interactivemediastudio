@@ -1,0 +1,39 @@
+weeks:
+  - week_number: 1
+    days:
+      
+      - day: "Tuesday"
+        date: "9/1"
+       
+        events:
+          - text: Introduction(s)
+          - text: Course Overview
+          - text: "Lecture: What is a Game Engine?"
+            link: ""
+          - text: "Lecture: Introduction to Unity"
+            link: ""
+       
+        due:
+
+      
+      - day: "Thursday"
+        date: "9/3"
+        
+        events:
+
+        
+        due:
+          - text: "Reccomended: Purchase a hard drive"
+          - text: "Optional: Install Unity"
+          - text: "READ: David Graeber. What's the Point If We Can't Have Fun? from The Baffler"
+            link: "https://scrippscollege.box.com/s/u2h964jcw9h4q38tc4pjg8t0dfso6l6k"
+
+
+     
+
+
+      
+
+
+  
+  

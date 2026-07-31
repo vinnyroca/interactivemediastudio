@@ -1,0 +1,65 @@
+---
+layout: default
+title: Schedule
+---
+<h1>Schedule</h1>
+
+<p>Please note that this is a live schedule and is ever evolving as the course (/world) changes. Please check back
+    frequently for due dates of assignments and course proceedings.</p>
+
+{% for week in site.data.schedule.weeks %}
+<h2 class="weekname">Week {{ week.week_number }}</h2>
+
+<div class="week">
+    {% for day in week.days %}
+    <div class="weekday">
+
+        <h3 class="day">{{ day.day }} <span class="date">{{ day.date }}</span></h3>
+
+        <div class="events">
+            <div class="event">
+            <!-- <p class = "event-name">In Class:</p> -->
+            {% if day.events and day.events.size > 0 %}
+            <ul class="day-content">
+                {% for event in day.events %}
+                <li class="event">
+                    {% if event.link %}
+                    <a href="{{ event.link }}">{{ event.text }}</a>
+                    {% else %}
+                    {{event.text }}
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+            {% else %}
+            <div class="events-list empty">
+
+
+            </div>
+            {% endif %}
+            </div>
+            <div class="event">
+                <p class="event-name">Due:</p>
+                {% if day.due and day.due.size > 0 %}
+                <ul class="day-content">
+                    {% for d in day.due %}
+                    <li class="event">
+                        {% if d.link %}
+                        <a href="{{ d.link }}">{{ d.text }}</a>
+                        {% else %}
+                        {{d.text }}
+                        {% endif %}
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% else %}
+                <div class="event">
+                    Nothing Due Today!
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endfor %}

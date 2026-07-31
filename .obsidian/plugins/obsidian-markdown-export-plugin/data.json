@@ -1,0 +1,24 @@
+{
+  "output": "output",
+  "attachment": "attachment",
+  "displayImageAsHtml": true,
+  "GFM": true,
+  "fileNameEncode": true,
+  "removeOutgoingLinkBrackets": false,
+  "includeFileName": false,
+  "customFileName": "",
+  "customAttachPath": "",
+  "relAttachPath": true,
+  "convertWikiLinksToMarkdown": true,
+  "removeYamlHeader": false,
+  "inlineBlockEmbeds": false,
+  "textExportBulletPointMap": {
+    "0": "●",
+    "4": "￮",
+    "8": "￭",
+    "12": "►",
+    "16": "•"
+  },
+  "textExportCheckboxUnchecked": "☐",
+  "textExportCheckboxChecked": "☑"
+}
