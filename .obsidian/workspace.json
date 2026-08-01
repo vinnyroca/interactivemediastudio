@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources.md",
+                "file": "08_DuplicationRandomandCamera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "08_DuplicationRandomandCamera"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "daf4acf1f2db33f2",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources.md",
+                "file": "08_DuplicationRandomandCamera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for resources"
+              "title": "Backlinks for 08_DuplicationRandomandCamera"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources.md",
+                "file": "08_DuplicationRandomandCamera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from resources"
+              "title": "Outgoing links from 08_DuplicationRandomandCamera"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources.md",
+                "file": "08_DuplicationRandomandCamera.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of resources"
+              "title": "Outline of 08_DuplicationRandomandCamera"
             }
           }
         ]
@@ -186,9 +186,22 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
+    "_site/Attachments/8_4.gif",
+    "Attachments/8_4.gif",
+    "_site/Attachments/8_3.gif",
+    "Attachments/8_3.gif",
+    "_site/Attachments/Pasted image 20260731163758.png",
+    "Attachments/Pasted image 20260731163758.png",
+    "_site/Attachments/Pasted image 20260731163130.png",
+    "Attachments/Pasted image 20260731163130.png",
+    "_site/Attachments/8_2.gif",
+    "Attachments/8_2.gif",
+    "_site/Attachments/8_1.gif",
+    "_site/08_DuplicationRandomandCamera/index.html",
+    "_site/08_DuplicationRandomandCamera",
+    "resources.md",
     "08_DuplicationRandomandCamera.md",
     "_site/08_DuplicationRandomandCamera.md",
-    "resources.md",
     "05_GameObjectsComponentsCSharp.md",
     "07_GetComponentAndTransform.md",
     "06_CSharpFundamentals.md",
@@ -196,16 +209,6 @@
     "_site/08_Duplication, Random, and Screen Wrap.md",
     "_site/08_Duplication and Screen Wrap.md",
     "_site/Untitled.md",
-    "Attachments/7_5.gif",
-    "_site/Attachments/7_5.gif",
-    "_site/Attachments/Pasted image 20260731153005.png",
-    "Attachments/Pasted image 20260731153005.png",
-    "_site/Attachments/Pasted image 20260731152957.png",
-    "Attachments/Pasted image 20260731152957.png",
-    "_site/Attachments/7_4.gif",
-    "Attachments/7_4.gif",
-    "_site/Attachments/7_3.gif",
-    "Attachments/7_3.gif",
     "_site/07_GetComponentAndTransform/index.html",
     "_site/07_GetComponentAndTransform",
     "_site/07_GetComponentAndTransform.md",
@@ -225,12 +228,9 @@
     "_site/05_GameObjectsComponentsCSharp",
     "_site/CNAME",
     "CNAME",
-    "_site/resources/index.html",
-    "_site/resources",
     "test.md",
     "Templates/Page Template.md",
     "_site/resources.md",
-    "_site/05_GameObjectsComponentsCSharp.md",
-    "_site/04_GameObjectsComponentsCSharp.md"
+    "_site/05_GameObjectsComponentsCSharp.md"
   ]
 }
