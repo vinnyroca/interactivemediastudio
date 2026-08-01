@@ -8,19 +8,19 @@ permalink: /resources/
 ## Lecture Notes
 
 ### Day One
-- [What is a Game Engine?](/01_WhatIsAGameEngine)
+- [What is a Game Engine?](../01_WhatIsAGameEngine)
 - Installing Unity and Visual Studio/Code
-- [Introduction to Unity](/03_IntroductionToUnity)
+- [Introduction to Unity](../03_IntroductionToUnity)
 - Introduction to Asteroids
 
 ### Day Two
-- [Game Objects, Components, and MonoBehavior](/05_GameObjectsComponentsCSharp)
-- [C# Fundamentals](/06_CSharpFundamentals)
-- [Getting Components, Transform and Time](/07_GetComponentAndTransform)
+- [Game Objects, Components, and MonoBehavior](../05_GameObjectsComponentsCSharp)
+- [C# Fundamentals](../06_CSharpFundamentals)
+- [Getting Components, Transform and Time](../07_GetComponentAndTransform)
 
 ### Day Three
-- [Physics Motion](/09_Physics)
-- [Duplication, Random, and Camera](/08_DuplicationRandomandCamera)
+- [Physics Motion](../09_Physics)
+- [Duplication, Random, and Camera](../08_DuplicationRandomandCamera)
 - Prefabs and Instantiations
 
 ### Day Four
@@ -72,6 +72,10 @@ Next Unit
 - [GDC YouTube Channel](https://www.youtube.com/c/Gdconf)
 - [/noclip documentaries](https://www.youtube.com/@NoclipDocs)
 - [Double Fine PsychOdyssey](https://www.youtube.com/playlist?list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_)
+
+## Math for Artists
+- [3Blue1Brown - Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 
 ## Recommended Reading
 
