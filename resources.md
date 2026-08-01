@@ -7,23 +7,42 @@ permalink: /resources/
 
 ## Lecture Notes
 
-1. [What is a Game Engine?](/01_WhatIsAGameEngine)
-2. Installing Unity and Visual Studio/Code
-3. [Introduction to Unity](/03_IntroductionToUnity)
-4. Introduction to Asteroids
-5. [Game Objects, Components, and MonoBehavior](/05_GameObjectsComponentsCSharp)
-6. [C# Fundamentals](/06_CSharpFundamentals)
-7. [Getting Components, Transform and Time](/07_GetComponentAndTransform)
-8. [Duplication, Random, and Camera](/08_DuplicationRandomandCamera)
-9. Physics Motion
-10. Input System
-11. Physics Triggers and Collisions
-12. Prefabs and Instantiations 
-13. Lists, Game Manager, and Singelton Pattern
-14. Text, Art, and Sound
-15. Scenes
-16. Building Your Game
-17. Introduction to Interactive Media Art
+### Day One
+- [What is a Game Engine?](/01_WhatIsAGameEngine)
+- Installing Unity and Visual Studio/Code
+- [Introduction to Unity](/03_IntroductionToUnity)
+- Introduction to Asteroids
+
+### Day Two
+- [Game Objects, Components, and MonoBehavior](/05_GameObjectsComponentsCSharp)
+- [C# Fundamentals](/06_CSharpFundamentals)
+- [Getting Components, Transform and Time](/07_GetComponentAndTransform)
+
+### Day Three
+- [Physics Motion](/09_Physics)
+- [Duplication, Random, and Camera](/08_DuplicationRandomandCamera)
+- Prefabs and Instantiations
+
+### Day Four
+- Input System
+- Triggers, Tags, Destroy
+
+### Day Five
+- Lists, Game Logic, and Singelton Pattern
+- Arcades Discuss project
+### Day Six
+- Text, Art, Animation, Sound
+
+### Day Seven
+- Scenes
+- Building Your Game
+- Introduction to Interactive Media Art
+
+Next Unit
+- Raycasting and Interfaces
+- Ink and adding in dialog
+- Inventory, scriptable objects
+- Statemachine enumerations
 
 ## Unity Documentation
 

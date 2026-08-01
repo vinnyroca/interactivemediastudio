@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_DuplicationRandomandCamera.md",
+                "file": "resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08_DuplicationRandomandCamera"
+              "title": "resources"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08_DuplicationRandomandCamera.md",
+                "file": "resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 08_DuplicationRandomandCamera"
+              "title": "Backlinks for resources"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08_DuplicationRandomandCamera.md",
+                "file": "resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 08_DuplicationRandomandCamera"
+              "title": "Outgoing links from resources"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08_DuplicationRandomandCamera.md",
+                "file": "resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 08_DuplicationRandomandCamera"
+              "title": "Outline of resources"
             }
           }
         ]
@@ -186,6 +186,22 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
+    "09_Physics.md",
+    "resources.md",
+    "_site/09_Physics/index.html",
+    "_site/09_Physics",
+    "_site/09_Physics.md",
+    "_site/Untitled.md",
+    "schedule.md",
+    "projects.md",
+    "index.md",
+    "08_DuplicationRandomandCamera.md",
+    "07_GetComponentAndTransform.md",
+    "06_CSharpFundamentals.md",
+    "05_GameObjectsComponentsCSharp.md",
+    "04_IntroductionToAsteroids.md",
+    "03_IntroductionToUnity.md",
+    "02_UnityInterface.md",
     "_site/Attachments/8_4.gif",
     "Attachments/8_4.gif",
     "_site/Attachments/8_3.gif",
@@ -196,41 +212,24 @@
     "Attachments/Pasted image 20260731163130.png",
     "_site/Attachments/8_2.gif",
     "Attachments/8_2.gif",
-    "_site/Attachments/8_1.gif",
     "_site/08_DuplicationRandomandCamera/index.html",
     "_site/08_DuplicationRandomandCamera",
-    "resources.md",
-    "08_DuplicationRandomandCamera.md",
     "_site/08_DuplicationRandomandCamera.md",
-    "05_GameObjectsComponentsCSharp.md",
-    "07_GetComponentAndTransform.md",
-    "06_CSharpFundamentals.md",
     "_site/08_Duplication, Random, and Camera.md",
     "_site/08_Duplication, Random, and Screen Wrap.md",
     "_site/08_Duplication and Screen Wrap.md",
-    "_site/Untitled.md",
     "_site/07_GetComponentAndTransform/index.html",
     "_site/07_GetComponentAndTransform",
     "_site/07_GetComponentAndTransform.md",
-    "schedule.md",
     "_site/06_CSharpFundamentals/index.html",
     "_site/06_CSharpFundamentals",
     "_site/06_CSharpFundamentals.md",
-    "index.md",
-    "projects.md",
     "racing.md",
-    "03_IntroductionToUnity.md",
-    "04_IntroductionToAsteroids.md",
     "01_GettingStarted.md",
-    "02_UnityInterface.md",
     "01_WhatIsAGameEngine.md",
     "_site/05_GameObjectsComponentsCSharp/index.html",
     "_site/05_GameObjectsComponentsCSharp",
-    "_site/CNAME",
-    "CNAME",
     "test.md",
-    "Templates/Page Template.md",
-    "_site/resources.md",
-    "_site/05_GameObjectsComponentsCSharp.md"
+    "Templates/Page Template.md"
   ]
 }
