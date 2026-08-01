@@ -121,7 +121,7 @@ h3{
 
 table {
   margin-bottom: $spacing-unit;
-  width: 50%;
+  width: auto;
   text-align: $table-text-align;
   color: rgb(218, 218, 218) !important;
   border-collapse: collapse;
@@ -136,6 +136,7 @@ table {
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    font-size: $base-font-size * .8;
   }
   th {
     background-color: rgb(67, 67, 67) !important;

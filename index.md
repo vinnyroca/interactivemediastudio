@@ -4,14 +4,12 @@ title: Syllabus
 ---
 # Syllabus
 
-*This is a living website and is maintained by a human (me). With that in mind, if you notice any grammatical errors, missing links, or other bugs, please email me at the below address.*
+*This is a living website and is maintained by a human (me.) With that in mind, if you notice any grammatical errors, missing links, or other bugs, please email me at the below address.*
 
 ## Course Information
 
 **Course Title:** Interactive Media Studio  
-**Semester:** Fall 2026  
-**Location:** Steele Hall 229, Scripps College  
-**Meeting Times:** Tuesday & Thursday 1:15 - 3:45  
+**Semester:** Fall 2026 
 **Weekly In-class Study Time:** 5 Hours  
 **Weekly External Study Time:** 9 Hours
 
@@ -24,20 +22,44 @@ By appointment on Tuesday & Thursday 4:00 - 5:00
 
 ## Course Description
 
-Interactive Media Studio is a studio-based course for advanced Media Studies students with prior course work in digital art and programming. Students will additionally be able to make use of prior course work in 3D digital design and game design when producing projects. Projects will be focused on teaching the fundamentals of interactive media design using the Unity Game engine. Although the class will be focused on the history, theory and production of commercial and art games, students are not require to produce *video games* for their projects. This course encourages experimentation with interactive media and each student will work individually with the instructor to develop their projects.
+Interactive Media Studio is a studio-based course for advanced Media Studies students with prior course work in digital art and programming. Students will additionally be able to make use of prior course work in 3D digital design, video art, and game design when producing projects. The course is focused on teaching the fundamentals of interactive media design using the Unity game engine. Although the class will largely be focused on the history, theory and production of commercial and art games, students are not require to produce *video games* for their projects. This course encourages experimentation with interactive media and each student will work individually with the instructor to develop their projects.
 
-The goal of this course is to address two key questions:
+## Course Outline
 
-1. How is the development of interactive media art affected by the technological and cultural context under which they are produce?
-2. How do contemporary media artists produce interactive media works?
+The goal of this course is to address three key questions:
 
-To address these questions, the course will focus on three units:
+1. What is the history of techniques used to produce interactive media art?
+2. How does technological and cultural context effect the production of interactive media art?
+3. How do contemporary media artists produce interactive media works?
 
-1. Public games and the arcade
-2. The multimedia turn and interactive media art
-3. Contemporary independent and art games
+To address these questions, this course will focus on three units:
 
-The first two units will be focused on teaching the fundamentals of Unity, a game engine. The first unit will introduce students to the logic of designing with Unity, while the second unit will focus on more complex design and programming strategies.  Each of these units will be split into two parts. The first part of the units will consists of in-class tutorials and out of class readings and homeplays. In the second half of these units, students will develop a small prototype project using the knowledge gained in the first half of the unit. In the third unit students will work independently, guided by the instructor, to develop an independent media project from concept to final build.
+| Unit | Focus          | Technology          | Tutorial        | Project          |
+| ---- | -------------- | ------------------- | --------------- | ---------------- |
+| 1    | The Arcade     | Integrated circuits | Space shooter   | Public Game      |
+| 2    | Multimedia Art | CD Rom              | Point and Click | Interactive Zine |
+| 3    | Game Artists   | Game engines        | One on ones     | Personal Game    |
+
+During each unit we will focus on a particular historical moment in the history of interactive media. To explore the historical time frame associated with each unit we will engage with media and readings. The first two units will explore the embeddedness of these histories within the frameworks of the Unity game engine. The final unit will explore the contemporary approaches to interactive media by artists, designers and game makers. 
+
+### Unit 1: Public Games
+**Week 1-4:** Tutorial, Exercise, Readings  
+**Week 5-6:** Public Game
+### Unit 2: Multimedia Art
+**Week 7-9:** Tutorial, Exercise, Readings  
+**Week 10-11:** Interactive Zine
+
+### Unit 3: Contemporary Approaches
+**Week 12-15:** Personal Game
+
+## Learning Outcomes and Course Objectives 
+
+The objective of this course is for advanced students to develop technical media art skills through the development of playable media projects, and to contextualize this knowledge within contemporary theories of interactive media. Through projects, assignments, presentations, readings, technical tutorials, and lectures, students will achieve the following learning outcomes: 
+
+1. Gain the design, software, and programming skills required to develop interactive media art. 
+2. Gain an understanding of the contemporary cultural impact and role of interactive media art. 
+3. Ability to analyze interactive media art as cultural and artistic objects. 
+4. Ability to craft expansive interactive media projects.
 
 
 ## Course Breakdown
@@ -50,7 +72,6 @@ The first two units will be focused on teaching the fundamentals of Unity, a gam
 | 10   | Participation        |
 | 10   | Attendance           |
 | 7.5  | Responses            |
-
 
 |%|Letter Grade|
 |---|---|

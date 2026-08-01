@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for resources"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from resources"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of resources"
+              "title": "Outline of index"
             }
           }
         ]
@@ -186,14 +186,16 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "09_Physics.md",
     "resources.md",
+    "racing.md",
+    "test.md",
+    "projects.md",
+    "schedule.md",
+    "09_Physics.md",
     "_site/09_Physics/index.html",
     "_site/09_Physics",
     "_site/09_Physics.md",
     "_site/Untitled.md",
-    "schedule.md",
-    "projects.md",
     "index.md",
     "08_DuplicationRandomandCamera.md",
     "07_GetComponentAndTransform.md",
@@ -224,12 +226,10 @@
     "_site/06_CSharpFundamentals/index.html",
     "_site/06_CSharpFundamentals",
     "_site/06_CSharpFundamentals.md",
-    "racing.md",
     "01_GettingStarted.md",
     "01_WhatIsAGameEngine.md",
     "_site/05_GameObjectsComponentsCSharp/index.html",
     "_site/05_GameObjectsComponentsCSharp",
-    "test.md",
     "Templates/Page Template.md"
   ]
 }
