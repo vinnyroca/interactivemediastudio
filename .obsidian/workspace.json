@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_GameObjectsComponentsCSharp.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_GameObjectsComponentsCSharp"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_GameObjectsComponentsCSharp.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05_GameObjectsComponentsCSharp"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_GameObjectsComponentsCSharp.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 05_GameObjectsComponentsCSharp"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_GameObjectsComponentsCSharp.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05_GameObjectsComponentsCSharp"
+              "title": "Outline of index"
             }
           }
         ]
@@ -186,9 +186,11 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
+    "05_GameObjectsComponentsCSharp.md",
+    "_site/assets/main.css.map",
+    "_site/assets/main.scss",
     "resources.md",
     "01_WhatIsAGameEngine.md",
-    "_site/assets/main.css.map",
     "projects.md",
     "index.md",
     "07_GetComponentAndTransform.md",
@@ -202,7 +204,6 @@
     "_site/Untitled.md",
     "08_DuplicationRandomandCamera.md",
     "06_CSharpFundamentals.md",
-    "05_GameObjectsComponentsCSharp.md",
     "04_IntroductionToAsteroids.md",
     "03_IntroductionToUnity.md",
     "02_UnityInterface.md",
@@ -229,7 +230,6 @@
     "_site/06_CSharpFundamentals",
     "_site/06_CSharpFundamentals.md",
     "01_GettingStarted.md",
-    "_site/05_GameObjectsComponentsCSharp/index.html",
     "Templates/Page Template.md"
   ]
 }

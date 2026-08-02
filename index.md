@@ -9,7 +9,7 @@ title: Syllabus
 ## Course Information
 
 **Course Title:** Interactive Media Studio  
-**Semester:** Fall 2026 
+**Semester:** Fall 2026   
 **Weekly In-class Study Time:** 5 Hours  
 **Weekly External Study Time:** 9 Hours
 
