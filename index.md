@@ -88,6 +88,11 @@ The objective of this course is for advanced students to develop technical m
 |60-62|D-|
 |0-59|F|
 
+## Class Website
+
+This class website contains the course syllabus, schedule, assignment descriptions as well as written lecture notes and resources. To move our learning away from content management solutions and quantified grade management, this website has been particularly crafted for this class and I welcome any feedback on how the design or content can further facilitate learning.
+
+For those interested, this website is written in markdown using [Obsidian](https://obsidian.md/) with slightly off-beat syntax to get links working. [Jekyll](https://jekyllrb.com/) is used to compile the markdown into a static site, and custom layout and CSS is used to build on the [Minima](https://github.com/jekyll/minima) theme. The color scheme of this site is based on [Flexoki](https://stephango.com/flexoki). The website exist as a repository on [GitHub](https://github.com/) and is hosted using GitHub Pages.  Gifs are recorded using [LICEcap](https://www.cockos.com/licecap/). The typeface if Funnel Sans by [Kristian Möller](https://www.ktkm.se/)
 ## Grading Criteria
 
 ### Projects and Late Work
