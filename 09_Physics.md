@@ -15,9 +15,9 @@ Since many of the interactions within *Asteroids* involves objects colliding wit
 
 To tell Unity we want an object to be affected by the physics system, we must make that object a rigid body. A rigid body in a solid, non-deformable object that can be simulated with various forces such as gravity. To make objects rigid bodies with 2D Unity, we need to add a Rigidbody2D component to our game object.
 
-Let's begin by adding a rigid body to our asteroid.
+Let's begin by deleting any duplicated asteroids and adding a rigid body to our one remaining asteroid.
 
-
+![Animated gif of a screen recording of unity in which a user is adding a rigidbody2d component to a game object named asteroid](../Attachments/9_1.gif)
 
 Next lets edit our `Asteroid` code and remove our movement code. Your code should look like this to start:
 

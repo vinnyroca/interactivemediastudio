@@ -173,3 +173,13 @@ void Move()
 Below you can see the difference in speeds of an asteroid with a normalized vector versus a non-normalized vector.
 
 ![Gif recording showing two asteroids moving at different speeds with the slower circle labeled "normalized"](/Attachments/7_5.gif)
+
+## Duplication
+
+Now that we have one asteroid moving on our screen, let's duplicate our asteroid 4 times to create a total of 5 asteroids. To duplicate an asteroid, you can select the game object in the Hierarchy or Scene window and press **Ctrl+D** or **Right click > Duplicate**. This will create a copy of your asteroid.
+
+We can then independently edit the `speed` and `x,y` `direction` values of each asteroid.
+
+Below you can see the result of creating 5 asteroid that move in different direction at different speeds.
+
+![Screen recording showing 5 circles moving in different directions at different speeds](/Attachments/8_1.gif)
