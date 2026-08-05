@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tutorials/06_Camera.md",
+                "file": "schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_Camera"
+              "title": "schedule"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Tutorials/06_Camera.md",
+                "file": "schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 06_Camera"
+              "title": "Backlinks for schedule"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Tutorials/06_Camera.md",
+                "file": "schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 06_Camera"
+              "title": "Outgoing links from schedule"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Tutorials/06_Camera.md",
+                "file": "schedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 06_Camera"
+              "title": "Outline of schedule"
             }
           }
         ]
@@ -187,50 +187,51 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "resources.md",
+    "_site/assets/main.css.map",
+    "_Tutorials/08_UserInput.md",
+    "_Tutorials/09_PrefabsInstantiationandDestroy.md",
+    "_Tutorials/04_GetComponentAndTransform.md",
     "_Tutorials/05_Physics.md",
     "_Tutorials/06_Camera.md",
     "_Tutorials/07_Randomness.md",
-    "_site/Attachments/cam_4.gif",
-    "Attachments/cam_4.gif",
+    "01_Exercise.md",
+    "_site/Attachments/input_7.gif",
+    "Attachments/input_7.gif",
+    "_site/01_Exercise/index.html",
+    "_site/01_Exercise",
+    "_site/01_Exercise.md",
+    "_site/Untitled.md",
+    "_site/Attachments/Pasted image 20260805135145.png",
+    "Attachments/Pasted image 20260805135145.png",
+    "_site/Attachments/input_6.gif",
+    "Attachments/input_6.gif",
+    "_site/Attachments/input_5.gif",
+    "Attachments/input_5.gif",
+    "_site/Attachments/Pasted image 20260805132715.png",
+    "Attachments/Pasted image 20260805132715.png",
+    "_includes/image-lightbox.html",
+    "_site/Tutorials/09_PrefabsInstantiationandDestroy/index.html",
+    "_site/Tutorials/09_PrefabsInstantiationandDestroy",
+    "_site/Tutorials/09_PrefabsInstantiationandDestroy.md",
+    "_site/Tutorials/09_Prefabs, Instantiation, and Destroy.md",
+    "_site/Tutorials/Untitled.md",
+    "_site/Tutorials/08_UserInput/index.html",
+    "_site/Tutorials/08_UserInput",
+    "resources.md",
     "_site/Tutorials/07_randomness/index.html",
     "_site/Tutorials/07_randomness",
     "_site/Tutorials/07_Randomness.md",
-    "_site/Tutorials/Untitled.md",
     "_site/Tutorials/06_Camera/index.html",
-    "_site/Tutorials/06_Camera",
-    "_site/Tutorials/06_Random/index.html",
-    "_site/Tutorials/06_Random",
-    "_Tutorials/04_GetComponentAndTransform.md",
     "_Tutorials/03_CSharpFundamentals.md",
     "_Tutorials/01_IntroductionToUnity.md",
     "_Tutorials/02_GameObjectsComponentsCSharp.md",
-    "_site/Attachments/cam_3.gif",
-    "Attachments/cam_3.gif",
-    "_site/Attachments/cam_2.gif",
-    "Attachments/cam_2.gif",
-    "_site/Attachments/cam_1.gif",
-    "Attachments/cam_1.gif",
-    "_site/Attachments/Pasted image 20260804160734.png",
-    "Attachments/Pasted image 20260804160734.png",
-    "_site/Tutorials/06_RandomandCamera/index.html",
-    "_site/Tutorials/06_RandomandCamera",
     "index.md",
     "Templates/Page Template.md",
     "schedule.md",
-    "_site/06_RandomandCamera/index.html",
-    "_site/06_RandomandCamera",
     "_Tutorials/02_UnityInterface.md",
     "_Tutorials/01_GettingStarted.md",
     "_site/02_UnityInterface.md",
     "_site/01_GettingStarted.md",
-    "WhatIsAGameEngine.md",
-    "IntroductionToAsteroids.md",
-    "_site/IntroductionToAsteroids.md",
-    "_site/04_IntroductionToAsteroids.md",
-    "06_CSharpFundamentals.md",
-    "07_GetComponentAndTransform.md",
-    "08_Physics.md",
-    "09_RandomandCamera.md"
+    "WhatIsAGameEngine.md"
   ]
 }

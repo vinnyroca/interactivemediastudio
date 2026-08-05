@@ -11,12 +11,12 @@ To make the movement direction and speed of our asteroids different every time w
 
 For our `speed` variable, we can assign a random value by using `Random.Range()`. This function returns a value based on a minimum and maximum value.
 
-To set our speed to a random value between .75 and 2.5 we can call  `Random.Range(.75f, 2.5f)` and set it equal to our speed variable. We can do this within our Asteroid.cs script.
+To set our speed to a random value between .75 and 1.25 we can call  `Random.Range(.75f, 1.25f)` and set it equal to our speed variable. We can do this within our Asteroid.cs script.
 
 ```cs
 void Start()
 {
-    speed = Random.Range(.75f, 2.5f);
+    speed = Random.Range(.75f, 1.25f);
     asteroidTransform = gameObject.GetComponent<Transform>();
 }
 ```
@@ -51,7 +51,7 @@ public class Asteroid : MonoBehaviour
     void Start()
     {
         rbody = GetComponent<Rigidbody2D>();
-        speed = Random.Range(.75f, 2.5f);
+        speed = Random.Range(.75f, 1.25f);
         direction = Random.insideUnitCircle;
 
     }

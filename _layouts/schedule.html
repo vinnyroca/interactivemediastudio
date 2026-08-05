@@ -8,10 +8,12 @@ title: Schedule
 <p>Please note that this is a live schedule and is ever evolving as the course (/world) changes. Please check back
     frequently for due dates of assignments and course proceedings.</p>
 
+<div class ="schedule_table">{{content}}</div>
+
 {% for week in site.data.schedule.weeks %}
 <h2 class="weekname">Week {{ week.week_number }}</h2>
 
-<div class="week">
+<!-- <div class="week">
     {% for day in week.days %}
     <div class="weekday">
 
@@ -19,7 +21,6 @@ title: Schedule
 
         <div class="events">
             <div class="event">
-            <!-- <p class = "event-name">In Class:</p> -->
             {% if day.events and day.events.size > 0 %}
             <ul class="day-content">
                 {% for event in day.events %}
@@ -64,4 +65,4 @@ title: Schedule
     {% endfor %}
 </div>
 {% endfor %}
-</div>
+</div> -->

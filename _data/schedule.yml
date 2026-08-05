@@ -9,25 +9,166 @@ weeks:
           - text: Introduction(s)
           - text: Course Overview
           - text: "Lecture: What is a Game Engine?"
-            link: ""
-          - text: "Lecture: Introduction to Unity"
-            link: ""
+          - text: "Tutorial: Introduction to Unity"
+
        
         due:
 
       
       - day: "Thursday"
         date: "9/3"
-        
         events:
-
-        
+          - text: "Lecture: Arcades and Asteroids"
+          - text: "Tutorial: Game Objects, Components, and MonoBehavior"
+            link: "../Tutorials/02_GameObjectsComponentsCSharp"
+          - text: "Tutorial: C# Fundamentals"
+          - text: "Tutorial: Getting Components, Transform, and Time"
         due:
+
           - text: "Reccomended: Purchase a hard drive"
           - text: "Optional: Install Unity"
           - text: "READ: David Graeber. What's the Point If We Can't Have Fun? from The Baffler"
             link: "https://scrippscollege.box.com/s/u2h964jcw9h4q38tc4pjg8t0dfso6l6k"
 
+  - week_number: 2
+    days:
+      - day: "Tuesday"
+        date: "9/8"
+        events:
+        due:
+      - day: "Thursday"
+        date: "9/10"   
+        events:
+        due:
+  - week_number: 3
+    days:
+      - day: "Tuesday"
+        date: "9/15"
+        events:
+        due:
+      - day: "Thursday"
+        date: "9/17"   
+        events:
+        due:
+  - week_number: 4
+    days:
+      - day: "Tuesday"
+        date: "9/22"
+        events:
+        due:
+      - day: "Thursday"
+        date: "9/24"   
+        events:
+        due:
+  - week_number: 5
+    days:
+      - day: "Tuesday"
+        date: "9/29"
+        events:
+        due:
+      - day: "Thursday"
+        date: "10/1"   
+        events:
+        due:
+  - week_number: 6
+    days:
+      - day: "Tuesday"
+        date: "10/6"
+        events:
+        due:
+      - day: "Thursday"
+        date: "10/8"   
+        events:
+        due:
+  - week_number: 7
+    days:
+      - day: "Tuesday"
+        date: "10/13"
+        events:
+        due:
+      - day: "Thursday"
+        date: "10/15"   
+        events:
+        due:
+  - week_number: 8
+    days:
+      - day: "Tuesday"
+        date: "10/20"
+        events:
+        due:
+      - day: "Thursday"
+        date: "10/22"   
+        events:
+        due:
+  - week_number: 9
+    days:
+      - day: "Tuesday"
+        date: "10/27"
+        events:
+        due:
+      - day: "Thursday"
+        date: "10/29"   
+        events:
+        due:
+  - week_number: 10
+    days:
+      - day: "Tuesday"
+        date: "11/3"
+        events:
+        due:
+      - day: "Thursday"
+        date: "11/5"   
+        events:
+        due:
+  - week_number: 11
+    days:
+      - day: "Tuesday"
+        date: "11/10"
+        events:
+        due:
+      - day: "Thursday"
+        date: "11/12"   
+        events:
+        due:
+  - week_number: 12
+    days:
+      - day: "Tuesday"
+        date: "11/17"
+        events:
+        due:
+      - day: "Thursday"
+        date: "11/19"   
+        events:
+        due:
+  - week_number: 13
+    days:
+      - day: "Tuesday"
+        date: "11/24"
+        events:
+        due:
+      - day: "Thursday"
+        date: "11/26"   
+        events:
+        due:
+  - week_number: 14
+    days:
+      - day: "Tuesday"
+        date: "12/1"
+        events:
+        due:
+      - day: "Thursday"
+        date: "12/3"   
+        events:
+        due:
+  - week_number: 15
+    days:
+      - day: "Tuesday"
+        date: "12/8"
+        events:
+        due:
+                                                                   
+  
+ 
 
      
 
