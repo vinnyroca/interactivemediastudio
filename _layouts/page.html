@@ -8,8 +8,25 @@ layout: default
 
   <aside class="toc-sidebar">
     <nav>
+
+
       <p class="toc-title">ON THIS PAGE</p>
-      <ul class="toc-list" id="toc-list"></ul>
+
+      <ul class="toc-list" id="toc-list">
+
+       
+      </ul>
+      <br>
+      <div style="display: flex; align-items: center;  justify-content: space-between; ">
+         {% if page.previous %}
+      <span> <a href="{{ page.previous.url | relative_url }}">PREVIOUS </a></span>
+           {% endif %}
+               {% if page.next %}
+      <span> <a href="{{ page.next.url | relative_url }}">NEXT </a></span>
+           {% endif %}
+      </div>
+   
+
     </nav>
   </aside>
 </div>

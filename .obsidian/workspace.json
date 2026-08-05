@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09_Physics.md",
+                "file": "_Tutorials/06_Camera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09_Physics"
+              "title": "06_Camera"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 336.5
   },
   "right": {
     "id": "daf4acf1f2db33f2",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09_Physics.md",
+                "file": "_Tutorials/06_Camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 09_Physics"
+              "title": "Backlinks for 06_Camera"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09_Physics.md",
+                "file": "_Tutorials/06_Camera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 09_Physics"
+              "title": "Outgoing links from 06_Camera"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09_Physics.md",
+                "file": "_Tutorials/06_Camera.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 09_Physics"
+              "title": "Outline of 06_Camera"
             }
           }
         ]
@@ -181,55 +181,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "08_DuplicationRandomandCamera.md",
-    "09_Physics.md",
-    "_site/Attachments/Pasted image 20260803143210.png",
-    "_site/Attachments/9_2.gif",
-    "Attachments/Pasted image 20260803143210.png",
-    "Attachments/9_2.gif",
     "resources.md",
-    "07_GetComponentAndTransform.md",
-    "06_CSharpFundamentals.md",
-    "05_GameObjectsComponentsCSharp.md",
-    "03_IntroductionToUnity.md",
-    "assignments.md",
-    "_site/assignments/index.html",
-    "_site/assignments",
-    "_site/assets/main.css.map",
-    "schedule.md",
-    "_site/Attachments/Pasted image 20260731125358.png",
-    "_site/Attachments/9_1.gif",
-    "_site/racing/index.html",
-    "_site/racing",
-    "Attachments/9_1.gif",
+    "_Tutorials/05_Physics.md",
+    "_Tutorials/06_Camera.md",
+    "_Tutorials/07_Randomness.md",
+    "_site/Attachments/cam_4.gif",
+    "Attachments/cam_4.gif",
+    "_site/Tutorials/07_randomness/index.html",
+    "_site/Tutorials/07_randomness",
+    "_site/Tutorials/07_Randomness.md",
+    "_site/Tutorials/Untitled.md",
+    "_site/Tutorials/06_Camera/index.html",
+    "_site/Tutorials/06_Camera",
+    "_site/Tutorials/06_Random/index.html",
+    "_site/Tutorials/06_Random",
+    "_Tutorials/04_GetComponentAndTransform.md",
+    "_Tutorials/03_CSharpFundamentals.md",
+    "_Tutorials/01_IntroductionToUnity.md",
+    "_Tutorials/02_GameObjectsComponentsCSharp.md",
+    "_site/Attachments/cam_3.gif",
+    "Attachments/cam_3.gif",
+    "_site/Attachments/cam_2.gif",
+    "Attachments/cam_2.gif",
+    "_site/Attachments/cam_1.gif",
+    "Attachments/cam_1.gif",
+    "_site/Attachments/Pasted image 20260804160734.png",
+    "Attachments/Pasted image 20260804160734.png",
+    "_site/Tutorials/06_RandomandCamera/index.html",
+    "_site/Tutorials/06_RandomandCamera",
     "index.md",
-    "racing.md",
-    "Attachments/Pasted image 20260731125358.png",
-    "_site/assets/main.scss",
-    "01_WhatIsAGameEngine.md",
-    "test.md",
-    "_site/09_Physics/index.html",
-    "_site/09_Physics",
-    "_site/09_Physics.md",
-    "_site/Untitled.md",
-    "04_IntroductionToAsteroids.md",
-    "02_UnityInterface.md",
-    "_site/Attachments/8_4.gif",
-    "Attachments/8_4.gif",
-    "_site/08_DuplicationRandomandCamera/index.html",
-    "_site/08_DuplicationRandomandCamera",
-    "_site/08_DuplicationRandomandCamera.md",
-    "_site/08_Duplication, Random, and Camera.md",
-    "_site/08_Duplication, Random, and Screen Wrap.md",
-    "_site/08_Duplication and Screen Wrap.md",
-    "_site/07_GetComponentAndTransform.md",
-    "_site/06_CSharpFundamentals.md",
-    "01_GettingStarted.md",
-    "Templates/Page Template.md"
+    "Templates/Page Template.md",
+    "schedule.md",
+    "_site/06_RandomandCamera/index.html",
+    "_site/06_RandomandCamera",
+    "_Tutorials/02_UnityInterface.md",
+    "_Tutorials/01_GettingStarted.md",
+    "_site/02_UnityInterface.md",
+    "_site/01_GettingStarted.md",
+    "WhatIsAGameEngine.md",
+    "IntroductionToAsteroids.md",
+    "_site/IntroductionToAsteroids.md",
+    "_site/04_IntroductionToAsteroids.md",
+    "06_CSharpFundamentals.md",
+    "07_GetComponentAndTransform.md",
+    "08_Physics.md",
+    "09_RandomandCamera.md"
   ]
 }

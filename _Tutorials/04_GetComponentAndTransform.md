@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Components, Transform, and Time
-permalink: /07_GetComponentAndTransform/
+permalink: /Tutorials/04_GetComponentAndTransform/
 ---
 # Getting Components, Transform, and Time
 

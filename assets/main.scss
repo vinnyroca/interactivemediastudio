@@ -74,9 +74,9 @@ a {
   }
 }
 
-// body{
-//     font-family: 'Funnel Sans', 'Noto Sans', 'Roboto', sans-serif;
-// }
+main{
+    font-weight: lighter;
+}
 
 
 code{
@@ -359,6 +359,10 @@ h2.weekname{
     list-style: none;
     margin: 0;
     padding: 0;
+    padding-bottom: 20px;
+        border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #282726;
     
   }
 

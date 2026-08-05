@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C# Fundamentals
-permalink: /06_CSharpFundamentals/
+permalink: /Tutorials/03_CSharpFundamentals/
 ---
 # C# Fundamentals
 

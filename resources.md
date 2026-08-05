@@ -5,19 +5,11 @@ permalink: /resources/
 ---
 # Resources
 
-## Lecture Notes
+## Technical Tutorials
 
-### Unit 1
+### Asteroids
+<ol class="tutorial-list"> {% for Tutorial in site.Tutorials %} <li> <a href="{{ Tutorial.url | relative_url }}">{{ Tutorial.title }}</a> </li> {% endfor %} </ol>
 
-- [What is a Game Engine?](../01_WhatIsAGameEngine)
-- Installing Unity and Visual Studio/Code
-- [Introduction to Unity](../03_IntroductionToUnity)
-- Introduction to Asteroids
-- [Game Objects, Components, and MonoBehavior](../05_GameObjectsComponentsCSharp)
-- [C# Fundamentals](../06_CSharpFundamentals)
-- [Getting Components, Transform and Time](../07_GetComponentAndTransform)
-- [Physics Motion](../09_Physics)
-- [Random and Camera](../08_DuplicationRandomandCamera)
 - Prefabs and Instantiations
 - Input System
 - Triggers, Tags, Destroy
@@ -33,6 +25,12 @@ Next Unit
 - Ink and adding in dialog
 - Inventory, scriptable objects
 - Statemachine enumerations
+
+## Lectures
+
+- [What is a Game Engine?](/WhatIsAGameEngine.md)
+- [Arcades and Asteroids](/IntroductionToAsteroids.md)
+- 
 
 ## Unity Documentation
 

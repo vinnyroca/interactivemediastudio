@@ -34,6 +34,10 @@ header_pages:
 - resources.md
 - assignments.md
 
+collections:
+  Tutorials:
+    output: true
+    permalink: /Tutorials/:name/
 
 
 

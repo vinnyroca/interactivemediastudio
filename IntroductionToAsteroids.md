@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Introduction to Asteroids
-permalink: /04_IntroductionToAsteroids.md/
+permalink: /IntroductionToAsteroids/
 ---
 # Introduction to Asteroids

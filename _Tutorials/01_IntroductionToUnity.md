@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Unity
-permalink: /03_IntroductionToUnity/
+permalink: /Tutorials/01_IntroductionToUnity/
 ---
 # Introduction to Unity
 

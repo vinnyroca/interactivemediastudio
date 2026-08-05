@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Game Objects, Components, and MonoBehavior
-permalink: /05_GameObjectsComponentsCSharp/
+permalink: /Tutorials/02_GameObjectsComponentsCSharp/
 ---
 # Game Objects, Components, and MonoBehavior
 
