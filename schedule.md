@@ -13,7 +13,7 @@ permalink: /schedule/
 - Introduction(s)
 - Course Overview
 - Lecture: What is a Game Engine?
-- Tutorial: Introduction to Unity
+- Tutorial: [Introduction to Unity](../Tutorials/01_IntroductionToUnity/)
 
 Due:
 
@@ -22,25 +22,33 @@ Due:
 ### Thursday 9/3
 
 - Lecture: Arcades and Asteroids
-- [Tutorial: Game Objects, Components, and MonoBehavior](http://127.0.0.1:4000/Tutorials/02_GameObjectsComponentsCSharp)
-- Tutorial: C# Fundamentals
-- Tutorial: Getting Components, Transform, and Time
+- Tutorial: [Game Objects, Components, and MonoBehavior](../Tutorials/02_GameObjectsComponentsCSharp/)
+- Tutorial: [C# Fundamentals](../Tutorials/03_CSharpFundamentals/)
+- Tutorial: [Getting Components, Transform, and Time](../Tutorials/04_GetComponentAndTransform/)
 
 Due:
 
-- Reccomended: Purchase a hard drive
-- Optional: Install Unity
-- [READ: David Graeber. What's the Point If We Can't Have Fun? from The Baffler](https://scrippscollege.box.com/s/u2h964jcw9h4q38tc4pjg8t0dfso6l6k)
+- Recommended: Purchase an external drive ([Recommendation](https://www.sandisk.com/products/ssd/external-ssd/sandisk-extreme-portable-ssd-v3?sku=SDSSDE70-1T00-G25))
+- Optional: Install Unity on your personal computer
 
 ## Week 2
 
 ### Tuesday 9/8
+
+- Tutorial: [Physics Motion](../Tutorials/05_Physics/)
+- Tutorial: [Camera](../Tutorials/06_Camera/)
+- Exercise: Asteroid Patterns
+- Tutorial: [Randomness](../Tutorials/07_randomness/)
 
 Due:
 
 - Nothing Due Today!
 
 ### Thursday 9/10
+
+- Tutorial: [User Input](../Tutorials/08_UserInput/)
+- Exercise: Rotate Spacecraft
+- Tutorial: [Prefabs, Instantiation, and Destroy](../Tutorials/09_PrefabsInstantiationandDestroy/)
 
 Due:
 

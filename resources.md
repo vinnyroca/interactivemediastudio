@@ -10,14 +10,21 @@ permalink: /resources/
 ### Asteroids
 <ol class="tutorial-list"> {% for Tutorial in site.Tutorials %} <li> <a href="{{ Tutorial.url | relative_url }}">{{ Tutorial.title }}</a> </li> {% endfor %} </ol>
 
-- Prefabs and Instantiations
-- Input System
-- Triggers, Tags, Destroy
-- Lists, Game Logic, and Singelton Pattern
+- Colliders, Triggers, and Tags
+- Game Manger, Singleltons, and Lists
 - Arcades Discuss project
-- Text, Art, Animation, Sound
-- Scenes
-- Building Your Game
+- Complete Asteroid Size/Restart at home.
+
+- Text, Art, Animation, and Sound
+
+- Scenes and Build
+- Proposal Due
+
+- work
+
+- work Intial graybox prototype due.
+
+
 - Introduction to Interactive Media Art
 
 Next Unit
@@ -29,7 +36,7 @@ Next Unit
 ## Lectures
 
 - [What is a Game Engine?](/WhatIsAGameEngine.md)
-- [Arcades and Asteroids](/IntroductionToAsteroids.md)
+- [Arcades and Asteroids](/ArcadesAndAsteroids.md)
 - 
 
 ## Unity Documentation

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schedule.md",
+                "file": "_Tutorials/05_Physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schedule"
+              "title": "05_Physics"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schedule.md",
+                "file": "_Tutorials/05_Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for schedule"
+              "title": "Backlinks for 05_Physics"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schedule.md",
+                "file": "_Tutorials/05_Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from schedule"
+              "title": "Outgoing links from 05_Physics"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "schedule.md",
+                "file": "_Tutorials/05_Physics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of schedule"
+              "title": "Outline of 05_Physics"
             }
           }
         ]
@@ -187,13 +187,18 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "_site/assets/main.css.map",
+    "resources.md",
     "_Tutorials/08_UserInput.md",
-    "_Tutorials/09_PrefabsInstantiationandDestroy.md",
     "_Tutorials/04_GetComponentAndTransform.md",
+    "_Tutorials/07_Randomness.md",
+    "ArcadesAndAsteroids.md",
+    "_site/ArcadesAndAsteroids/index.html",
+    "_site/ArcadesAndAsteroids",
+    "schedule.md",
+    "_site/assets/main.css.map",
+    "_Tutorials/09_PrefabsInstantiationandDestroy.md",
     "_Tutorials/05_Physics.md",
     "_Tutorials/06_Camera.md",
-    "_Tutorials/07_Randomness.md",
     "01_Exercise.md",
     "_site/Attachments/input_7.gif",
     "Attachments/input_7.gif",
@@ -217,17 +222,12 @@
     "_site/Tutorials/Untitled.md",
     "_site/Tutorials/08_UserInput/index.html",
     "_site/Tutorials/08_UserInput",
-    "resources.md",
-    "_site/Tutorials/07_randomness/index.html",
-    "_site/Tutorials/07_randomness",
     "_site/Tutorials/07_Randomness.md",
-    "_site/Tutorials/06_Camera/index.html",
     "_Tutorials/03_CSharpFundamentals.md",
     "_Tutorials/01_IntroductionToUnity.md",
     "_Tutorials/02_GameObjectsComponentsCSharp.md",
     "index.md",
     "Templates/Page Template.md",
-    "schedule.md",
     "_Tutorials/02_UnityInterface.md",
     "_Tutorials/01_GettingStarted.md",
     "_site/02_UnityInterface.md",

@@ -7,7 +7,7 @@ permalink: /Tutorials/07_randomness/
 
 To make the movement direction and speed of our asteroids different every time we play our game, we should give each asteroid a random direction and speed at the start of the game. To do this we can use the `Random` class to generate random numbers.
 
-### Random. Range
+## Random. Range
 
 For our `speed` variable, we can assign a random value by using `Random.Range()`. This function returns a value based on a minimum and maximum value.
 
@@ -21,7 +21,7 @@ void Start()
 }
 ```
 
-### Random.insideUnitCircle
+## Random.insideUnitCircle
 
 To generate a random `Vector2` for our `direction` we can use `Random.insideUnitCircle`. This returns a random `Vector2` with the x and y values ranging from -1 to 1. This function essentially picks a random point within a circle that has a radius of size 1 and then returns the x and y position of those points.
 
