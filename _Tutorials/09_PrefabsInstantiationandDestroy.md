@@ -110,3 +110,49 @@ Playing our game, we notice our projectile moves indefinitely:
 
 ![Animated gif showing a projectile moving in the Unity editor](/Attachments/prefab_5.gif)
 
+## Lifetime Timer and Destroy
+
+ Currently, our projectile continues to move across our screen. Ideally, our projectile would move for a certain amount of time and then disappear. To accomplish this we can combine a timer with Unity's `Destroy()` method ([Unity Reference](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/Object.Destroy.html)).
+
+To create a timer in Unity, we can use a variable that holds the time we have remaining, and then subtract from this time each frame. We can use `Time.deltaTime` to subtract the time from the update loop.
+
+```cs
+public float lifetime = .5f;
+
+void Update()
+{
+    lifetime -= Time.deltaTime; 
+}
+```
+
+Next, we can check when our `lifetime` is less than or equal to 0.
+
+```cs
+void Update()
+{
+    lifetime -= Time.deltaTime; 
+
+    if( lifetime <= 0)
+    {
+
+    }
+}
+```
+
+If it is less than 0, we can use the `Destroy()` method. We can give a number of objects to `Destroy()` including components and game objects. In our case, we want to destroy the entire projectile, so we can give the method `gameObject` which will destroy the game object the component is attached to.
+
+```cs
+void Update()
+{
+    lifetime -= Time.deltaTime; 
+
+    if( lifetime <= 0)
+    {
+            Destroy(gameObject);
+    }
+}
+```
+
+Now the projectile will be destroyed after half a second
+
+![animated gif showing a launched projectile being destroyed after half a second](/Attachments/prefab_6.gif)
