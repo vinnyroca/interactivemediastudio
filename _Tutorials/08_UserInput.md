@@ -41,6 +41,12 @@ Additionally, create a `Spacecraft` script and add it to your Player.
 
 ![Animated gif of user creating a spacecraft script within the unity interface](/Attachments/input_2.gif)
 
+#### Note
+
+In this example our asteroid game objects have been disabled by using the check box next to the game objects name in the Inspector window.
+
+![animated gif showing a user disabling a game object using the check box in the inspector window ](/Attachments/input_10.gif)
+
 ## InputAction
 
 ### Creating InputAction variable
@@ -284,4 +290,133 @@ To correct this, let's increase the **Linear Damping** of our rigid body to 1. T
 
 To make our player wrap around the screen. Add the ScreenWrap component we made to our Player game object.
 
+![animated gif show a user in the unity game engine adding a Screen wrap script to an object named player](/Attachments/input_8.gif)
 ## MoveRotation
+
+To rotate our spacecraft we can use the method `MoveRotation`. Move rotation takes in a `float` for the angle to rotate a rigid body towards.
+
+### Getting Input
+
+We notice in Asteroids that the spacecraft can rotate in either direction. Unlike our Move Action, which moves our player in a single direction, to rotate our spacecraft we need to be able to rotate in both the positive and negative direction. To get a value of either -1 or 1 from our input, we can use a **Postive\Negative Binding** which will allow us to bind one key to 1 and one key to -1.
+
+Lets first begin by creating an `InputAction` variable named `rotateAction`.
+
+```cs
+public InputAction rotateAction
+```
+
+Within the Unity Editor, let's assign this value a **Positive\Negative Binding** and set **Negative** to the **D** key and **Positive** to the **A** key. 
+
+![animated gif showing a user adding the keys A and D to a Rotate Action input action](/Attachments/input_9.gif)
+
+Within our Spacecraft.cs file, let's make sure we enable and disable our `rotateAction`
+
+```cs
+private void OnEnable()
+{
+    moveAction.Enable();
+    rotateAction.Enable();
+}
+
+private void OnDisable()
+{
+    moveAction.Disable();
+    rotateAction.Disable();
+}
+```
+
+### Reading Input
+
+Similar to our Move Action Input Action, to work with our Rotate Action, lets add two additional
+variables to our script.
+
+1. A `float` variable that will store the read value from our rotate action
+2. A `float` value that will use to control the speed our rotation
+
+```cs
+float rotateInput;
+public float rotatePower = 200f;
+```
+
+Let's read the input from our Rotate Action in our `FixedUpdate()` method.
+
+```cs
+void FixedUpdate()
+{
+	rotateInput = rotateAction.ReadValue<float>();
+    moveInput = moveAction.ReadValue<float>();
+    
+
+    Vector2 moveForce = transform.up * moveInput * movePower * Time.fixedDeltaTime;
+    rBody.AddForce(moveForce, ForceMode2D.Impulse);   
+}
+```
+
+### Rotating the spacecraft
+
+To rotate the spacecraft we need to provide the `MoveRotation()` method with the angle we want to rotate towards. To do this, within our `FixedUpdate()` we can take our current rotation and then add our rotation input. Then, we can multiply this value by our `rotatePower` and `Time.fixedDeltaTime`:
+
+```cs
+float newRotation = rBody.rotation + rotateInput * rotatePower * Time.fixedDeltaTime;
+```
+
+We can then provide this `newRotation` to our `MoveRotation()` method:
+
+```cs
+rBody.MoveRotation(newRotation);
+```
+
+Our final Spacecraft.cs file will look like this:
+
+```cs
+using UnityEngine;
+using UnityEngine.InputSystem;
+
+public class Spacecraft : MonoBehaviour
+{
+    public InputAction moveAction;
+    public InputAction rotateAction;
+    float moveInput;
+    float rotateInput;
+    Rigidbody2D rBody;
+    public float movePower = 15f;
+    public float rotatePower = 200f;
+
+    private void OnEnable()
+    {
+        moveAction.Enable();
+        rotateAction.Enable();
+    }
+
+    private void OnDisable()
+    {
+        moveAction.Disable();
+        rotateAction.Disable();
+    }
+    
+    void Start()
+    {
+        rBody = GetComponent<Rigidbody2D>();
+    }
+    
+    void Update()
+    {
+        
+    }
+
+    void FixedUpdate()
+    {
+        moveInput = moveAction.ReadValue<float>();
+        rotateInput = rotateAction.ReadValue<float>();
+
+        Vector2 moveForce = transform.up * moveInput * movePower * Time.fixedDeltaTime;
+        rBody.AddForce(moveForce, ForceMode2D.Impulse);
+
+        float newRotation = rBody.rotation + rotateInput * rotatePower * Time.fixedDeltaTime;
+        rBody.MoveRotation(newRotation);
+    }
+}
+
+```
+
+![animate gif showing a white triangle moving around a black screen](/Attachments/input_7.gif)

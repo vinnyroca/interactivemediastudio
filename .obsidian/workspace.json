@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tutorials/05_Physics.md",
+                "file": "_Tutorials/08_UserInput.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Physics"
+              "title": "08_UserInput"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Tutorials/05_Physics.md",
+                "file": "_Tutorials/08_UserInput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05_Physics"
+              "title": "Backlinks for 08_UserInput"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Tutorials/05_Physics.md",
+                "file": "_Tutorials/08_UserInput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 05_Physics"
+              "title": "Outgoing links from 08_UserInput"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Tutorials/05_Physics.md",
+                "file": "_Tutorials/08_UserInput.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05_Physics"
+              "title": "Outline of 08_UserInput"
             }
           }
         ]
@@ -187,19 +187,26 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "resources.md",
+    "_Tutorials/09_PrefabsInstantiationandDestroy.md",
     "_Tutorials/08_UserInput.md",
+    "01_Exercise.md",
+    "resources.md",
+    "_site/Attachments/input_10.gif",
+    "Attachments/input_10.gif",
+    "index.md",
+    "schedule.md",
+    "_site/Attachments/input_9.gif",
+    "_site/Attachments/input_8.gif",
+    "Attachments/input_9.gif",
+    "Attachments/input_8.gif",
+    "_Tutorials/05_Physics.md",
     "_Tutorials/04_GetComponentAndTransform.md",
     "_Tutorials/07_Randomness.md",
     "ArcadesAndAsteroids.md",
     "_site/ArcadesAndAsteroids/index.html",
     "_site/ArcadesAndAsteroids",
-    "schedule.md",
     "_site/assets/main.css.map",
-    "_Tutorials/09_PrefabsInstantiationandDestroy.md",
-    "_Tutorials/05_Physics.md",
     "_Tutorials/06_Camera.md",
-    "01_Exercise.md",
     "_site/Attachments/input_7.gif",
     "Attachments/input_7.gif",
     "_site/01_Exercise/index.html",
@@ -208,12 +215,6 @@
     "_site/Untitled.md",
     "_site/Attachments/Pasted image 20260805135145.png",
     "Attachments/Pasted image 20260805135145.png",
-    "_site/Attachments/input_6.gif",
-    "Attachments/input_6.gif",
-    "_site/Attachments/input_5.gif",
-    "Attachments/input_5.gif",
-    "_site/Attachments/Pasted image 20260805132715.png",
-    "Attachments/Pasted image 20260805132715.png",
     "_includes/image-lightbox.html",
     "_site/Tutorials/09_PrefabsInstantiationandDestroy/index.html",
     "_site/Tutorials/09_PrefabsInstantiationandDestroy",
@@ -226,12 +227,10 @@
     "_Tutorials/03_CSharpFundamentals.md",
     "_Tutorials/01_IntroductionToUnity.md",
     "_Tutorials/02_GameObjectsComponentsCSharp.md",
-    "index.md",
     "Templates/Page Template.md",
     "_Tutorials/02_UnityInterface.md",
     "_Tutorials/01_GettingStarted.md",
     "_site/02_UnityInterface.md",
-    "_site/01_GettingStarted.md",
-    "WhatIsAGameEngine.md"
+    "_site/01_GettingStarted.md"
   ]
 }
