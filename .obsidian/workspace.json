@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tutorials/08_UserInput.md",
+                "file": "_Tutorials/09_PrefabsInstantiationandDestroy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08_UserInput"
+              "title": "09_PrefabsInstantiationandDestroy"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Tutorials/08_UserInput.md",
+                "file": "_Tutorials/09_PrefabsInstantiationandDestroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 08_UserInput"
+              "title": "Backlinks for 09_PrefabsInstantiationandDestroy"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Tutorials/08_UserInput.md",
+                "file": "_Tutorials/09_PrefabsInstantiationandDestroy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 08_UserInput"
+              "title": "Outgoing links from 09_PrefabsInstantiationandDestroy"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Tutorials/08_UserInput.md",
+                "file": "_Tutorials/09_PrefabsInstantiationandDestroy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 08_UserInput"
+              "title": "Outline of 09_PrefabsInstantiationandDestroy"
             }
           }
         ]
@@ -187,18 +187,24 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
+    "_site/Attachments/prefab_5.gif",
+    "Attachments/prefab_5.gif",
+    "_site/Attachments/Pasted image 20260806123313.png",
+    "Attachments/Pasted image 20260806123313.png",
+    "_Tutorials/03_CSharpFundamentals.md",
     "_Tutorials/09_PrefabsInstantiationandDestroy.md",
+    "_site/Attachments/prefab_4.gif",
+    "_site/Attachments/prefab_3.gif",
+    "_site/Attachments/prefab_2.gif",
+    "_site/Attachments/prefab_1.gif",
+    "Attachments/prefab_4.gif",
+    "Attachments/prefab_3.gif",
+    "Attachments/prefab_2.gif",
     "_Tutorials/08_UserInput.md",
     "01_Exercise.md",
     "resources.md",
-    "_site/Attachments/input_10.gif",
-    "Attachments/input_10.gif",
     "index.md",
     "schedule.md",
-    "_site/Attachments/input_9.gif",
-    "_site/Attachments/input_8.gif",
-    "Attachments/input_9.gif",
-    "Attachments/input_8.gif",
     "_Tutorials/05_Physics.md",
     "_Tutorials/04_GetComponentAndTransform.md",
     "_Tutorials/07_Randomness.md",
@@ -207,14 +213,10 @@
     "_site/ArcadesAndAsteroids",
     "_site/assets/main.css.map",
     "_Tutorials/06_Camera.md",
-    "_site/Attachments/input_7.gif",
-    "Attachments/input_7.gif",
     "_site/01_Exercise/index.html",
     "_site/01_Exercise",
     "_site/01_Exercise.md",
     "_site/Untitled.md",
-    "_site/Attachments/Pasted image 20260805135145.png",
-    "Attachments/Pasted image 20260805135145.png",
     "_includes/image-lightbox.html",
     "_site/Tutorials/09_PrefabsInstantiationandDestroy/index.html",
     "_site/Tutorials/09_PrefabsInstantiationandDestroy",
@@ -224,7 +226,6 @@
     "_site/Tutorials/08_UserInput/index.html",
     "_site/Tutorials/08_UserInput",
     "_site/Tutorials/07_Randomness.md",
-    "_Tutorials/03_CSharpFundamentals.md",
     "_Tutorials/01_IntroductionToUnity.md",
     "_Tutorials/02_GameObjectsComponentsCSharp.md",
     "Templates/Page Template.md",

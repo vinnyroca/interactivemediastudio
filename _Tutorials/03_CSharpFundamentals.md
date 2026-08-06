@@ -9,6 +9,42 @@ permalink: /Tutorials/03_CSharpFundamentals/
 
 Scripts that run within the Unity Editor are written in the programming language C# (pronounced C Sharp). C# is an object-oriented programming language and makes use of classes.
 
+## C# Variables
+
+To declare a variable in C# we need to specify its **type**, a **variable name**, optionally assign it a **value**:
+
+```cs
+type variableName = value;
+```
+
+Some C# variable types include:
+
+`float` (decimal number) (Unity exclusively uses `float` values for decimals)
+
+```cs
+float maxValue;
+float minValue = -1.9;
+```
+
+`bool` (true or false):
+
+```cs
+bool isWalking = false;
+bool isIdle = true;
+```
+
+`int` (whole numbers):
+
+```cs
+int health = 100;
+int money = -1000;
+```
+
+`string` (text)
+
+```cs
+string myName = "Vinny";
+```
 ## Classes
 
 Classes are software entities that encapsulate date and other functions.

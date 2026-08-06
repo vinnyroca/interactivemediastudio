@@ -7,7 +7,7 @@ permalink: /Tutorials/08_UserInput/
 
 In this tutorial we will learn about using Unity's Input System to get user input to move a spacecraft.
 
-### Input System
+## Input System
 
 [Unity Reference](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.20/manual/index.html)
 
