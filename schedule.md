@@ -3,6 +3,7 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
+<style> h2{text-transform: uppercase; !important;} h3{text-decoration: underline dotted;}</style>
 # Schedule
 
 *Please note that this is a live schedule and is ever evolving as the course (/world) changes. Please check back frequently for due dates of assignments and course proceedings.*
