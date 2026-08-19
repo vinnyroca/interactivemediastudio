@@ -26,31 +26,28 @@ Interactive Media Studio is a studio-based course for advanced Media Studies stu
 
 ## Course Outline
 
-The goal of this course is to address three key questions:
+The goal of this course is to explore the key question: How does technological and cultural context effect the production of interactive media art?
 
-1. What is the history of techniques used to produce interactive media art?
-2. How does technological and cultural context effect the production of interactive media art?
-3. How do contemporary media artists produce interactive media works?
+To address this question, this course will focus on three units:
 
-To address these questions, this course will focus on three units:
+| Unit | Focus          | Technology   | Tutorial        | Project            |
+| ---- | -------------- | ------------ | --------------- | ------------------ |
+| 1    | Public Games   | Arcades      | Space shooter   | Arcades Everywhere |
+| 2    | Multimedia Art | CD Rom       | Point and Click | Zine Island        |
+| 3    | Game Artists   | Game engines | One on ones     | New Engines        |
 
-| Unit | Focus          | Technology          | Tutorial        | Project          |
-| ---- | -------------- | ------------------- | --------------- | ---------------- |
-| 1    | The Arcade     | Integrated circuits | Space shooter   | Public Game      |
-| 2    | Multimedia Art | CD Rom              | Point and Click | Interactive Zine |
-| 3    | Game Artists   | Game engines        | One on ones     | Personal Game    |
-
-During each unit we will focus on a particular historical moment in the history of interactive media. To explore the historical time frame associated with each unit we will engage with media and readings. The first two units will explore the embeddedness of these histories within the frameworks of the Unity game engine. The final unit will explore the contemporary approaches to interactive media by artists, designers and game makers. 
+During each unit we will focus on a particular historical moment in the history of interactive media. To explore the historical time frame associated with each unit we will engage with media and readings. The final unit will explore the contemporary approaches to interactive media by artists, designers and game makers. 
 
 ### Unit 1: Public Games
 **Week 1-4:** Tutorial, Exercise, Readings  
-**Week 5-6:** Public Game
+**Week 5-6:** Arcades Everywhere Project
+
 ### Unit 2: Multimedia Art
 **Week 7-9:** Tutorial, Exercise, Readings  
-**Week 10-11:** Interactive Zine
+**Week 10-12:** Interactive Zine
 
 ### Unit 3: Contemporary Approaches
-**Week 12-15:** Personal Game
+**Week 13-15:** Personal Game
 
 ## Learning Outcomes and Course Objectives 
 
@@ -66,12 +63,11 @@ The objective of this course is for advanced students to develop technical m
 
 | %    | Course Item          |
 | ---- | -------------------- |
-| 27.5 | Final Game           |
-| 22.5 | Arcade Game          |
-| 22.5 | Point and Click Game |
+| 30 | Final Game           |
+| 25 | Arcade Game          |
+| 25 | Point and Click Game |
 | 10   | Participation        |
 | 10   | Attendance           |
-| 7.5  | Responses            |
 
 |%|Letter Grade|
 |---|---|
@@ -88,11 +84,6 @@ The objective of this course is for advanced students to develop technical m
 |60-62|D-|
 |0-59|F|
 
-## Class Website
-
-This class website contains the course syllabus, schedule, assignment descriptions as well as written lecture notes and resources. To move our learning away from content management solutions and quantified grade management, this website has been particularly crafted for this class and I welcome any feedback on how the design or content can further facilitate learning.
-
-For those interested, this website is written in markdown using [Obsidian](https://obsidian.md/) with slightly off-beat syntax to get links working. [Jekyll](https://jekyllrb.com/) is used to compile the markdown into a static site, and custom layout and CSS is used to build on the [Minima](https://github.com/jekyll/minima) theme. The color scheme of this site is based on [Flexoki](https://stephango.com/flexoki). The website exist as a repository on [GitHub](https://github.com/) and is hosted using GitHub Pages.  Gifs are recorded using [LICEcap](https://www.cockos.com/licecap/). The typeface if Funnel Sans by [Kristian Möller](https://www.ktkm.se/)
 ## Grading Criteria
 
 ### Projects and Late Work
@@ -108,6 +99,12 @@ Playing, understanding, and designing interactive media in a collaborative effor
 ### Attendance
 
 Students are expected to be prepared for class by the start of our class meeting time. Students are allowed one free unexcused absence during the semester. Students may not use their one unexcused absence during critique, proposal or playtesting sessions. Additional absences will only be excused for documented illness, emergencies, or religious observances. Students who arrive to the class after the class meeting time will be marked as tardy. Three tardies will be considered an unexcused absence. Each unexcused absence will decrease the attendance grade by 20%. 5 or more unexcused absences will result in a zero attendance grade. Each unexcused absence beyond 5 will result in a 20% decrease in the student’s participation grade.
+
+## Class Website
+
+This class website contains the course syllabus, schedule, assignment descriptions as well as written lecture notes and resources. To move our learning away from content management solutions and quantified grade management, this website has been particularly crafted for this class and I welcome any feedback on how the design or content can further facilitate learning.
+
+For those interested, this website is written in markdown using [Obsidian](https://obsidian.md/) with slightly off-beat syntax to get links working. [Jekyll](https://jekyllrb.com/) is used to compile the markdown into a static site, and custom layout and CSS is used to build on the [Minima](https://github.com/jekyll/minima) theme. The color scheme of this site is based on [Flexoki](https://stephango.com/flexoki). The website exist as a repository on [GitHub](https://github.com/) and is hosted using GitHub Pages.  Gifs are recorded using [LICEcap](https://www.cockos.com/licecap/). The typeface if Funnel Sans by [Kristian Möller](https://www.ktkm.se/)
 
 ## Statement of Inclusion
 

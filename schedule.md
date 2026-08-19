@@ -59,11 +59,18 @@ Due:
 
 ### Tuesday 9/15
 
+- Tutorial: Game Manger, Singletons, and Lists
+- Assign: Public Project
+
 Due:
 
 - Nothing Due Today!
 
 ### Thursday 9/17
+
+- Tutorial: Art
+- Tutorial: Animation
+
 
 Due:
 
@@ -73,11 +80,16 @@ Due:
 
 ### Tuesday 9/22
 
+- Tutorial: Sound
+
 Due:
 
 - Nothing Due Today!
 
 ### Thursday 9/24
+
+- Tutorial: Scenes
+- Studio Time:
 
 Due:
 
@@ -86,6 +98,9 @@ Due:
 ## Week 5
 
 ### Tuesday 9/29
+
+- Tutorial: Building
+- Studio Time:
 
 Due:
 

@@ -22,7 +22,7 @@
 
 title: Interactive Media Studio
 email: vroca@scrippscollege.edu
-copyright: © 2025 Vincent Roca. Licensed under MIT License.
+copyright: © 2026 Vincent Roca. Licensed under MIT License.
 description: >- # this means to ignore newlines until "baseurl:"
   Course site Interactive Media Studio class.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,7 +32,7 @@ header_pages:
 - index.md
 - schedule.md
 - resources.md
-- assignments.md
+- projects.md
 
 collections:
   Tutorials:

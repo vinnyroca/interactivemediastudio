@@ -10,15 +10,16 @@ permalink: /resources/
 ### Asteroids
 <ol class="tutorial-list"> {% for Tutorial in site.Tutorials %} <li> <a href="{{ Tutorial.url | relative_url }}">{{ Tutorial.title }}</a> </li> {% endfor %} </ol>
 
-- Colliders, Triggers, and Tags
-- Game Manger, Singleltons, and Lists
+- Game Manger, Lists, Singeltons
 - Arcades Discuss project
+
 - Complete Asteroid Size/Restart at home.
+- Text at Home?
 
-- Text, Art, Animation, and Sound
-
-- Scenes and Build
-- Proposal Due
+- Art and Animation
+- Sound
+- Scenes
+- Building
 
 - work
 
@@ -32,6 +33,8 @@ Next Unit
 - Ink and adding in dialog
 - Inventory, scriptable objects
 - Statemachine enumerations
+
+Next unit needs to to be a point and click adventure game in which you can either move around and click on objects, or test other mechanics. Should probably play some point and click adventure games to figure out which one would be best. Next to have state machines and inventory interactions.
 
 ## Lectures
 
