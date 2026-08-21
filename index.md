@@ -22,7 +22,7 @@ By appointment on Tuesday & Thursday 4:00 - 5:00
 
 ## Course Description
 
-Interactive Media Studio is a studio-based course for advanced Media Studies students with prior course work in digital art and programming. Students will additionally be able to make use of prior course work in 3D digital design, video art, and game design when producing projects. The course is focused on teaching the fundamentals of interactive media design using the Unity game engine. Although the class will largely be focused on the history, theory and production of commercial and art games, students are not require to produce *video games* for their projects. This course encourages experimentation with interactive media and each student will work individually with the instructor to develop their projects.
+Interactive Media Studio is an advanced studio-based course for students with prior course work in digital art and programming. Students will additionally be able to make use of prior course work in 3D digital design, video art, and game design when producing projects. The course is focused on teaching the fundamentals of interactive media design using the Unity game engine. Although the class will largely be focused on the history, theory and production of commercial and art games, students are not require to produce *video games* for their projects. This course encourages experimentation with interactive media and each student will work individually with the instructor to develop their projects.
 
 ## Course Outline
 

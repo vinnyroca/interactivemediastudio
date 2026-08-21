@@ -55,6 +55,7 @@ Beyond the Bezel: Coin-Op Arcade Video Game Cabinets as Design History
 Against Flow: Video Games and the Flowing Subject
 Before the Crash: Early Video Game History_(2012)
 
+Good Clean Fun
 Coin Operated Americans
 The Agony and the Exidy: A History of Video Game Violence and the Legacy of _Death Race_
 Feeding the Iron Pimps: The Golden Age of Arcades in Black America

@@ -16,7 +16,7 @@ permalink: /schedule/
 - Lecture: What is a Game Engine?
 - Tutorial: [Introduction to Unity](../Tutorials/01_IntroductionToUnity/)
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -27,7 +27,7 @@ Due:
 - Tutorial: [C# Fundamentals](../Tutorials/03_CSharpFundamentals/)
 - Tutorial: [Getting Components, Transform, and Time](../Tutorials/04_GetComponentAndTransform/)
 
-Due:
+#### Due:
 
 - Recommended: Purchase an external drive ([Recommendation](https://www.sandisk.com/products/ssd/external-ssd/sandisk-extreme-portable-ssd-v3?sku=SDSSDE70-1T00-G25))
 - Optional: Install Unity on your personal computer
@@ -41,7 +41,7 @@ Due:
 - Exercise: Asteroid Patterns
 - Tutorial: [Randomness](../Tutorials/07_randomness/)
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -51,18 +51,19 @@ Due:
 - Exercise: Rotate Spacecraft
 - Tutorial: [Prefabs, Instantiation, and Destroy](../Tutorials/09_PrefabsInstantiationandDestroy/)
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
-## Week 3
+## Week 3 
 
 ### Tuesday 9/15
 
-- Tutorial: Game Manger, Singletons, and Lists
-- Assign: Public Project
+- Tutorial: Game Manger and Singleton
+- Tutorial: Lists
+- Assign: Arcades Everywhere
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -71,10 +72,13 @@ Due:
 - Tutorial: Art
 - Tutorial: Animation
 
-
-Due:
+#### Due:
 
 - Nothing Due Today!
+
+<h3 style="color: rgb(218, 112, 44)">Friday 9/18: Field Trip</h3>
+
+- Meet at Lost Levels Arcade: Time TBD
 
 ## Week 4
 
@@ -82,16 +86,16 @@ Due:
 
 - Tutorial: Sound
 
-Due:
+#### Due:
 
-- Nothing Due Today!
+- Project: Arcades Everywhere Proposal
 
 ### Thursday 9/24
 
 - Tutorial: Scenes
-- Studio Time:
+- Studio Time: Arcades Everywhere
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -100,15 +104,15 @@ Due:
 ### Tuesday 9/29
 
 - Tutorial: Building
-- Studio Time:
+- Studio Time: Arcades Everywhere
 
-Due:
+#### Due:
 
-- Nothing Due Today!
+- Project: Arcades Everywhere Prototype
 
 ### Thursday 10/1
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -116,27 +120,27 @@ Due:
 
 ### Tuesday 10/6
 
-Due:
+#### Due:
 
-- Nothing Due Today!
+- Project: Arcades Everywhere Art Pass
 
 ### Thursday 10/8
 
-Due:
+#### Due:
 
-- Nothing Due Today!
+- Project: Arcades Everywhere
 
 ## Week 7
 
 ### Tuesday 10/13
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
 ### Thursday 10/15
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -144,13 +148,13 @@ Due:
 
 ### Tuesday 10/20
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
 ### Thursday 10/22
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -158,13 +162,13 @@ Due:
 
 ### Tuesday 10/27
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
 ### Thursday 10/29
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -172,13 +176,13 @@ Due:
 
 ### Tuesday 11/3
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
 ### Thursday 11/5
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -186,13 +190,13 @@ Due:
 
 ### Tuesday 11/10
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
 ### Thursday 11/12
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -200,13 +204,13 @@ Due:
 
 ### Tuesday 11/17
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
 ### Thursday 11/19
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -214,13 +218,13 @@ Due:
 
 ### Tuesday 11/24
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
 ### Thursday 11/26
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -228,13 +232,13 @@ Due:
 
 ### Tuesday 12/1
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
 ### Thursday 12/3
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 
@@ -242,7 +246,7 @@ Due:
 
 ### Tuesday 12/8
 
-Due:
+#### Due:
 
 - Nothing Due Today!
 

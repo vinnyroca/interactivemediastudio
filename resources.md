@@ -13,10 +13,11 @@ permalink: /resources/
 - Game Manger, Lists, Singeltons
 - Arcades Discuss project
 
-- Complete Asteroid Size/Restart at home.
-- Text at Home?
-
+- Complete Asteroid Size/Restart at home. Player Death Player Life at Home
 - Art and Animation
+
+- weekend highscore
+
 - Sound
 - Scenes
 - Building
@@ -95,3 +96,88 @@ Next unit needs to to be a point and click adventure game in which you can eithe
 
 
 Point and click with dialogue using ink, raycasting, 
+
+Artists
+
+- Ian Cheng
+- Alice Bucknell
+- Julián Palacios Gechtman
+- Theo Triantafyllidis
+- Danielle Brathwaite-Shirley
+- Lawrence Lek
+- Sagan Yee
+- Sahej Rahal
+- Jakob Kudsk Steensen
+- Lu Yang
+- Jacolby Satterwhite
+- Jeremy Couillard
+- Cassie McQuater
+- Everest Pipkin
+- Loren Schmidt
+- Angela Washko
+- Nina Freeman
+- David OReilly
+- Bennet Foddy
+- Michaël Samyn
+- Brody Condon
+- Anne-Marie Schleiner
+- Natalie Bookchin
+- Janne Schimmel
+- Brent Watanabe
+- Studio Playfool
+- Tomo Kihara
+- Chia Amisola
+- Mark Essen
+- Nick Crockett
+- Patrick LeMieux
+- Marie Foulston
+- Eddo Stern
+- Pippin Barr
+- Porpentine
+- Merritt Kopas
+- Robert Yang
+- Mattie Brice
+- Anna Anthropy
+- Ed Atkins
+- Micha Cárdenas
+- Molleindustria
+- JODI
+- Zach Gage
+- Tale of Tales / Auriea Harvey & Michaël Samyn
+
+- Mattie Brice
+- Pippin Barr
+- Natalie Bookchin
+- Micha Cárdenas
+- Brody Condon
+- Jeremy Couillard
+- Nick Crockett
+- Ed Atkins
+- Anna Anthropy
+- Alice Bucknell
+- Danielle Brathwaite-Shirley
+- Bennet Foddy
+- Nina Freeman
+- Zach Gage
+- Ian Cheng
+- Lu Yang
+- Frank Lantz
+- Lawrence Lek
+- Patrick LeMieux
+- Michaël Samyn
+- Janne Schimmel
+- Marie Foulston
+- Everest Pipkin
+- Porpentine
+- Sahej Rahal
+- Mark Essen
+- David OReilly
+- Jacolby Satterwhite
+- Jakob Kudsk Steensen
+- Theo Triantafyllidis
+- Angela Washko
+- Brent Watanabe
+- Sagan Yee
+- Molleindustria
+- JODI
+- Tale of Tales / Auriea Harvey & Michaël Samyn
