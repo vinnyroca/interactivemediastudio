@@ -97,87 +97,63 @@ Next unit needs to to be a point and click adventure game in which you can eithe
 
 Point and click with dialogue using ink, raycasting, 
 
-Artists
+## Artists/Game Designers
 
-- Ian Cheng
-- Alice Bucknell
-- Julián Palacios Gechtman
-- Theo Triantafyllidis
-- Danielle Brathwaite-Shirley
-- Lawrence Lek
-- Sagan Yee
-- Sahej Rahal
-- Jakob Kudsk Steensen
-- Lu Yang
-- Jacolby Satterwhite
-- Jeremy Couillard
-- Cassie McQuater
-- Everest Pipkin
-- Loren Schmidt
-- Angela Washko
-- Nina Freeman
-- David OReilly
-- Bennet Foddy
-- Michaël Samyn
-- Brody Condon
-- Anne-Marie Schleiner
-- Natalie Bookchin
-- Janne Schimmel
-- Brent Watanabe
-- Studio Playfool
-- Tomo Kihara
 - Chia Amisola
-- Mark Essen
-- Nick Crockett
-- Patrick LeMieux
-- Marie Foulston
-- Eddo Stern
-- Pippin Barr
-- Porpentine
-- Merritt Kopas
-- Robert Yang
-- Mattie Brice
 - Anna Anthropy
 - Ed Atkins
-- Micha Cárdenas
-- Molleindustria
-- JODI
-- Zach Gage
-- Tale of Tales / Auriea Harvey & Michaël Samyn
-
-- Mattie Brice
 - Pippin Barr
+- Jonathan Blow
 - Natalie Bookchin
+- Danielle Brathwaite-Shirley
+- Mattie Brice
+- Michael Brough
+- Alice Bucknell
 - Micha Cárdenas
+- Ian Cheng
+- Brendan Chung
 - Brody Condon
+- Cosmo D
 - Jeremy Couillard
 - Nick Crockett
-- Ed Atkins
-- Anna Anthropy
-- Alice Bucknell
-- Danielle Brathwaite-Shirley
+- Kevin Du
+- Ben Esposito
+- Mark Essen
 - Bennet Foddy
+- Marie Foulston
+- Nina Freeman
 - Nina Freeman
 - Zach Gage
-- Ian Cheng
-- Lu Yang
-- Frank Lantz
-- Lawrence Lek
-- Patrick LeMieux
-- Michaël Samyn
-- Janne Schimmel
-- Marie Foulston
-- Everest Pipkin
-- Porpentine
-- Sahej Rahal
-- Mark Essen
-- David OReilly
-- Jacolby Satterwhite
+- Gurn Group
+- Nicole He
+- Jenny Jiao Hsia
+- JODI
+- Merritt Kopas
 - Jakob Kudsk Steensen
+- Nathalie Lawhead
+- Gil Lawson
+- Patrick LeMieux
+- Lawrence Lek
+- Jackie Liu
+- Christine Love
+- Gareth Damian Martin
+- Cassie McQuater
+- Molleindustria
+- Moochi
+- David OReilly
+- Julián Palacios Gechtman
+- Everest Pipkin
+- Lucas Pope
+- Porpentine Charity Heartscape
+- Sahej Rahal
+- Janne Schimmel
+- Anne-Marie Schleiner
+- Loren Schmidt
+- Eddo Stern
+- Tale of Tales / Auriea Harvey & Michaël Samyn
 - Theo Triantafyllidis
 - Angela Washko
 - Brent Watanabe
+- Lu Yang
+- Robert Yang
 - Sagan Yee
-- Molleindustria
-- JODI
-- Tale of Tales / Auriea Harvey & Michaël Samyn

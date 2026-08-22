@@ -45,6 +45,26 @@ int money = -1000;
 ```cs
 string myName = "Vinny";
 ```
+
+## Comments
+
+We can also add comments to our C# scripts. Comments are lines written by the programmer for themselves or other programmers to read. These lines of code are ignored by the computer when compiling, or processing, our code.
+
+Comments can be made either using `//`
+
+```cs
+//This is a short comment
+```
+
+or, for longer comments, by using `/*` at the beginning of our comment and `*/` at the end of our comment 
+
+```cs
+/* This is a
+longer comment
+that spans
+multiple lines
+of code */
+```
 ## Classes
 
 Classes are software entities that encapsulate date and other functions.

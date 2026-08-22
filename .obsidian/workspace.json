@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "index"
             }
           }
         ]
@@ -189,19 +189,25 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
+    "resources.md",
+    "schedule.md",
+    "_Tutorials/10_colliderstriggerstags.md",
+    "_Tutorials/11_gamemanager.md",
+    "_Tutorials/12_lists.md",
+    "_Tutorials/06_Camera.md",
+    "_site/Attachments/list_2.gif",
+    "Attachments/list_2.gif",
+    "_site/Attachments/list_1.gif",
+    "Attachments/list_1.gif",
+    "_Tutorials/03_CSharpFundamentals.md",
     "arcade.md",
     "arcade 1.md",
     "_site/arcade 1.md",
     "projects.md",
     "ArcadesAndAsteroids.md",
     "_Tutorials/01_IntroductionToUnity.md",
-    "_Tutorials/03_CSharpFundamentals.md",
     "_Tutorials/02_GameObjectsComponentsCSharp.md",
-    "schedule.md",
     "racing.md",
-    "resources.md",
-    "_Tutorials/11_Game Manger and Singletons.md",
-    "_Tutorials/12_lists.md",
     "_site/Tutorials/12_lists/index.html",
     "_site/Tutorials/12_lists",
     "_site/Tutorials/12_gamemanager/index.html",
@@ -209,7 +215,6 @@
     "_site/Tutorials/11_lists.md",
     "_site/Tutorials/11_Lists.md",
     "_site/Tutorials/Untitled.md",
-    "_Tutorials/10_colliderstriggerstags.md",
     "_site/Attachments/Pasted image 20260821011228.png",
     "Attachments/Pasted image 20260821011228.png",
     "index.md",
@@ -217,10 +222,6 @@
     "Attachments/Pasted image 20260820133120.png",
     "_site/Attachments/manager_4.gif",
     "Attachments/manager_4.gif",
-    "_site/Attachments/manager_3.gif",
-    "Attachments/manager_3.gif",
-    "_site/Attachments/manager_2.gif",
-    "Attachments/manager_2.gif",
     "_site/arcade/index.html",
     "_site/arcade",
     "_site/public/index.html",
@@ -233,7 +234,6 @@
     "_Tutorials/09_PrefabsInstantiationandDestroy.md",
     "00_procedural_experiments.md",
     "_Tutorials/08_UserInput.md",
-    "01_Exercise.md",
-    "_Tutorials/05_Physics.md"
+    "01_Exercise.md"
   ]
 }

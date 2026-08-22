@@ -13,7 +13,6 @@ permalink: /schedule/
 
 - Introduction(s)
 - Course Overview
-- Lecture: What is a Game Engine?
 - Tutorial: [Introduction to Unity](../Tutorials/01_IntroductionToUnity/)
 
 #### Due:
@@ -23,9 +22,9 @@ permalink: /schedule/
 ### Thursday 9/3
 
 - Lecture: Arcades and Asteroids
-- Tutorial: [Game Objects, Components, and MonoBehavior](../Tutorials/02_GameObjectsComponentsCSharp/)
-- Tutorial: [C# Fundamentals](../Tutorials/03_CSharpFundamentals/)
-- Tutorial: [Getting Components, Transform, and Time](../Tutorials/04_GetComponentAndTransform/)
+- Tutorial: [Game Objects, Components, and MonoBehavior](/Tutorials/02_GameObjectsComponentsCSharp/)
+- Tutorial: [C# Fundamentals](/Tutorials/03_CSharpFundamentals/)
+- Tutorial: [Getting Components, Transform, and Time](/Tutorials/04_GetComponentAndTransform/)
 
 #### Due:
 
@@ -36,10 +35,10 @@ permalink: /schedule/
 
 ### Tuesday 9/8
 
-- Tutorial: [Physics Motion](../Tutorials/05_Physics/)
-- Tutorial: [Camera](../Tutorials/06_Camera/)
+- Tutorial: [Physics Motion](/Tutorials/05_Physics/)
+- Tutorial: [Camera](/Tutorials/06_Camera/)
 - Exercise: Asteroid Patterns
-- Tutorial: [Randomness](../Tutorials/07_randomness/)
+- Tutorial: [Randomness](/Tutorials/07_randomness/)
 
 #### Due:
 
@@ -47,9 +46,9 @@ permalink: /schedule/
 
 ### Thursday 9/10
 
-- Tutorial: [User Input](../Tutorials/08_UserInput/)
-- Exercise: Rotate Spacecraft
-- Tutorial: [Prefabs, Instantiation, and Destroy](../Tutorials/09_PrefabsInstantiationandDestroy/)
+- Tutorial: [User Input](/Tutorials/08_UserInput/)
+- Tutorial: [Prefabs, Instantiation, and Destroy](/Tutorials/09_PrefabsInstantiationandDestroy/)
+- Tutorial: [Colliders, Triggers, and Tags](/Tutorials/10_colliderstriggerstags)
 
 #### Due:
 
@@ -59,7 +58,7 @@ permalink: /schedule/
 
 ### Tuesday 9/15
 
-- Tutorial: Game Manger and Singleton
+- Tutorial: [Game Manger and Singleton](/Tutorials/11_gamemanager)
 - Tutorial: Lists
 - Assign: Arcades Everywhere
 

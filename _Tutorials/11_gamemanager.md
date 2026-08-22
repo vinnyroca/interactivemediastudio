@@ -14,7 +14,7 @@ Currently our project exists as an interesting asteroid destroyer prototype, but
 
 [Unity Design Patterns](https://www.unitydesignpatterns.com/) (Although this site has all of the hallmarks of being vibe coded, the information for each pattern is a great introduction.)
 
-A programming pattern is a way of structuring code to solve a software design problem. Throughout this course we will be introduced to to different programming patterns commonly used within games. The easiest way to think about programming patterns is as tools at your disposal to structure your code. There is never one solution for every project, and often times projects might include multiple programming patterns. Mostly likely, your project will consists of a collection of design patterns and custom systems. Its important to note that you don't need to know what programming pattern you will use when starting a project. Often times we restructure our projects to be more simple and adaptable after our initial prototypes. This process in called refactoring.
+A programming pattern is a way of structuring code to solve a software design problem. The easiest way to think about programming patterns is as tools at your disposal to structure your code. There is never one solution for every project, and often times projects might include multiple programming patterns. Most likely, your project will consists of a collection of design patterns and custom systems. Its important to note that you don't need to know what programming pattern you will use when starting a project. Often times we restructure our projects to make them simpler and more adaptable after our initial prototypes. This process in called [refactoring](https://en.wikipedia.org/wiki/Code_refactoring).
 
 While perhaps taken over by the silicon valley ethos of "move fast and break things," designing to get things working and the reworking projects to be easier to understand and more scalable can be found across many types of media production. We can think of it as a process of initially sketching and idea, and then coming back to refine the details. This will become more relevant when you being working on your own projects and when we discuss your design approaches. For now, we are going to focus on a single pattern, the singleton pattern.
 
@@ -38,7 +38,7 @@ The singleton pattern allows us to create a script that can only exist as one in
 
 Begin by creating a new MonoBehavior script called `GameManger`.
 
-Within the GameManger script we can begin by add the variable line:
+Within the GameManger script we can begin by adding the variable line:
 
 ```cs
 public static GameManager instance;
@@ -48,9 +48,9 @@ The important thing to note is the keyword `static`. Unlike other variables that
 
 When we create our `public static GameManager instance` variable, we are creating a variable that we can call from any script by using the code `GameManger.instance`. We don't need to know which instance we are calling, we can instead just call the whole class.
 
-But what exactly are we calling? Since our `instance` variable is of type `GameManger`, we are calling a GameManger instance. Currently this is unassigned. We want to assign this variable a value of this script, or another words, the instance of GameManger script within our scene.
+But what exactly are we calling? Since our `instance` variable is of type `GameManger`, we are calling a GameManger instance. Currently this is unassigned. We want to assign this variable a value of this script, or in other words, the instance of GameManger script within our scene.
 
-To this, let's first create a new function called `Awake()`. This function is called as soon as are game starts.
+To do this, let's first create a new function called `Awake()`. This function is called as soon as are game starts.
 
 ```cs
 public class GameManager : MonoBehaviour
@@ -63,11 +63,11 @@ public class GameManager : MonoBehaviour
     }
 ```
 
-Within this a wake function, we can to set `Instance` to be equal to this script within our scene. To do this, we can use the keyword `this`. `this` just equals *this* script. Now, if we were to place this script within our scene, anytime we call `GameManger.instance` we can get access to the GameManger script within our scene.
+Within this a wake function, we can to set `Instance` to be equal to this script within our scene. To do this, we can use the keyword `this`. `this` just equals *this* script. Now, if we were to place this script within our scene, anytime we call `GameManger.instance`, in any script, we can get access to the GameManger script within our scene.
 
 ### Limiting Instances
 
-As you might be able to imagine, this code could create some serious problems down the line. As a thought experiment, imagine if we had two different GameManger scripts within our Unity scene, which one would `GameManager.instance` call? The answer would be rather unpredictable, it would basically matter on which instance was called most recently.  Essentially, we would have an unreliable system.
+As you might be able to imagine, this code could create some serious problems down the line. As a thought experiment, imagine if we had two different GameManger scripts within our Unity scene, which one would `GameManager.instance` call? The answer would be rather unpredictable and it would basically matter on which instance was called most recently.  Essentially, we would have an unreliable system.
 
 As a check, we need to implement some code that will ensure that only one instance of our GameManger exists within our scene at any given point. This is the second part of the singleton game pattern.
 
@@ -106,7 +106,7 @@ public class GameManager : MonoBehaviour
     }
 ```
 
-As a last step, we what to make sure that we are not continuously destroying the first instance we create. To do this, before destroying an instance, well make sure that if it does exist its not equal to the current value of instance. Within our if statement, we can use the line:
+As a last step, we what to make sure that we are not continuously destroying the first instance we create. To do this, before destroying an instance, well make sure that if it does exist, it is not equal to the current value of instance. Within our if statement, we can use the line:
 
 ```cs
 instance != this
@@ -182,7 +182,7 @@ Begin by creating an **Empty Object** by navigating to **GameObject > Empty** an
 
 ![animated gif showing a user creating an empty game object](/Attachments/manager_2.gif)
 
-Next, we can our GameManger script to our Game Manger object:
+Next, we can add our GameManger script to our Game Manger object:
 
 ![Animated gif showing a user adding a GameManger script to a game object](/Attachments/manager_3.gif)
 
@@ -190,17 +190,18 @@ Finally, we can drag our Asteroid and Player prefab into the variable slots on o
 
 ![Animated gif showing a user drag an asteroid and player prefab in to a GameManger component](/Attachments/manager_4.gif)
 
-## Start Game
-
-Now that we have access to our Player and Asteroid prefabs, let's write some logic so that when start the game our Player and Asteroid appear within our scene.
 
 ## Custom Methods
+
+Now that we have access to our Player and Asteroid prefabs, let's write some logic so that when we start the game our Player and Asteroid appear within our scene.
 
 Let's start by creating three custom methods within our GameManger.cs file. These methods will handle spawning our asteroids, our player and starting our game. Let's name these functions
 
 - StartGame()`
 - `SpawnPlayer()`
 - `SpawnAsteroids()`
+
+Remember to add void before the names of your methods. This indicates that are methods are not returning a value:
 
 ```cs
     void SpawnPlayer()
@@ -230,6 +231,9 @@ Within our `StartGame()` methods, let's call `SpawnAsteroids()` and `SpawnPlayer
         SpawnAsteroids();
     }
 ```
+
+This way when our game starts we will spawn our player and our asteroids.
+## Spawn Player
 
 Within `SpawnPlayer()`, we can instantiate our player. We can want to place our player in the center of our screen, so let's provide our `Instantiate()` method with a value of `Vector3.zero`. When we provide a position variable, we also need to provide a rotation variable. We want our player to keep the neutral up rotation it has in our prefab. To do this, we can provide our instantiate method with the value `Quaternion.identity`:
 
@@ -298,13 +302,13 @@ public class GameManager : MonoBehaviour
 
 ## Spawning Asteroids
 
-Spawning Asteroids is more complicated than spawning our player. We need to add in additionally logic to spawn a number of asteroids. We can begin by creating a variable that holds the number of asteroids to spawn and set it to an initial value of 5:
+Spawning Asteroids is more complicated than spawning our player. We need to add in additional logic to spawn a number of asteroids. We can begin by creating a variable that holds the number of asteroids to spawn and set it to an initial value of 5:
 
 ```cs
 int asteroidsToSpawn = 5;
 ```
 
-In our `SpawnAsteroids()` method, we can then use a for loop to spawn a number asteroids based on `asteroidsToSpawn`:
+In our `SpawnAsteroids()` method, we can then use a `for` loop to spawn a number asteroids based on `asteroidsToSpawn`:
 
 ```cs
     void SpawnAsteroids()
@@ -320,7 +324,7 @@ Currently, this will spawn all of our asteroids in the same position. Let's make
 
 ### Random Asteroid Positions
 
-To create a random position for our asteroids, let's write some code so that are asteroids randomly choose a location on the edges of our screen. The effect we want to achieve is that when our asteroids spawn, the appear in one of the four zones at the edges of our screen as seen in the diagram below:
+To create a random position for our asteroids, let's write some code so that our asteroids randomly choose a location on the edges of our screen. The effect we want to achieve is that when our asteroids spawn, they appear in one of the four zones at the edges of our screen as seen in the diagram below:
 
 ![Image showing different asteroid spawn zones](/Attachments/Pasted%20image%2020260820133120.png)
 
@@ -345,7 +349,7 @@ We can then create a local `Vector3` variable that will hold the random position
     }
 ```
 
-Next, since there are four zones we want to choose a random position, lets make a variable for a random number and use `Random.Range` to get a random value between 0 and 4. Not that when returning an integer with `Random.Range` the minimum value is inclusive and the maximum value is exclusive. Therefore, if we want the method to return a value of either 0, 1, 2, or 3, our method should look like this: `Random.Range(0,4)`
+Next, since there are four zones we want to choose a random position. Let's make a variable for a random number and use `Random.Range` to get a random value between 0 and 4. Note that when returning an integer with `Random.Range` the minimum value is inclusive and the maximum value is exclusive. Therefore, if we want the method to return a value of either 0, 1, 2, or 3, our method should look like this: `Random.Range(0,4)`
 
 ```cs
     void GetRandomAsteroidPosition()
@@ -433,7 +437,13 @@ void GetRandomAsteroidPosition()
 
 ```
 
-Finally, we can make our method return our `randomPosition`. We first need to change the return type of our method from `void` to `Vector3`:
+Reading this code closely you will notice that this code is calculating a random number between the width and height of each zone by using our screen height, screen width and padding variable. For example, Zone 1 is at the top of our screen. The width of that zone is between the the positive and negative value of half our overall width. Meaning if the width of screen was 10, the bounds would be from -5 to 5. The height of this zone would be a range from half the height our screen to half the height our screen minus our padding value. As an example, if the height our screen was 8, the height of this zone would be between 4 and 2.
+
+Therefore, to to find a random position in Zone 1, we need a random x value between -5 and 5, and a random y value between 2 and 4. Since position is a `Vector3`, we can provide the z value of our random position with a value of zero.
+
+### Returning Values
+
+Finally, we can make our method return our `randomPosition`. We first need to change the return type of our method from `void` to `Vector3`. This indicates to the computer that this method will return a `Vector3` value. C# is an explicit language which means we have to be explicit about what types of values a method is returning. 
 
 ```cs
 Vector3 GetRandomAsteroidPosition()
@@ -445,6 +455,8 @@ Then, at the bottom of our method, we can add:
 ```cs
 return randomPosition; 
 ```
+
+As a refresher, if a method returns a value, when we call this method we will get a value. In our case, when we call `GetRandomAsteroidPosition()` we will get back a `Vector3` value. This is similar to when call `Random.Range()` we get a random value back.
 
 Our final method should look like this:
 
@@ -487,7 +499,7 @@ Our final method should look like this:
 
 ### Spawning Asteroids at a Random Position
 
-Now that our `GetRandomAsteroidPosition()` returns a random `Vector3`, we can use this method inside of our `Instantiate` method with `SpawnAsteroids`:
+Now that our `GetRandomAsteroidPosition()` returns a random `Vector3`, we can use this method inside of our `Instantiate` method within `SpawnAsteroids`. We can also provide the `Instantiate` method with `Quaternion.identity` to keep the same rotation our asteroid has in our prefab. Later in the course we can tweak this value to give every asteroid a random rotation when they spawn.
 
 ```cs
     void SpawnAsteroids()
