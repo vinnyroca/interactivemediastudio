@@ -10,24 +10,22 @@ permalink: /resources/
 ### Asteroids
 <ol class="tutorial-list"> {% for Tutorial in site.Tutorials %} <li> <a href="{{ Tutorial.url | relative_url }}">{{ Tutorial.title }}</a> </li> {% endfor %} </ol>
 
-- Game Manger, Lists, Singeltons
-- Arcades Discuss project
-
-- Complete Asteroid Size/Restart at home. Player Death Player Life at Home
+- Lives and Restart Game
+- User Interface
 - Art and Animation
-
-- weekend highscore
-
+- (Enemy AI)
 - Sound
 - Scenes
 - Building
 
-- work
+### Point and Click
 
-- work Intial graybox prototype due.
-
-
-- Introduction to Interactive Media Art
+- Raycast
+- Interfaces
+- Events
+- Scriptable Object Inventory
+- Dialog with Inky
+- 
 
 Next Unit
 - Raycasting and Interfaces
@@ -39,7 +37,7 @@ Next unit needs to to be a point and click adventure game in which you can eithe
 
 ## Lectures
 
-- [What is a Game Engine?](/WhatIsAGameEngine.md)
+- Introduction
 - [Arcades and Asteroids](/ArcadesAndAsteroids.md)
 - 
 
@@ -100,6 +98,7 @@ Point and click with dialogue using ink, raycasting,
 ## Artists/Game Designers
 
 - Chia Amisola
+- Laurie Anderson
 - Anna Anthropy
 - Ed Atkins
 - Pippin Barr
@@ -146,6 +145,7 @@ Point and click with dialogue using ink, raycasting,
 - Lucas Pope
 - Porpentine Charity Heartscape
 - Sahej Rahal
+- Osamu Sato
 - Janne Schimmel
 - Anne-Marie Schleiner
 - Loren Schmidt

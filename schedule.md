@@ -10,17 +10,15 @@ permalink: /schedule/
 ## Week 1
 
 ### Tuesday 9/1
-
-- Introduction(s)
+- Introductions
+-  First Day Assessment
 - Course Overview
 - Tutorial: [Introduction to Unity](../Tutorials/01_IntroductionToUnity/)
 
 #### Due:
-
 - Nothing Due Today!
 
 ### Thursday 9/3
-
 - Lecture: Arcades and Asteroids
 - Tutorial: [Game Objects, Components, and MonoBehavior](/Tutorials/02_GameObjectsComponentsCSharp/)
 - Tutorial: [C# Fundamentals](/Tutorials/03_CSharpFundamentals/)
@@ -28,52 +26,56 @@ permalink: /schedule/
 
 #### Due:
 
+- Read: "Chapter 3: What Is It Good For?" from [Anthropy, A. (2012) Rise of the Videogame Zinesters](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
+- Read: "Chapter 1. Language" from [Anthropy, A., Clark. N. (2014). *A Game Design Vocabulary : Exploring the foundational principles behind good game design*. ](https://ccl.on.worldcat.org/oclc/873843566)
+- Read: "Chapter 2. Verbs" from [Anthropy, A., Clark. N. (2014). *A Game Design Vocabulary : Exploring the foundational principles behind good game design*. ](https://ccl.on.worldcat.org/oclc/873843566)
+- Play: [Asteroids](https://freeasteroids.org/)
 - Recommended: Purchase an external drive ([Recommendation](https://www.sandisk.com/products/ssd/external-ssd/sandisk-extreme-portable-ssd-v3?sku=SDSSDE70-1T00-G25))
+- Recommended: Read: "Chapter 2 The History of Magic" from [Anthropy, A. (2012) Rise of the Videogame Zinesters](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
+- Recommended: Read: "Games as an Aesthetic Form" from [Lantz. F. (2023). *The Beauty of Games*](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
 - Optional: Install Unity on your personal computer
 
 ## Week 2
-
 ### Tuesday 9/8
-
 - Tutorial: [Physics Motion](/Tutorials/05_Physics/)
 - Tutorial: [Camera](/Tutorials/06_Camera/)
-- Exercise: Asteroid Patterns
 - Tutorial: [Randomness](/Tutorials/07_randomness/)
 
 #### Due:
-
-- Nothing Due Today!
+- Read: "Good Clean Fun" from [Newman. Z., M. (2017). *Atari Age*](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
+- Read: [Woodhouse, N., T. (2025). Feeding the Iron Pimps: The Golden Age of Arcades in Black America. *Game Studies*, *25(3).*](https://gamestudies.org/2503/articles/woodhouse)
+- Recommended: Read: "The Microcosmic Arcade" from [Kocurek. A., C. (2015) *Coin-Operated Americans: Rebooting Boyhood at the Video Game Arcade*](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
 
 ### Thursday 9/10
-
 - Tutorial: [User Input](/Tutorials/08_UserInput/)
 - Tutorial: [Prefabs, Instantiation, and Destroy](/Tutorials/09_PrefabsInstantiationandDestroy/)
-- Tutorial: [Colliders, Triggers, and Tags](/Tutorials/10_colliderstriggerstags)
+- Assign: Arcades Everywhere
 
 #### Due:
-
-- Nothing Due Today!
+- Read: [Arcade Everywhere](/arcade)
+- Project: Complete [Arcade Everywhere](/arcade) Home Play
 
 ## Week 3 
 
 ### Tuesday 9/15
 
+- Tutorial: [Colliders, Triggers, and Tags](/Tutorials/10_colliderstriggerstags)
 - Tutorial: [Game Manger and Singleton](/Tutorials/11_gamemanager)
-- Tutorial: Lists
-- Assign: Arcades Everywhere
-
+- Tutorial: [Lists](/Tutorials/12_lists)
 #### Due:
 
-- Nothing Due Today!
+- Read: [Kocurek. A., C. (2012). The Agony and the Exidy: A History of Video Game Violence and the Legacy of Death Race. *Game Studies*, *12(1).*](https://gamestudies.org/1201/articles/carly_kocurek/)
+- Read: [Bogost. I., Montfort. N. (2009) Random and raster: Display technologies and the development of videogames. *IEEE Annals of the History of Computing*, *31(3)*, 34-43.](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
 
 ### Thursday 9/17
 
-- Tutorial: Art
-- Tutorial: Animation
+- Tutorial: User Interface
+- Tutorial: Art and Animation
 
 #### Due:
 
-- Nothing Due Today!
+- Complete Tutorial: [Asteroid Generations](/Tutorials/12_asteroidgen)
+- Complete Tutorial:
 
 <h3 style="color: rgb(218, 112, 44)">Friday 9/18: Field Trip</h3>
 
@@ -87,7 +89,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Arcades Everywhere Proposal
+- Project: Complete [Arcade Everywhere](/arcade) Proposal
 
 ### Thursday 9/24
 
@@ -96,7 +98,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Nothing Due Today!
+- Project: Continue work on [Arcade Everywhere](/arcade)
 
 ## Week 5
 
@@ -107,7 +109,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Arcades Everywhere Prototype
+- Project: Complete [Arcade Everywhere](/arcade) Prototype
 
 ### Thursday 10/1
 
@@ -119,15 +121,19 @@ permalink: /schedule/
 
 ### Tuesday 10/6
 
+- Studio Time: Arcades Everywhere
+
 #### Due:
 
-- Project: Arcades Everywhere Art Pass
+- Project: Continue work on [Arcade Everywhere](/arcade)
 
 ### Thursday 10/8
 
+- Crit: Arcades Everywhere
+
 #### Due:
 
-- Project: Arcades Everywhere
+- Project: [Arcade Everywhere](/arcade) Final Project
 
 ## Week 7
 

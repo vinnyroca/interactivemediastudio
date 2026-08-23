@@ -8,26 +8,27 @@ permalink: /projects/
 
 ## Arcades Everywhere
 
-[Project Description](/arcade/)
+[Project Description](/index)
 
+- Homeplay Due:
 - Proposal Due:
 - Prototype Due:
-- Art Pass Due:
 - Final Project and Writing Due:
 
 ## Zine Island
 
-[Project Description](/public/)
+[Project Description](/index)
 
+- Homeplay Due:
 - Proposal Due:
 - Prototype Due:
-- Art Pass Due:
 - Final Project and Writing Due:
 
 ## New Engines
 
-[Project Description](/public/)
+[Project Description](/index)
 
+- Homeplay Due:
 - Proposal Due:
 - Prototype Due:
 - Art Pass Due:

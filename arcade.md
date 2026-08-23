@@ -82,3 +82,18 @@ Snake
 Visit Arcade and Analyze one game based on xyz
 
 Considering that the history of public facing games have be design for particular audience towards a particular set of values, how, in this project, are you considering the effect your game will have in public. In what spaces do you plan to have your game exist?
+
+
+Project proposal
+
+Verbs
+
+Reading Responses
+
+Write a 600 to 1000 word response that addresses the following topics. Please reference some or all of this units readings within your response:
+
+Discuss arcades in relation to certain types of publics. As Iron Pimps discusses, these are publics that were disenfranchised from games and play. What publics is your work attempting to blank.
+
+Kocurek takes about the social values embded within public games, speically othis versus militarized violence. What types of values did you attempt to communicate throug your game, or what values do you think your game communicates despite your descisions.
+
+As a theme for this class, the impact of technology affects the production of media art, we say this is essay blah blah screens, how did Unity technology 
