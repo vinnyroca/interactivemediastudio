@@ -14,8 +14,18 @@ Let's Play: The Shining
 Night in the Woods
 Yume Nikki
 
+- Laurie Anderson
+- Antoni Muntadas
+- Michael Snow
+- Chris Marker
+- Valie Export
+- JODI
+- Gerald van der Kaap
+
 
 Games to Play:
+
+Check Out Online Arcade Games?
 
 Vampire Survivors
 Nidhogg

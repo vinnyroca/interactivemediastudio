@@ -97,3 +97,18 @@ Discuss arcades in relation to certain types of publics. As Iron Pimps discusses
 Kocurek takes about the social values embded within public games, speically othis versus militarized violence. What types of values did you attempt to communicate throug your game, or what values do you think your game communicates despite your descisions.
 
 As a theme for this class, the impact of technology affects the production of media art, we say this is essay blah blah screens, how did Unity technology 
+
+Games to Play:
+
+Check Out Online Arcade Games? Review Asteroids
+
+Vampire Survivors
+Nidhogg
+Hyper Demon
+Downwell
+Getting Over It
+Neon White
+Celeste
+Hades
+Slay the Spire
+Balatro

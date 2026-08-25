@@ -75,7 +75,7 @@ permalink: /schedule/
 #### Due:
 
 - Complete Tutorial: [Asteroid Generations](/Tutorials/12_asteroidgen)
-- Complete Tutorial:
+- Complete Tutorial: [Player Lives and Score](/Tutorials/14_livesandrestart)
 
 <h3 style="color: rgb(218, 112, 44)">Friday 9/18: Field Trip</h3>
 
@@ -93,7 +93,7 @@ permalink: /schedule/
 
 ### Thursday 9/24
 
-- Tutorial: Scenes
+- Tutorial: Scenes and Data
 - Studio Time: Arcades Everywhere
 
 #### Due:
