@@ -128,6 +128,12 @@ Best practices for this course:
 ## Community Guidelines
 
 To be determined collectively
+
+## Lab Hours
+
+Students are expected to work on exercises and assignments outside of class. To complete some assignments, students will need to make use of their personal computer.
+
+Students enrolled in this course will have 24/hr access to the class computer lab. If you have any issues accessing the lab outside of the course hours, please contact me. The lab is **not** available when other classes are in session.
 ## Statement of Inclusion
 
 We understand the classroom as a space for practicing freedom; where one may challenge psychic, social, and cultural borders and create meaningful artistic expressions. To do so we must acknowledge and embrace the different identities and backgrounds we inhabit. This means that we will use pronouns, respect self-identifications, and be mindful of special needs. Disagreement is encouraged and supported, however, our differences affect our conceptualization and experience of reality, and it is extremely important to remember that certain gender, race, sex, and class identities are more privileged while others are undermined and marginalized. Consequently, this makes some people feel more protected or vulnerable during debates and discussions. A collaborative effort between the students and Instructor is needed to create a supportive learning environment. While everyone should feel free to experiment creatively and conceptually, if a class member points out that something you have said or shared with the group is offensive, avoid being defensive; instead approach the discussion as a valuable opportunity for us to grow and learn from one another. Alternatively, if you feel that something said in discussion or included in a piece of work is harmful, you are encouraged to speak with the Instructor.
