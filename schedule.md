@@ -90,7 +90,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Complete [Arcade Everywhere](/arcade) Proposal
+- Project: Complete [Arcades Everywhere](/arcade) Proposal
 
 ### Thursday 9/24
 
@@ -99,7 +99,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Continue work on [Arcade Everywhere](/arcade)
+- Project: Continue work on [Arcades Everywhere](/arcade)
 
 ## Week 5
 
@@ -110,13 +110,15 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Complete [Arcade Everywhere](/arcade) Prototype
+- Project: Complete [Arcades Everywhere](/arcade) Prototype
 
 ### Thursday 10/1
 
+- Studio Time: Arcades Everywhere
+
 #### Due:
 
-- Nothing Due Today!
+- Project: Continue work on [Arcades Everywhere](/arcade)
 
 ## Week 6
 
@@ -126,7 +128,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Continue work on [Arcade Everywhere](/arcade)
+- Project: Continue work on [Arcades Everywhere](/arcade)
 
 ### Thursday 10/8
 
@@ -134,7 +136,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: [Arcade Everywhere](/arcade) Final Project
+- Project: [Arcades Everywhere](/arcade) Final Project
 
 ## Week 7
 

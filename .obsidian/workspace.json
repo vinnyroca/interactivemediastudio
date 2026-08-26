@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "resources"
             }
           }
         ]
@@ -189,13 +189,14 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "resources.md",
     "schedule.md",
+    "arcade.md",
+    "index.md",
+    "resources.md",
     "projects.md",
     "_site/newengine.md",
     "test.md",
     "ArcadesAndAsteroids.md",
-    "index.md",
     "newengine.md",
     "point and click.md",
     "_Tutorials/14_livesandrestart.md",
@@ -210,7 +211,6 @@
     "Attachments/lives_2.gif",
     "Attachments/lives_1.gif",
     "_Tutorials/13_asteroidgen.md",
-    "arcade.md",
     "01_Exercise.md",
     "_site/point and click.md",
     "_site/Untitled.md",

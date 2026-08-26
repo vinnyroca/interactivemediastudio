@@ -72,21 +72,6 @@ permalink: /resources/
 - Katie Salen Tekinbaş and Eric Zimmerman. _Rules of Play : Game Design Fundamentals_. MIT Press 2004.
 - Steve Swink. _Game Feel : A Game Designer’s Guide to Virtual Sensation_. Morgan Kaufmann Publishers/Elsevier 2009.
 
-
-
-
-
-
-
-13. Introduction to Interactive Media Art
-
-14. [Getting Started with Unity](/01_GettingStarted.md)
-15. [Unity Interface](/02_UnityInterface.md)
-16. 
-
-
-Point and click with dialogue using ink, raycasting, 
-
 ## Artists/Game Designers
 
 - [Chia Amisola](https://chia.design/)
