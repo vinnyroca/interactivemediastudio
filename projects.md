@@ -15,7 +15,7 @@ permalink: /projects/
 - Prototype Due:
 - Final Project and Writing Due:
 
-## Zine Island
+## Media Island
 
 [Project Description](/index)
 

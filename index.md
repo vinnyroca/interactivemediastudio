@@ -26,15 +26,17 @@ Interactive Media Studio is an advanced studio-based course for students with pr
 
 ## Course Outline
 
-The goal of this course is to explore the key question: How does technological and cultural context effect the production of interactive media art?
+The goal of this course is to explore the key question: 
+
+**How does technological and cultural context effect the production of interactive media art?**
 
 To address this question, this course will focus on three units:
 
-| Unit | Focus          | Technology   | Tutorial        | Project            |
-| ---- | -------------- | ------------ | --------------- | ------------------ |
-| 1    | Public Games   | Arcades      | Space shooter   | Arcades Everywhere |
-| 2    | Multimedia Art | CD Rom       | Point and Click | Zine Island        |
-| 3    | Game Artists   | Game engines | One on ones     | New Engines        |
+| Unit | Focus        | Technology    | Tutorial        | Project            |
+| ---- | ------------ | ------------- | --------------- | ------------------ |
+| 1    | Public Games | Arcades       | Space shooter   | Arcades Everywhere |
+| 2    | Multimedia   | PC and CD Rom | Point and Click | Media Island       |
+| 3    | Game Artists | Game engines  | One on ones     | New Engines        |
 
 During each unit we will focus on a particular historical moment in the history of interactive media. To explore the historical time frame associated with each unit we will engage with media and readings. The final unit will explore the contemporary approaches to interactive media by artists, designers and game makers. 
 
@@ -44,10 +46,10 @@ During each unit we will focus on a particular historical moment in the history 
 
 ### Unit 2: Multimedia Art
 **Week 7-9:** Tutorial, Exercise, Readings  
-**Week 10-12:** Interactive Zine
+**Week 10-12:** Media Island Project
 
 ### Unit 3: Contemporary Approaches
-**Week 13-15:** Personal Game
+**Week 13-15:** New Engines Project
 
 ## Learning Outcomes and Course Objectives 
 
@@ -106,6 +108,13 @@ This class website contains the course syllabus, schedule, assignment descriptio
 
 For those interested, this website is written in markdown using [Obsidian](https://obsidian.md/) with slightly off-beat syntax to get links working. [Jekyll](https://jekyllrb.com/) is used to compile the markdown into a static site, and custom layout and CSS is used to build on the [Minima](https://github.com/jekyll/minima) theme. The color scheme of this site is based on [Flexoki](https://stephango.com/flexoki). The website exist as a repository on [GitHub](https://github.com/) and is hosted using GitHub Pages.  Gifs are recorded using [LICEcap](https://www.cockos.com/licecap/). The typeface if Funnel Sans by [Kristian Möller](https://www.ktkm.se/)
 
+## Discord and Email
+
+Students will be invited to join the class Discord server on the first day of class. The Discord serves as a community space outside of our physical classroom and our community guidelines extend to this space.
+
+I will respond to community Discord messages and email within 24 hrs of receipt. I will respond to messages sent over the weekend on the following Monday.
+
+For course communication, please send me an email rather than a direct message on Discord. I will not respond to friend requests or direct messages.
 ## Course Success
 
 Best practices for this course:
@@ -116,6 +125,9 @@ Best practices for this course:
 - Be prepared and logged into your computer by the start of class.
 - When creating projects and following tutorials, test code frequently to check for errors.
 
+## Community Guidelines
+
+To be determined collectively
 ## Statement of Inclusion
 
 We understand the classroom as a space for practicing freedom; where one may challenge psychic, social, and cultural borders and create meaningful artistic expressions. To do so we must acknowledge and embrace the different identities and backgrounds we inhabit. This means that we will use pronouns, respect self-identifications, and be mindful of special needs. Disagreement is encouraged and supported, however, our differences affect our conceptualization and experience of reality, and it is extremely important to remember that certain gender, race, sex, and class identities are more privileged while others are undermined and marginalized. Consequently, this makes some people feel more protected or vulnerable during debates and discussions. A collaborative effort between the students and Instructor is needed to create a supportive learning environment. While everyone should feel free to experiment creatively and conceptually, if a class member points out that something you have said or shared with the group is offensive, avoid being defensive; instead approach the discussion as a valuable opportunity for us to grow and learn from one another. Alternatively, if you feel that something said in discussion or included in a piece of work is harmful, you are encouraged to speak with the Instructor.

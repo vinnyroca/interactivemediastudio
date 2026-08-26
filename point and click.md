@@ -1,5 +1,5 @@
 
-Play Myst +
+Play Myst, canonical multi media point and click adventure +
 
 EVERYTHING IS GOING TO BE OK
 Anthology of a Killer
@@ -14,13 +14,14 @@ Let's Play: The Shining
 Night in the Woods
 Yume Nikki
 
-- Laurie Anderson
-- Antoni Muntadas
-- Michael Snow
-- Chris Marker
-- Valie Export
-- JODI
-- Gerald van der Kaap
+Laurie Anderson
+Antoni Muntadas
+Michael Snow
+Chris Marker
+Valie Export
+JODI
+Gerald van der Kaap
+Osamu Sato
 
 
 Games to Play:

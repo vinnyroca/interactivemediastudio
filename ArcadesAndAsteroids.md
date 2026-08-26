@@ -12,7 +12,7 @@ Early emulation of Existing Games
 Spacewar - MIT hacker club, open source shared among many computers
 Mutacope
 Pinball Arcades
-Lens Men
+Lensmen
 Computer Space
 Pong
 Asteroids
@@ -24,6 +24,8 @@ Designed to be easy to immediately understand to invite players
 Designed to be difficult to advance to extract quarter
 Designed to be competitive with high scores
 Historically, designed specifically for a young, white, male audience with disposable income
+
+Physics based action games, as seen in Unity
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7TiXKuZwUX8?si=GC56-41vJecuMHwB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

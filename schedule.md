@@ -7,6 +7,7 @@ permalink: /schedule/
 # Schedule
 
 *Please note that this is a live schedule and is ever evolving as the course (/world) changes. Please check back frequently for due dates of assignments and course proceedings.*
+
 ## Week 1
 
 ### Tuesday 9/1
@@ -26,13 +27,13 @@ permalink: /schedule/
 
 #### Due:
 
-- Read: "Chapter 3: What Is It Good For?" from [Anthropy, A. (2012) Rise of the Videogame Zinesters](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
-- Read: "Chapter 1. Language" from [Anthropy, A., Clark. N. (2014). *A Game Design Vocabulary : Exploring the foundational principles behind good game design*. ](https://ccl.on.worldcat.org/oclc/873843566)
-- Read: "Chapter 2. Verbs" from [Anthropy, A., Clark. N. (2014). *A Game Design Vocabulary : Exploring the foundational principles behind good game design*. ](https://ccl.on.worldcat.org/oclc/873843566)
-- Play: [Asteroids](https://freeasteroids.org/)
+- Read: [Chapter 3: What Is It Good For?](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Anthropy, A. (2012) Rise of the Videogame Zinesters
+- Read: [Chapter 1. Language](https://ccl.on.worldcat.org/oclc/873843566) from Anthropy, A., Clark. N. (2014). *A Game Design Vocabulary : Exploring the foundational principles behind good game design*. 
+- Read: [Chapter 2. Verbs](https://ccl.on.worldcat.org/oclc/873843566) from Anthropy, A., Clark. N. (2014). *A Game Design Vocabulary : Exploring the foundational principles behind good game design*.
+- Play (30 min +): [Asteroids](https://freeasteroids.org/)
 - Recommended: Purchase an external drive ([Recommendation](https://www.sandisk.com/products/ssd/external-ssd/sandisk-extreme-portable-ssd-v3?sku=SDSSDE70-1T00-G25))
-- Recommended: Read: "Chapter 2 The History of Magic" from [Anthropy, A. (2012) Rise of the Videogame Zinesters](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
-- Recommended: Read: "Games as an Aesthetic Form" from [Lantz. F. (2023). *The Beauty of Games*](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
+- Recommended: Read: [Chapter 2 The History of Magic](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Anthropy, A. (2012) Rise of the Videogame Zinesters
+- Recommended: Read: [Games as an Aesthetic Form](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Lantz. F. (2023). *The Beauty of Games*
 - Optional: Install Unity on your personal computer
 
 ## Week 2
@@ -42,9 +43,9 @@ permalink: /schedule/
 - Tutorial: [Randomness](/Tutorials/07_randomness/)
 
 #### Due:
-- Read: "Good Clean Fun" from [Newman. Z., M. (2017). *Atari Age*](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
+- Read: [Good Clean Fun](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Newman. Z., M. (2017). *Atari Age*
 - Read: [Woodhouse, N., T. (2025). Feeding the Iron Pimps: The Golden Age of Arcades in Black America. *Game Studies*, *25(3).*](https://gamestudies.org/2503/articles/woodhouse)
-- Recommended: Read: "The Microcosmic Arcade" from [Kocurek. A., C. (2015) *Coin-Operated Americans: Rebooting Boyhood at the Video Game Arcade*](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq)
+- Recommended: Read: [The Microcosmic Arcade](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Kocurek. A., C. (2015) *Coin-Operated Americans: Rebooting Boyhood at the Video Game Arcade*
 
 ### Thursday 9/10
 - Tutorial: [User Input](/Tutorials/08_UserInput/)
@@ -139,19 +140,31 @@ permalink: /schedule/
 
 ### Tuesday 10/13
 
+- Lecture: Interactive Multimedia
+- Tutorial: Point and Click
+
 #### Due:
 
-- Nothing Due Today!
+- Read: Media Island project description
 
 ### Thursday 10/15
 
+- Interfaces
+- Events
+
 #### Due:
 
-- Nothing Due Today!
+- Watch/Listen: [How Computers Took Over Our Lives with Laine Nooney - Factually! - 220](https://www.youtube.com/watch?v=Nbd3TrUgX-A). This is an interview with Laine Nooney on their book, *The Apple II Age*. This podcast is a good frame work for the chapter on games you will be reading from Nooney's book
+- Read: [Games](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Nooney, L. (2023). *The Apple II Age: How the Computer Became Personal*.
+- Play (30 min +): [Mystery House](https://archive.org/details/Hi-Res_Adventure_1_Mystery_House_1980_On-Line_Systems) by Roberta and Ken Williams
+- Recommended: Read: [Nooney, L. (2013) A Pedestal, A Table, A Love Letter: Archaeologies of Gender in Video Game History. *Game Studies. 13(1).*](https://gamestudies.org/1302/articles/nooney)
+- Recommended: Read: [Nooney, L. (2017) Let’s Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game/ *American Journal of Play. 10(1).*](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf)
 
 ## Week 8
 
-### Tuesday 10/20
+<h3 style="color: rgb(218, 112, 44)">Tuesday 10/20: Break</h3>
+
+- Fall Break
 
 #### Due:
 
@@ -159,101 +172,135 @@ permalink: /schedule/
 
 ### Thursday 10/22
 
+- Tutorial: Inventory
+
 #### Due:
 
-- Nothing Due Today!
+- Watch: [How Myst Almost Couldn't Run on CD-ROM](https://www.youtube.com/watch?v=EWX5B6cD4_4)
+- Read: [Chapter 8 — Early 3D and the Multimedia Boom (1989–1996)](https://ccl.on.worldcat.org/oclc/994223056) from Williams, A (2017) *History of Digital Games*.
+- Read: [Hutchison, A. (2008) Making the Water Move: Techno-Historic Limits in the Game Aesthetics of Myst and Doom. *Game Studies. 8(1)*](https://www.gamestudies.org/0801/articles/hutch)
+- Play (1hr +): [Myst](https://www.retrogames.onl/2020/12/myst-win31.html), optionally play Myst using Steam on Lab Computer
+- Recommended: Play: [The Manhole](https://archive.org/details/TheManholeMacintosh)
+- Recommended: Watch: [Classic Postmortem: The Making Of Myst](https://www.youtube.com/watch?v=7cULHgP8tmo&t=2222s)
 
 ## Week 9
 
 ### Tuesday 10/27
 
+- Tutorial: Dialog
+
 #### Due:
 
-- Nothing Due Today!
+- Watch: [Yet Another Excavation Zone: the Multimedia by Erkki Huhtamo](https://www.youtube.com/watch?v=VepVdR7alS0)
+- Read: [Exhibition Text](https://contactzones.cit.cornell.edu/why.html) for Contact Zones: The Art of CD-Rom, Browse the exhibition artists
+- Read: [Resurrecting the Digital Past: Access to Artistic Content on CD-ROMs](https://www.tate.org.uk/research/collection-care-research/resurrecting-the-digital-past-access-to-artistic-content-on-cd-roms)
 
 ### Thursday 10/29
 
+- Tutorial: TBD
+
 #### Due:
 
-- Nothing Due Today!
+- Project: Media Island Home Play
 
 ## Week 10
 
 ### Tuesday 11/3
 
+- Studio Time: Media Island
+
 #### Due:
 
-- Nothing Due Today!
+- Project: Media Island proposal
 
 ### Thursday 11/5
 
+- Studio Time: Media Island
+
 #### Due:
 
-- Nothing Due Today!
+- Project: Continue work on Media Island
 
 ## Week 11
 
 ### Tuesday 11/10
 
+- Studio Time: Media Island
+
 #### Due:
 
-- Nothing Due Today!
-
+- Project: Media Island prototype
 ### Thursday 11/12
 
+- Studio Time: Media Island
 #### Due:
 
-- Nothing Due Today!
-
+- Project: Continue work on Media Island
 ## Week 12
 
 ### Tuesday 11/17
 
+- Crit: Media Island
 #### Due:
 
-- Nothing Due Today!
+- Project: Media Island project
 
 ### Thursday 11/19
 
+- Lecture: Nuovo Games
+- Discuss: New Engines project
+- Studio Time: New Engines
+
 #### Due:
 
-- Nothing Due Today!
+- Read: New Engines project description
+
 
 ## Week 13
 
 ### Tuesday 11/24
 
-#### Due:
-
-- Nothing Due Today!
-
-### Thursday 11/26
+- Studio Time: New Engines
 
 #### Due:
 
-- Nothing Due Today!
+- Project: Continue work on New Engines
+
+<h3 style="color: rgb(218, 112, 44)">Tuesday 11/26: Break</h3>
+
+- Break
+
+#### Due:
+
+- Project: Continue work on New Engines
 
 ## Week 14
 
 ### Tuesday 12/1
 
+- Studio Time: New Engines
+
 #### Due:
 
-- Nothing Due Today!
+- Project: Continue work on New Engines
 
 ### Thursday 12/3
 
+- Studio Time: New Engines
+
 #### Due:
 
-- Nothing Due Today!
+- Project: Continue work on New Engines
 
 ## Week 15
 
 ### Tuesday 12/8
 
+- Crit: New Engines
+
 #### Due:
 
-- Nothing Due Today!
+- Project: New Engines
 
 
 
