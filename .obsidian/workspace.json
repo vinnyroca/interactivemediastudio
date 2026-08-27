@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "index"
             }
           }
         ]
@@ -189,14 +189,19 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "schedule.md",
+    "ArcadesAndAsteroids.md",
     "arcade.md",
+    "01_Exercise.md",
+    "_Tutorials/02_GameObjectsComponentsCSharp.md",
+    "_Tutorials/01_IntroductionToUnity.md",
+    "Tutorials/02_GameObjectsComponentsCSharp.md",
+    "schedule.md",
+    "Tutorials",
     "index.md",
     "resources.md",
     "projects.md",
     "_site/newengine.md",
     "test.md",
-    "ArcadesAndAsteroids.md",
     "newengine.md",
     "point and click.md",
     "_Tutorials/14_livesandrestart.md",
@@ -211,7 +216,6 @@
     "Attachments/lives_2.gif",
     "Attachments/lives_1.gif",
     "_Tutorials/13_asteroidgen.md",
-    "01_Exercise.md",
     "_site/point and click.md",
     "_site/Untitled.md",
     "WhatIsAGameEngine.md",
@@ -226,14 +230,10 @@
     "_Tutorials/10_colliderstriggerstags.md",
     "_Tutorials/05_Physics.md",
     "_Tutorials/06_Camera.md",
-    "_Tutorials/03_CSharpFundamentals.md",
-    "_Tutorials/01_IntroductionToUnity.md",
-    "_Tutorials/02_GameObjectsComponentsCSharp.md",
     "_site/Tutorials/12_lists/index.html",
     "_site/Tutorials/12_lists",
     "_site/Tutorials/12_gamemanager/index.html",
     "_site/Tutorials/12_gamemanager",
-    "_site/arcade/index.html",
-    "_site/arcade"
+    "_site/arcade/index.html"
   ]
 }

@@ -2,9 +2,7 @@
 layout: page
 title: Syllabus
 ---
-# Syllabus
-
-*This is a living website and is maintained by a human (me.) With that in mind, if you notice any grammatical errors, missing links, or other bugs, please email me at the below address.*
+# MS 157
 
 ## Course Information
 
@@ -102,20 +100,28 @@ Playing, understanding, and designing interactive media in a collaborative effor
 
 Students are expected to be prepared for class by the start of our class meeting time. Students are allowed one free unexcused absence during the semester. Students may not use their one unexcused absence during critique, proposal or playtesting sessions. Additional absences will only be excused for documented illness, emergencies, or religious observances. Students who arrive to the class after the class meeting time will be marked as tardy. Three tardies will be considered an unexcused absence. Each unexcused absence will decrease the attendance grade by 20%. 5 or more unexcused absences will result in a zero attendance grade. Each unexcused absence beyond 5 will result in a 20% decrease in the student’s participation grade.
 
-## Class Website
+
+## Class Resources
+### Class Website
 
 This class website contains the course syllabus, schedule, assignment descriptions as well as written lecture notes and resources. 
 
 For those interested, this website is written in markdown using [Obsidian](https://obsidian.md/) with slightly off-beat syntax to get links working. [Jekyll](https://jekyllrb.com/) is used to compile the markdown into a static site, and custom layout and CSS is used to build on the [Minima](https://github.com/jekyll/minima) theme. The color scheme of this site is based on [Flexoki](https://stephango.com/flexoki). The website exist as a repository on [GitHub](https://github.com/) and is hosted using GitHub Pages.  Gifs are recorded using [LICEcap](https://www.cockos.com/licecap/). The typeface if Funnel Sans by [Kristian Möller](https://www.ktkm.se/)
 
-## Discord and Email
+*The class website is a living website and is maintained by a human (me.) With that in mind, if you notice any grammatical errors, missing links, or other bugs, please email me at the above address.*
+
+### Box, Canvas, Discord and Email
+
+All of the class resources (readings, etc.) are hosted on Box. You can access the class folder using this [link](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq). This link requires a password. This password will be shared with students on the first day of class.
+
+Canvas will be used for grading, attendance, and tracking completed assignments. While all assignment descriptions exist on this website, we will use canvas to track what is submitted and when it was submitted. Additional upload information can be found within the project description. 
 
 Students will be invited to join the class Discord server on the first day of class. The Discord serves as a community space outside of our physical classroom and our community guidelines extend to this space.
 
 I will respond to community Discord messages and email within 24 hrs of receipt. I will respond to messages sent over the weekend on the following Monday.
 
 For course communication, please send me an email rather than a direct message on Discord. I will not respond to friend requests or direct messages.
-## Course Success
+### Course Success
 
 Best practices for this course:
 
@@ -125,16 +131,12 @@ Best practices for this course:
 - Be prepared and logged into your computer by the start of class.
 - When creating projects and following tutorials, test code frequently to check for errors.
 
-## Community Guidelines
-
-To be determined collectively
-
-## Lab Hours
+### Lab Hours
 
 Students are expected to work on exercises and assignments outside of class. To complete some assignments, students will need to make use of their personal computer.
 
 Students enrolled in this course will have 24/hr access to the class computer lab. If you have any issues accessing the lab outside of the course hours, please contact me. The lab is **not** available when other classes are in session.
-## Statement of Inclusion
+## Statement of Inclusion and Community Agreement
 
 We understand the classroom as a space for practicing freedom; where one may challenge psychic, social, and cultural borders and create meaningful artistic expressions. To do so we must acknowledge and embrace the different identities and backgrounds we inhabit. This means that we will use pronouns, respect self-identifications, and be mindful of special needs. Disagreement is encouraged and supported, however, our differences affect our conceptualization and experience of reality, and it is extremely important to remember that certain gender, race, sex, and class identities are more privileged while others are undermined and marginalized. Consequently, this makes some people feel more protected or vulnerable during debates and discussions. A collaborative effort between the students and Instructor is needed to create a supportive learning environment. While everyone should feel free to experiment creatively and conceptually, if a class member points out that something you have said or shared with the group is offensive, avoid being defensive; instead approach the discussion as a valuable opportunity for us to grow and learn from one another. Alternatively, if you feel that something said in discussion or included in a piece of work is harmful, you are encouraged to speak with the Instructor.
 

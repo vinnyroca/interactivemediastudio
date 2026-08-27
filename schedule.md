@@ -232,12 +232,14 @@ permalink: /schedule/
 #### Due:
 
 - Project: Media Island prototype
+
 ### Thursday 11/12
 
 - Studio Time: Media Island
 #### Due:
 
 - Project: Continue work on Media Island
+
 ## Week 12
 
 ### Tuesday 11/17
