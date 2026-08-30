@@ -12,8 +12,9 @@ permalink: /schedule/
 
 ### Tuesday 9/1
 - Introductions
--  First Day Assessment
+- First Day Assessment
 - Course Overview
+- Lecture: [Introduction](/intro)
 - Tutorial: [Introduction to Unity](../Tutorials/01_IntroductionToUnity/)
 
 #### Due:

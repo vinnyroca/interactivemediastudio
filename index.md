@@ -24,11 +24,12 @@ Interactive Media Studio is an advanced studio-based course for students with pr
 
 ## Course Outline
 
-The goal of this course is to explore the key question: 
+Media arts, as a field of art, is constantly exploring and pushing the technology around us to both understand the technology and make sense of a technologies impact on our culture. In this same way, interactive media art works always have a relationship to contemporary technology and culture. As media theorist Laine Nooney notes, ["...game software is the only kind of software whose whole goal is to manipulate the limits of software...the spirit of a game is to make a computer to something it shouldn't be able to do." ](https://youtu.be/Nbd3TrUgX-A?si=XkwljbCn_DGtzoP8&t=2158) In this way, to understand interactive media art and games, we need to understand the context under which those art works were produced. The aim of this course then is to ask the questions:
 
-**How does technological and cultural context effect the production of interactive media art?**
+- **How does technological and cultural context effect the production of interactive media art?**
+- **How do media artists produce interactive media work today?**
 
-To address this question, this course will focus on three units:
+To address these question, this course will focus on three units:
 
 | Unit | Focus        | Technology    | Tutorial        | Project            |
 | ---- | ------------ | ------------- | --------------- | ------------------ |
@@ -49,6 +50,9 @@ During each unit we will focus on a particular historical moment in the history 
 ### Unit 3: Contemporary Approaches
 **Week 13-15:** New Engines Project
 
+### Note on 3D
+
+This course is primarily focused on 2D production with the Unity Game Engine. The main reason for this approach is that this course only requires prerequisite knowledge in programming and 2D digital image making techniques. As a result, 3D is expected to be beyond the scope for many students. With that said, students with experience in 3D modeling are encouraged to explore the 3D sections of the [Game Development](https://learn.unity.com/pathway/game-development) and [Unity Essentials](https://learn.unity.com/pathway/unity-essentials) Unity Learn tutorials. Additionally, those wishing to use 3D skills with Unity are encouraged to let the instructor know of their past skills and to work with the instructor on developing their 3D Unity abilities during project studio time. The programming skills we will learn within this course will be directly transferable to 3D design within Unity.
 ## Learning Outcomes and Course Objectives 
 
 The objective of this course is for advanced students to develop technical media art skills through the development of playable media projects, and to contextualize this knowledge within contemporary theories of interactive media. Through projects, assignments, presentations, readings, technical tutorials, and lectures, students will achieve the following learning outcomes: 
@@ -57,7 +61,6 @@ The objective of this course is for advanced students to develop technical m
 2. Gain an understanding of the contemporary cultural impact and role of interactive media art. 
 3. Ability to analyze interactive media art as cultural and artistic objects. 
 4. Ability to craft expansive interactive media projects.
-
 
 ## Course Breakdown
 
