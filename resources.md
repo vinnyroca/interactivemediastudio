@@ -93,6 +93,7 @@ permalink: /resources/
 - [Cosmo D](https://cosmod.net/)
 - [Jeremy Couillard](https://www.jeremycouillard.com/)
 - [Nick Crockett](https://ncrockett.com/)
+- [Alex Mackin Dolan](https://www.alexmackindolan.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 - [Kevin Du](https://kevindu.itch.io/)
 - [Ben Esposito](https://www.torahhorse.com/)
 - [Mark Essen](https://messhof.com/)

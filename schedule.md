@@ -55,7 +55,7 @@ permalink: /schedule/
 
 #### Due:
 - Read: [Arcade Everywhere](/arcade)
-- Project: Complete [Arcade Everywhere](/arcade) Home Play
+- Project: Complete [Arcade Everywhere](/arcade) Close Play and Journal by Fri @ Midnight
 
 ## Week 3 
 
@@ -138,6 +138,7 @@ permalink: /schedule/
 #### Due:
 
 - Project: [Arcades Everywhere](/arcade) Final Project
+- Project [Arcades Everywhere](/arcade) writing due Friday @ Midnight
 
 ## Week 7
 
@@ -204,7 +205,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Media Island Home Play
+- Project: Media Island Close Play
 
 ## Week 10
 

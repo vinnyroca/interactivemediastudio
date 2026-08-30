@@ -10,29 +10,31 @@ permalink: /projects/
 
 [Project Description](/index)
 
-- Homeplay Due:
+- Close Play and Journal Due:
 - Proposal Due:
 - Prototype Due:
-- Final Project and Writing Due:
+- Final Project:
+- Writing Due:
 
 ## Media Island
 
 [Project Description](/index)
 
-- Homeplay Due:
+- Close Play and Journal Due:
 - Proposal Due:
 - Prototype Due:
-- Final Project and Writing Due:
+- Final Project:
+- Writing Due:
 
 ## New Engines
 
 [Project Description](/index)
 
-- Homeplay Due:
+- Close Play and Journal Due:
 - Proposal Due:
 - Prototype Due:
-- Art Pass Due:
-- Final Project and Writing Due:
+- Final Project:
+- Writing Due:
 
 
 
