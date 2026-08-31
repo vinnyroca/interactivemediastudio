@@ -115,6 +115,7 @@ permalink: /schedule/
 
 ### Thursday 10/1
 
+- Tutorial: Itch
 - Studio Time: Arcades Everywhere
 
 #### Due:

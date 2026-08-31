@@ -16,6 +16,7 @@ permalink: /resources/
 - Sound
 - Scenes
 - Building
+- Itch
 
 ### Point and Click
 
