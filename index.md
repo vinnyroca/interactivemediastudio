@@ -11,12 +11,18 @@ title: Syllabus
 **Weekly In-class Study Time:** 5 Hours  
 **Weekly External Study Time:** 9 Hours
 
-**Instructor:**  
+### Instructor:
 Vinny Roca, Scripps College  
 [vroca@scrippscollege.edu](mailto:vroca@scrippscollege.edu)
 
-**Office Hours:**  
-By appointment on Tuesday  4:00 - 5:00
+### Office Hours:
+By appointment on Tuesday  4:00 - 5:00   
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/vroca-scrippscollege/30min'});return false;">Schedule Office Hours</a>
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+
+<!-- Calendly link widget end -->
 
 ## Course Description
 
@@ -134,6 +140,9 @@ Best practices for this course:
 - Be prepared and logged into your computer by the start of class.
 - When creating projects and following tutorials, test code frequently to check for errors.
 
+### Course Fund
+
+We have course funds available that can be used to purchase games, interactive media or devices that will assist students in the development of their projects. Please contact the instructor for more information if you have a specific request.
 ### Lab Hours
 
 Students are expected to work on exercises and assignments outside of class. To complete some assignments, students will need to make use of their personal computer.

@@ -1,4 +1,12 @@
+
+Use of Game Engines for artistic practice
+
+
+
 Zero Player Games
+
+Ian Cheng Emissaries
+Mountain
 
 Networked Games
 
@@ -26,7 +34,7 @@ Conceptual Games
 
 Zen Games by Ian Bogost
 Everything
-Mountain
+Zach Gage file destruction
 
 Exploratory Games
 Oikonspiel

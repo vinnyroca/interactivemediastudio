@@ -25,10 +25,10 @@ permalink: /resources/
 - Dialog System
 - World Building
 
-## Lectures
+## Lecture Notes
 
-- Introduction
-- [Arcades and Asteroids](/ArcadesAndAsteroids.md)
+- [Introduction](/Introduction)
+- [Arcades and Asteroids](/ArcadesAndAsteroids)
 - Multimedia Interactivity
 - Nuovo Games
 

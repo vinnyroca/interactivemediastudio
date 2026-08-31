@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
-<style> h2{text-transform: uppercase; !important;} h3{text-decoration: underline dotted;}</style>
+<style> h2{text-transform: uppercase; !important;} h3{text-decoration: underline dotted;} th, td { vertical-align: top !important;  }</style>
 # Schedule
 
 *Please note that this is a live schedule and is ever evolving as the course (/world) changes. Please check back frequently for due dates of assignments and course proceedings.*
@@ -21,7 +21,7 @@ permalink: /schedule/
 - Nothing Due Today!
 
 ### Thursday 9/3
-- Lecture: Arcades and Asteroids
+- Lecture: [Arcades and Asteroids](/ArcadesAndAsteroids)
 - Tutorial: [Game Objects, Components, and MonoBehavior](/Tutorials/02_GameObjectsComponentsCSharp/)
 - Tutorial: [C# Fundamentals](/Tutorials/03_CSharpFundamentals/)
 - Tutorial: [Getting Components, Transform, and Time](/Tutorials/04_GetComponentAndTransform/)
@@ -205,7 +205,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Media Island Close Play
+- Project: Media Island Close Play, Friday @ Midnight
 
 ## Week 10
 
@@ -271,6 +271,8 @@ permalink: /schedule/
 #### Due:
 
 - Project: Continue work on New Engines
+- Read: Chapter 1 from Nicoll. B., Keogh, B. (2019) *The Unity Game Engine and the Circuits of Cultural Software*.
+- Read: Chapter 1 from Bittanti, M., Ruffino, P., Catricala, V. (2026) *Game Engine Culture(s)*
 
 <h3 style="color: rgb(218, 112, 44)">Tuesday 11/26: Break</h3>
 
@@ -288,7 +290,8 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Continue work on New Engines
+- Project: New Engines working Prototype Due
+- Read: Chapter 2 from Nicoll. B., Keogh, B. (2019) *The Unity Game Engine and the Circuits of Cultural Software*.
 
 ### Thursday 12/3
 
@@ -297,6 +300,7 @@ permalink: /schedule/
 #### Due:
 
 - Project: Continue work on New Engines
+- Project: New Engines Close Play and Journal Due Friday @ Midnight
 
 ## Week 15
 
@@ -307,6 +311,7 @@ permalink: /schedule/
 #### Due:
 
 - Project: New Engines
+- Project: Writing Due: 12/10 11:59 PM
 
 
 

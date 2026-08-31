@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "2cf9e3aad45d31b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97d6eeddc791d9f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "schedule.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "schedule"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,31 +209,31 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "arcade.md",
-    "resources.md",
     "schedule.md",
-    "ArcadesAndAsteroids.md",
     "projects.md",
-    "point and click.md",
-    "newengine.md",
+    "arcade.md",
+    "ArcadesAndAsteroids.md",
     "New Engines.md",
+    "resources.md",
     "Introduction.md",
+    "newengine.md",
+    "_site/Attachments/Pasted image 20260831125015.png",
+    "Attachments/Pasted image 20260831125015.png",
+    "_site/Attachments/Pasted image 20260831124810.png",
+    "Attachments/Pasted image 20260831124810.png",
+    "_site/Attachments/Pasted image 20260831124630.png",
+    "Attachments/Pasted image 20260831124630.png",
+    "_site/Attachments/Pasted image 20260831124538.png",
+    "Attachments/Pasted image 20260831124538.png",
+    "_site/Attachments/Pasted image 20260831124044.png",
+    "Attachments/Pasted image 20260831124044.png",
     "index.md",
+    "point and click.md",
     "01_Exercise.md",
     "_site/Tutorials/02_GameObjectsComponentsCSharp.md",
     "_site/New Engines.md",
-    "_site/Attachments/Pasted image 20260828191101.png",
-    "_site/Attachments/Pasted image 20260828190958.png",
-    "_site/Attachments/Pasted image 20260828190931.png",
-    "_site/Attachments/Pasted image 20260828190632.png",
-    "_site/Attachments/Pasted image 20260828190206.png",
-    "_site/Attachments/Pasted image 20260828190142.png",
     "_site/intro/index.html",
     "_site/intro",
-    "Attachments/Pasted image 20260828191101.png",
-    "Attachments/Pasted image 20260828190958.png",
-    "Attachments/Pasted image 20260828190931.png",
-    "Attachments/Pasted image 20260828190632.png",
     "_Tutorials/02_GameObjectsComponentsCSharp.md",
     "_Tutorials/01_IntroductionToUnity.md",
     "Tutorials/02_GameObjectsComponentsCSharp.md",
@@ -231,7 +251,6 @@
     "_site/arcade 1.md",
     "_site/Tutorials/13_asteroidgen/index.html",
     "_site/Tutorials/13_asteroidgen",
-    "_Tutorials/12_lists.md",
     "_site/Tutorials/12_lists/index.html",
     "_site/Tutorials/12_lists",
     "_site/Tutorials/12_gamemanager/index.html"
