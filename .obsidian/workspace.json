@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources.md",
+                "file": "projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "projects"
             }
           }
         ]
@@ -210,11 +210,11 @@
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
     "schedule.md",
+    "resources.md",
     "projects.md",
     "arcade.md",
     "ArcadesAndAsteroids.md",
     "New Engines.md",
-    "resources.md",
     "Introduction.md",
     "newengine.md",
     "_site/Attachments/Pasted image 20260831125015.png",

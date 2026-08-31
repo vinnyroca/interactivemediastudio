@@ -8,11 +8,7 @@ permalink: /projects/
 
 ## Arcades Everywhere
 
-Week 1 - 
-
-### [Project Description](/arcade)
-
-
+[Project Description](/arcade) 
 
 - Close Play and Journal Due: 9/11 11:59 PM
 - Proposal Due: 9/22 1:15 PM
