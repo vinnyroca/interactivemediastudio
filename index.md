@@ -16,7 +16,7 @@ Vinny Roca, Scripps College
 [vroca@scrippscollege.edu](mailto:vroca@scrippscollege.edu)
 
 ### Office Hours:
-By appointment on Tuesday  4:00 - 5:00   
+By appointment on Tuesday/Thursday  4:00 - 5:00   
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/vroca-scrippscollege/30min'});return false;">Schedule Office Hours</a>
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -30,7 +30,7 @@ Interactive Media Studio is an advanced studio-based course for students with pr
 
 ## Course Outline
 
-Media arts, as a field of art, is constantly exploring and pushing the technology around us to both understand the technology and make sense of a technologies impact on our culture. In this same way, interactive media art works always have a relationship to contemporary technology and culture. As media theorist Laine Nooney notes, ["...game software is the only kind of software whose whole goal is to manipulate the limits of software...the spirit of a game is to make a computer to something it shouldn't be able to do." ](https://youtu.be/Nbd3TrUgX-A?si=XkwljbCn_DGtzoP8&t=2158) In this way, to understand interactive media art and games, we need to understand the context under which those art works were produced. The aim of this course then is to ask the questions:
+Media arts, as a field of art, is constantly exploring and pushing the technology around us to both understand the technology and make sense of a technologies impact on our culture. In this same way, interactive media art works always have a relationship to contemporary technology and culture. As media theorist Laine Nooney notes, ["...game software is the only kind of software whose whole goal is to manipulate the limits of software...the spirit of a game is to make a computer do something it shouldn't be able to do." ](https://youtu.be/Nbd3TrUgX-A?si=XkwljbCn_DGtzoP8&t=2158) In this way, to understand interactive media art and games, we need to understand the context under which those art works were produced. The aim of this course then is to ask the questions:
 
 - **How does technological and cultural context effect the production of interactive media art?**
 - **How do media artists produce interactive media work today?**
