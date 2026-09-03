@@ -45,11 +45,11 @@ To create a MonoBehavior script, lets begin by creating a folder that will conta
 
 ![Gif recording of creating a folder within the unity editor](/Attachments/4_2.gif)
 
-Navigate to the folder and the **right click** and choose **Create > MonoBehavior Script.** Importantly, immediately type the name you want for your script. Changing the name of your script after creation requires additional steps. Let's name our script Asteroid.  This script will define the behavior our our asteroid objects.
+Navigate to the folder and the **right click** and choose **Create > MonoBehavior Script.** Importantly, immediately type the name you want for your script. Changing the name of your script after creation requires additional steps. Let's name our script "Asteroid".  This script will define the behavior our our asteroid objects.
 
 ![Gif recording of creating a MonoBehavior script within the unity editor](/Attachments/4_3.gif)
 
-To add our MonoBehvior Script to a Circle game object:
+To add our MonoBehavior Script to a Circle game object:
 
 1. Create a circle by navigating to **GameObject > 2D Object > Sprites > Circle**
 2. Rename the circle to Asteroid.
@@ -59,11 +59,11 @@ To add our MonoBehvior Script to a Circle game object:
 
 ## Opening a Script
 
-To edit a script, we first need to open the script in an integrated development environment (IDE). To open a script, double click on it in your Project window. This should open the IDE associated with Unity, typically Visual Studio Community or Visual Studio Code.
+To edit a script, we first need to open the script in an integrated development environment (IDE). To open a script, double click on the script in your Project window. This should open the IDE associated with Unity, typically Visual Studio Community or Visual Studio Code.
 
 ## Anatomy of a MonoBehavior Script
 
-After opening your Asteroid script, you should see this code within you IDE.
+After opening your Asteroid script, you should see this code within your IDE.
 
 ```cs
 using UnityEngine;
@@ -84,9 +84,9 @@ public class Asteroid : MonoBehaviour
 }
 ```
 
-### Libraries
+### Namespaces
 
-At the top our script, we can see the different libraries our script is using. This is designated with the key word `using`.
+At the top our script, we can see the different namespaces our script is using. This is designated with the key word `using`. Namespaces are similar to libraries in other languages. They allow us to get access to different code that we can use in our script.
 
 ```cs
 using Unity Engine;
@@ -94,7 +94,7 @@ using Unity Engine;
 
 ### Class Declaration
 
-Below our library, we can see our class declaration. Notice that the class name is the same name name as the script we created with the Unity Editor. If you want to change the name our your script you need to change both the class name as well as the name of the script in the editor.
+Below our library, we can see our class declaration. Notice that the class name is the same name  as the script we created with the Unity Editor. If you want to change the name of your script you need to change both the class name as well as the name of the script in the editor.
 
 ```cs
 public class Asteroid : MonoBehaviour

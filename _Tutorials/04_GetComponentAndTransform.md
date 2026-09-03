@@ -31,7 +31,7 @@ Within our code, we can then use the newly create variable `asteroidTransform` t
 
 ### gameObject.GetComponent<>()
 
-When trying to get a component on a game object, we can instead use the method `GetComponent()`. It is best to call this method in the `Start()` function to assign the variable once our game has begun playing. To use the `GetComponent<>()` function, we optionally first need to get access to the game object to which the script is attached. To do that, we can call use the variable `gameObject`.
+When trying to get a component on a game object, we can instead use the method `GetComponent()`. It is best to call this method in the `Start()` function to assign the variable once our game has begun playing. To use the `GetComponent<>()` function, we optionally first need to get access to the game object to which the script is attached. To do that, we can use the variable `gameObject`.
 
 ```cs
 public class Asteroid : MonoBehaviour
@@ -116,7 +116,7 @@ Since we want to move our asteroid, one method that we can use is the `Translate
 
 As a reminder, `Vector3` is just a way to store a line from the origin to a given `(x,y,z)` value. Therefore, a value such as (0,1,0) would be a line extending from the origin up one unit with a length of one. Within Unity, the Y axis is the up direction. Since we are currently working in 2D we only need to concern ourselves with the first two values of x and y.
 
-To move our asteroid up one unit per frame, let's first make sure the value of our `direction` in our inspector is equal to up vector.  
+To move our asteroid up one unit per frame, let's first make sure the value of our `direction` in our inspector is equal to the up vector.  
 
 ![screen shot of the unity editor showing that value of our direction is equal to the up vector](/Attachments/Pasted%20image%2020260731150022.png)
 
@@ -139,13 +139,13 @@ void Update()
 
 ![Gif recording of playing the unity editor with the above code showing that the circle moves way too fast on the screen](/Attachments/7_3.gif)
 
-We will notice that our asteroid moves far to fast. Since we are dealing with such a simple scene, on modern gaming hardware, this scene might run at 500 frames per second. Since our object is moving 1 unity per frame, as a result, our asteroid is moving around 500 units per second.
+We will notice that our asteroid moves far to fast. Since we are dealing with such a simple scene, on modern gaming hardware, this scene might run at 500 frames per second. Since our object is moving 1 unit per frame, as a result, our asteroid is moving around 500 units per second.
 
 ## Time.deltaTime
 
 [Reference](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/Time-deltaTime.html)
 
-To slow down our object so that it moves one unit per second as opposed to per frame, we can multiply our `direction` value by `Time.deltaTime`. The float value exists within the `Time` interface within Unity, which stores various information about time within our game. `deltaTime` is the time in seconds from the last frame to the current frame. By multiplying it our direction by this value, we will only move our asteroid a fraction of a unit per frame, allowing the object to move a full unit within one second. We can additionally multiply our `direction` by `speed` to change how many units our asteroid is moving per second.
+To slow down our object so that it moves one unit per second as opposed to per frame, we can multiply our `direction` value by `Time.deltaTime`. The float value exists within the `Time` interface within Unity, which stores various information about time within our game. `deltaTime` is the time in seconds from the last frame to the current frame. By multiplying our direction by this value, we will only move our asteroid a fraction of a unit per frame, allowing the object to move a full unit within one second. We can additionally multiply our `direction` by `speed` to change how many units our asteroid is moving per second.
 
 ```cs
 void Move()
@@ -154,7 +154,7 @@ void Move()
 }
 ```
 
-![Gif recording of asteroid circle moving one unity per second after adjusting with Time.deltaTime value](/Attachments/7_4.gif)
+![Gif recording of asteroid circle moving one unit per second after adjusting with Time.deltaTime value](/Attachments/7_4.gif)
 ## Vector3.normalized
 
 One thing to keep in mind is that we are currently translating our object on a vector with a length of one. If, for example, we wanted to translate our object along a vector moving diagonally up and right (1,1,0), we can notice that this vector has a length of square root of 2 or about 1.414.
@@ -180,6 +180,6 @@ Now that we have one asteroid moving on our screen, let's duplicate our asteroid
 
 We can then independently edit the `speed` and `x,y` `direction` values of each asteroid.
 
-Below you can see the result of creating 5 asteroid that move in different direction at different speeds.
+Below you can see the result of creating 5 asteroid that move in different directions at different speeds.
 
 ![Screen recording showing 5 circles moving in different directions at different speeds](/Attachments/8_1.gif)

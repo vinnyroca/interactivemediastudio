@@ -19,11 +19,11 @@ type variableName = value;
 
 Some C# variable types include:
 
-`float` (decimal number) (Unity exclusively uses `float` values for decimals)
+`float` (decimal number)
 
 ```cs
 float maxValue;
-float minValue = -1.9;
+float minValue = -1.9f;
 ```
 
 `bool` (true or false):
@@ -67,9 +67,9 @@ of code */
 ```
 ## Classes
 
-Classes are software entities that encapsulate date and other functions.
+Classes are software entities that encapsulate data and other functions.
 
-For example the class `Asteroid` might contain data for the for the asteroid's speed as well as a function for moving.
+For example the class `Asteroid` might contain data for the asteroid's speed as well as a function for moving.
 
 ```cs
 public class Asteroid : MonoBehaviour
@@ -87,7 +87,7 @@ Notice that C# is an explicit language, meaning we must declare the data types f
 
 ## Creating and Instance of a Class
 
-Classes are only blueprints, to create an instance of a class, we need to use the keyword `new`. For example, if I wanted to use the Unity class [Vector2](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/Vector2.html) which is a data type that can store and manipulate `(x,y)` data such as the position or direction of objects, I would need to use the key word `new` to create a new instance of that class.
+Classes are only blueprints, to create an instance of a class, we need to use the keyword `new`. For example, if I wanted to use the Unity class [Vector3](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/Vector2.html) which is a data type that can store and manipulate `(x,y)` data such as the position or direction of objects, I would need to use the key word `new` to create a new instance of that class.
 
 ```cs
 Vector3 direction = new Vector3 (0f, 1f, 0f);
@@ -115,6 +115,7 @@ Within C# variables and variables can have different level of accessibility. By 
 When programming within Unity, we often want our different scrips to have access to the variables and methods contained within the classes we create. To do this, we need to use the keyword `public` before our class or variable declaration.
 
 For example, if we add `public` before our speed and direction variable, these variables will be accessible to other scripts. Importantly, for Unity, making a variable public, allows that variable to be accessible within the Inspector window.
+
 ```cs
 public float speed = 1f;
 public Vector3 direction = new Vector3 (0f, 1f, 0f);
@@ -122,5 +123,5 @@ public Vector3 direction = new Vector3 (0f, 1f, 0f);
 
 ![Screen shot showing speed and direction available within the inspector](/Attachments/Pasted%20image%2020260731130235.png)
 
-We can then edit the variable directly within our editor without having to return to our script. This is also helpful is we have multiple asteroids and we all want them to have different speeds and directions.
+We can then edit the variable directly within our editor without having to return to our script. This is also helpful if we have multiple asteroids and we want them to all have different speeds and directions.
 
