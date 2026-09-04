@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tutorials/04_GetComponentAndTransform.md",
+                "file": "schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04_GetComponentAndTransform"
+              "title": "schedule"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
+    "_Tutorials/04_GetComponentAndTransform.md",
     "_Tutorials/03_CSharpFundamentals.md",
     "_Tutorials/02_GameObjectsComponentsCSharp.md",
     "index.md",
@@ -249,7 +250,6 @@
     "_site/Untitled.md",
     "WhatIsAGameEngine.md",
     "arcade 1.md",
-    "_site/arcade 1.md",
     "_site/Tutorials/13_asteroidgen/index.html",
     "_site/Tutorials/13_asteroidgen",
     "_site/Tutorials/12_lists/index.html",

@@ -25,6 +25,8 @@ permalink: /schedule/
 - Tutorial: [Game Objects, Components, and MonoBehavior](/Tutorials/02_GameObjectsComponentsCSharp/)
 - Tutorial: [C# Fundamentals](/Tutorials/03_CSharpFundamentals/)
 - Tutorial: [Getting Components, Transform, and Time](/Tutorials/04_GetComponentAndTransform/)
+- Exercise: Create a Pattern
+- Tutorial: [Physics Motion](/Tutorials/05_Physics/)
 
 #### Due:
 
@@ -39,9 +41,10 @@ permalink: /schedule/
 
 ## Week 2
 ### Tuesday 9/8
-- Tutorial: [Physics Motion](/Tutorials/05_Physics/)
+
 - Tutorial: [Camera](/Tutorials/06_Camera/)
 - Tutorial: [Randomness](/Tutorials/07_randomness/)
+- Tutorial: [User Input](/Tutorials/08_UserInput/)
 
 #### Due:
 - Read: [Good Clean Fun](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Newman. Z., M. (2017). *Atari Age*
@@ -49,8 +52,9 @@ permalink: /schedule/
 - Recommended: Read: [The Microcosmic Arcade](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Kocurek. A., C. (2015) *Coin-Operated Americans: Rebooting Boyhood at the Video Game Arcade*
 
 ### Thursday 9/10
-- Tutorial: [User Input](/Tutorials/08_UserInput/)
+
 - Tutorial: [Prefabs, Instantiation, and Destroy](/Tutorials/09_PrefabsInstantiationandDestroy/)
+- Tutorial: [Colliders, Triggers, and Tags](/Tutorials/10_colliderstriggerstags)
 - Assign: Arcades Everywhere
 
 #### Due:
@@ -61,7 +65,6 @@ permalink: /schedule/
 
 ### Tuesday 9/15
 
-- Tutorial: [Colliders, Triggers, and Tags](/Tutorials/10_colliderstriggerstags)
 - Tutorial: [Game Manger and Singleton](/Tutorials/11_gamemanager)
 - Tutorial: [Lists](/Tutorials/12_lists)
 #### Due:
