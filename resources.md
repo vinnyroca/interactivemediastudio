@@ -28,7 +28,7 @@ permalink: /resources/
 
 ## Lecture Notes
 
-- [Introduction](/Introduction)
+- [Introduction](/intro)
 - [Arcades and Asteroids](/ArcadesAndAsteroids)
 - Multimedia Interactivity
 - Nuovo Games

@@ -165,7 +165,7 @@ Now that we have a properly functioning projectile, lets rework our program so t
 
 In order to create more projectiles, we need to continuously duplicate the single projectile we currently have. To do this, we need to turn our projectile into a Prefab. In Unity, a Prefab is essentially a game object blueprint that we can use to create exact copies from a template.
 
-Creating a prefab is incredibly easy, the only thing we need to do is drag our game object from our Hierarchy to our Project window. For best practice, we can drag our game object in a folder named **Prefabs** to keep things organized.
+Creating a prefab is incredibly easy, the only thing we need to do is drag our game object from our Hierarchy to our Project window. For best practice, we can drag our game object into a folder named **Prefabs** to keep things organized.
 
 ![animated gif of user dragging a projectile game object to the project window to create a prefab](/Attachments/prefab_7.gif)
 
@@ -223,7 +223,7 @@ We can then drag our Prefab from our Project window to the open slot in the  Spa
 
 ### triggered and Instantiate 
 
-Lastly, to fire our projectile, within our `Update()` method, we can use `bool` value `triggered` on our `fireAction` to see if our Fire input has been pressed.
+Lastly, to fire our projectile, within our `Update()` method, we can use the `bool` value `triggered` on our `fireAction` to see if our Fire input has been pressed.
 
 ```cs
 void Update()
@@ -235,7 +235,7 @@ void Update()
 }
 ```
 
-To create our projectile we can use the `Instantiate()` method which create a new clone of the object we provide it. We can also set the position of the projectile to fired from slightly in front of our Player by using an offset variable. Additionally, we will set the rotation of our projectile to match the rotation of our Spacecraft.
+To create our projectile we can use the [`Instantiate()`](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/Object.Instantiate.html) method which creates a new clone of the object we provide it. We can also set the position of the projectile to fired from slightly in front of our Player by using an offset variable. Additionally, we will set the rotation of our projectile to match the rotation of our Spacecraft.
 
 ```cs
 public float projectileOffset = .8f;

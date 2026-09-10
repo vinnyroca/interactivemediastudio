@@ -17,8 +17,7 @@ To set our speed to a random value between .75 and 1.25 we can call  `Random.Ran
 void Start()
 {
     speed = Random.Range(.75f, 1.25f);
-    asteroidTransform = gameObject.GetComponent<Transform>();
-}
+...
 ```
 
 ## Random.insideUnitCircle

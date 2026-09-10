@@ -13,7 +13,7 @@ Now that our spacecraft has the ability to launch projectiles, let's rework our 
 
 [Collider 2D Reference](https://docs.unity3d.com/6000.3/Documentation/Manual/2d-physics/collider/collider-2d-landing.html)
 
-Colliders are components we can attach to game objects that define the collision bounds of that object. Within Unity, there are both 2D and 3D colliders. Since we are making a 2D project, we will focus on 2D colliders in this tutorial. Colliders are sometimes referred as hitboxes, particularly when referencing action or fighting games. Colliders or hitboxes used simplified shapes to allow for smoother and faster detection of collisions.
+Colliders are components we can attach to game objects that define the collision bounds of that object. Within Unity, there are both 2D and 3D colliders. Since we are making a 2D project, we will focus on 2D colliders in this tutorial. Colliders are sometimes referred to as hitboxes, particularly when referencing action or fighting games. Colliders or hitboxes use simplified shapes to allow for smoother and faster detection of collisions.
 
 <a title="Suit, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hitbox.jpg"><img width="300" alt="Hitbox" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Hitbox.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"></a>  
 
@@ -51,13 +51,13 @@ To add a Box Collider 2D Component:
 
 ![animated gif showing a user in Unity adding a box collider 2d component to a projectile game object](/Attachments/collider_6.gif)
 
-While we have collider on both our asteroid and projectile prefabs, we will notice that if we play our project, there is no interaction between our game objects. In the next part of this tutorial, we are edited our Asteroid.cs and Projectile.cs files to add in the collision logic.
+While we have a collider on both our asteroid and projectile prefabs, we will notice that if we play our project, there is no interaction between our game objects. In the next part of this tutorial, we will edit our Asteroid.cs and Projectile.cs files to add in the collision logic.
 
 ## Triggers
 
-As for the logic of our project, we want both our asteroids and projectiles to be destroyed when they collider with each other. While we can directly detect when these object collider and use this moment to write our destruction logic, we will instead use the trigger system within Unity. With our colliders, we can turn colliders into triggers. Triggers are a special type of collider that can phase through other colliders and trigger code on both themselves and the objects they interact with.
+As for the logic of our project, we want both our asteroids and projectiles to be destroyed when they collide with each other. While we can directly detect when these object collide and use this moment to write our destruction logic, we will instead use the trigger system within Unity. With our colliders, we can turn colliders into triggers. Triggers are a special type of collider that can phase through other colliders and trigger code on both themselves and the objects they interact with.
 
-In our case, we will turn our projectile into a trigger. We will then use the method `OnTriggerEnter2D()` to look at when our projectile colliders with our asteroid.
+In our case, we will turn our projectile into a trigger. We will then use the method `OnTriggerEnter2D()` to look at when our projectile collide with our asteroid.
 
 ### Making a Collider a Trigger
 
@@ -71,7 +71,7 @@ To make a collider a trigger, we need to check the **Is Trigger** property. Let'
 
 [OnTriggerEnter2D Reference](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/MonoBehaviour.OnTriggerEnter2D.html)
 
-To destroy our Asteroid, we can use the method `OnTriggerEnter2D()`. Like 'Update()' or `Start()`, this method is inherited from `MonoBehaviour`. This method is called when a trigger enters a collider when at least one of the colliding objects has a `RigidBody2D` component.
+To destroy our Asteroid, we can use the method `OnTriggerEnter2D()`. Like `Update()` or `Start()`, this method is inherited from `MonoBehaviour`. This method is called when a trigger enters a collider when at least one of the colliding objects has a `RigidBody2D` component.
 
 Within our Asteroid.cs file, we can add the method:
 
@@ -82,7 +82,7 @@ private void OnTriggerEnter2D(Collider2D collision)
 }
 ```
 
-Notice that this method takes in a specific parameter of type `Collider2D`. This parameter is require when making this method. The `collision` variable can be used to get information on the object collider with the object to which the `OnTriggerEnter2D()` method is attached.
+Notice that this method takes in a specific parameter of type `Collider2D`. This parameter is required when making this method. The `collision` variable can be used to get information on the object collider with the object to which the `OnTriggerEnter2D()` method is attached.
 
 Within this method we can use `Destroy()`:
 
@@ -99,7 +99,7 @@ Now, when we play our project, our projectile will destroy our asteroid game obj
 
 ### Destroying Projectile
 
-As a last step, our projectile continues its journey after destroying our asteroid. Let's adding the same trigger and destruction code to our Projectile.cs file. This will destroy our projectile when it comes into contact with any game object.
+As a last step, our projectile continues its journey after destroying our asteroid. Let's add the same trigger and destruction code to our Projectile.cs file. This will destroy our projectile when it comes into contact with any game object.
 
 ```cs
 private void OnTriggerEnter2D(Collider2D collision)
@@ -112,7 +112,7 @@ private void OnTriggerEnter2D(Collider2D collision)
 
 [Unity Manual: Tags](https://docs.unity3d.com/6000.3/Documentation/Manual/Tags.html)
 
-If we duplicate many asteroids within our scene, we can notice that unlike the original *Asteroid* game, our asteroids collider with each other, effecting each others paths:
+If we duplicate many asteroids within our scene, we can notice that unlike the original *Asteroid* game, our asteroids collide with each other, effecting each others paths:
 
 ![collider_5](/Attachments/collider_5.gif)
 
@@ -121,11 +121,11 @@ In order to correct this we need to make the **Circle Collider 2D** component on
 ![Screenshot of unity showing the Is Trigger checkbox checked on for a circle collider 2d component ](/Attachments/Pasted%20image%2020260817110037.png)
 
 
-This will allow our game objects to phase through each, however, as result of the logic within our Asteroid.cs file, this will also cause our asteroids to destroy each other:
+This will allow our game objects to phase through each other, however, as result of the logic within our Asteroid.cs file, this will also cause our asteroids to destroy each other:
 
 ![animated gif showing asteroids destroying each other](/Attachments/collider_7.gif)
 
-To fix this, we can use Tags. The Tag system within Unity allows us to to provide game objects with specified tags or labels, and to access these tags within our script. To fix our problem, we can give our projectile a Tag and, within our Asteroid.cs file, make the asteroid only destroys itself when it collides with a game object with a projectile tag.
+To fix this, we can use Tags. The Tag system within Unity allows us to provide game objects with specified tags or labels, and to access these tags within our script. To fix our problem, we can give our projectile a Tag and, within our Asteroid.cs file, make the asteroid only destroy itself when it collides with a game object with a projectile tag.
 
 ### Creating New Tags
 
@@ -147,7 +147,7 @@ Lastly, we can add the Projectile Tag to our Projectile prefab:
 
 [CompareTag() Reference](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/Component.CompareTag.html)
 
-Now that we have a Tag, we can edit of Asteroid.cs file to only destroy our asteroid if the colliding object has the tag `Projectile`. To do this, we can use the method `CompareTag()` on the `collision` variable of the `OnTriggerEnter2D()` method. Note that the `CompareTag()` method takes in a string variable. Therefore, we can provide the method with the value: `"Projectile"`. To only destroy our asteroid when we are colliding with a projectile, we can use an `if` statement:
+Now that we have a Tag, we can edit the Asteroid.cs file to only destroy our asteroid if the colliding object has the tag `Projectile`. To do this, we can use the method `CompareTag()` on the `collision` variable of the `OnTriggerEnter2D()` method. Note that the `CompareTag()` method takes in a string variable. Therefore, we can provide the method with the value: `"Projectile"`. To only destroy our asteroid when we are colliding with a projectile, we can use an `if` statement:
 
 ```cs
 private void OnTriggerEnter2D(Collider2D collision)
