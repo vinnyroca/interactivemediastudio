@@ -45,6 +45,8 @@ permalink: /schedule/
 - Tutorial: [Camera](/Tutorials/06_Camera/)
 - Tutorial: [Randomness](/Tutorials/07_randomness/)
 - Tutorial: [User Input](/Tutorials/08_UserInput/)
+- Exercise: Modify Input
+- Exercise: Add Rotation
 
 #### Due:
 - Read: [Good Clean Fun](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Newman. Z., M. (2017). *Atari Age*
@@ -75,6 +77,8 @@ permalink: /schedule/
 ### Thursday 9/17
 
 - Tutorial: User Interface
+- Tutorial: Fonts
+- Tutorial: Updating Text
 - Tutorial: Art and Animation
 
 #### Due:
@@ -84,7 +88,7 @@ permalink: /schedule/
 
 <h3 style="color: rgb(218, 112, 44)">Friday 9/18: Field Trip</h3>
 
-- Meet at Lost Levels Arcade: Time TBD
+- Meet at [Lost Levels Arcade](https://www.lostlevelsarcade.com/locations/arcade): 12:00 PM
 
 ## Week 4
 

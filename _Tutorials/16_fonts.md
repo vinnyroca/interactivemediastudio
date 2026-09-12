@@ -1,0 +1,31 @@
+
+Create Text
+Scale with screen size
+Text element, able to type with text
+Align elements with different parts of canvas
+
+create and rename score and lives text
+
+
+using TMPro;
+
+public TextMeshProUGUI scoreDisplay;
+public TextMeshProUGUI livesDisplay;
+
+```
+    void Update()
+    {
+        scoreDisplay.text = "SCORE: " + score.ToString();
+        livesDisplay.text = "LIVES: " + playerLives.ToString(); 
+    }
+```
+
+Connect in Unity
+Test Score
+
+Changing Fonts
+Importing fonts from google fonts
+making font asset
+assigning font
+
+Art and Animation

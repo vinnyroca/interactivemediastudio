@@ -52,7 +52,6 @@ Additionally, as T. L. Taylor notes in her book [Watch Me Play: Twitch and the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dH9w9VlyNO4?si=ujNNxJYUQTBg2MJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 ## Project Components
 
 | Component              | Points |
