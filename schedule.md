@@ -69,6 +69,7 @@ permalink: /schedule/
 
 - Tutorial: [Game Manger and Singleton](/Tutorials/11_gamemanager)
 - Tutorial: [Lists](/Tutorials/12_lists)
+
 #### Due:
 
 - Read: [Kocurek. A., C. (2012). The Agony and the Exidy: A History of Video Game Violence and the Legacy of Death Race. *Game Studies*, *12(1).*](https://gamestudies.org/1201/articles/carly_kocurek/)
@@ -255,6 +256,7 @@ permalink: /schedule/
 ### Tuesday 11/17
 
 - Crit: Media Island
+
 #### Due:
 
 - Project: Media Island project
