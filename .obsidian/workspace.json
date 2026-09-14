@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tutorials/16_fonts.md",
+                "file": "_Tutorials/20_animationstates.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "16_fonts"
+              "title": "20_animationstates"
             }
           }
         ]
@@ -189,20 +189,31 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "_Tutorials/18_art.md",
     "_Tutorials/19_animation.md",
-    "_site/Tutorials/19_animation.md",
+    "schedule.md",
+    "resources.md",
+    "_Tutorials/20_animationstates.md",
+    "_site/Attachments/19_7.gif",
+    "Attachments/19_7.gif",
+    "_site/Tutorials/20_animationstates.md",
     "_site/Tutorials/Untitled.md",
-    "_site/Attachments/Pasted image 20260913165819.png",
-    "Attachments/Pasted image 20260913165819.png",
-    "_site/Attachments/Pasted image 20260913164513.png",
-    "Attachments/Pasted image 20260913164513.png",
-    "_site/Attachments/18_6.gif",
-    "Attachments/18_6.gif",
-    "_site/Attachments/Pasted image 20260913163214.png",
-    "Attachments/Pasted image 20260913163214.png",
-    "_site/Attachments/Pasted image 20260913163143.png",
-    "Attachments/Pasted image 20260913163143.png",
+    "_site/Attachments/19_6.gif",
+    "Attachments/19_6.gif",
+    "_site/Attachments/19_5.gif",
+    "Attachments/19_5.gif",
+    "_site/Attachments/Pasted image 20260913221345.png",
+    "Attachments/Pasted image 20260913221345.png",
+    "_site/Attachments/19_4.gif",
+    "Attachments/19_4.gif",
+    "_Tutorials/18_art.md",
+    "_site/Tutorials/19_animation/index.html",
+    "_site/Tutorials/19_animation",
+    "_site/Tutorials/19_a/index.html",
+    "_site/Tutorials/19_a",
+    "_site/Tutorials/19_art/index.html",
+    "_site/Tutorials/19_art",
+    "_Tutorials/16_fonts.md",
+    "_site/Tutorials/19_animation.md",
     "_site/Tutorials/18_art/index.html",
     "_site/Tutorials/18_art",
     "_site/Tutorials/18_updatinglivesandscore/index.html",
@@ -213,14 +224,7 @@
     "_Tutorials/11_gamemanager.md",
     "_Tutorials/13_asteroidgen.md",
     "_Tutorials/14_livesandrestart.md",
-    "_Tutorials/16_fonts.md",
     "_site/Tutorials/Art.md",
-    "_site/Tutorials/17_updatinglivesandscore/index.html",
-    "_site/Tutorials/17_updatinglivesandscore",
-    "_site/Tutorials/16_fonts/index.html",
-    "_site/Tutorials/16_fonts",
-    "schedule.md",
-    "resources.md",
     "_Tutorials/15_ui.md",
     "_Tutorials/10_colliderstriggerstags.md",
     "_Tutorials/09_PrefabsInstantiationandDestroy.md",
@@ -229,11 +233,6 @@
     "_Tutorials/06_Camera.md",
     "_Tutorials/05_Physics.md",
     "_Tutorials/04_GetComponentAndTransform.md",
-    "_Tutorials/03_CSharpFundamentals.md",
-    "_Tutorials/02_GameObjectsComponentsCSharp.md",
-    "_Tutorials/01_IntroductionToUnity.md",
-    "_site/Tutorials/15_ui/index.html",
-    "_site/Tutorials/15_ui",
-    "_site/Tutorials/17_updatinglivesandscore.md"
+    "_Tutorials/03_CSharpFundamentals.md"
   ]
 }

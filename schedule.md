@@ -80,7 +80,9 @@ permalink: /schedule/
 - Tutorial: User Interface
 - Tutorial: Fonts
 - Tutorial: Updating Text
-- Tutorial: Art and Animation
+- Tutorial: Art
+- Tutorial: Animation
+- Tutorial: Animation States
 
 #### Due:
 
