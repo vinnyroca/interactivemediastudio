@@ -4,7 +4,7 @@ title: Fonts
 permalink: /Tutorials/16_fonts/
 ---
 
-## Fonts
+# Fonts
 
 In this tutorial we will learn how to import fonts into Unity and apply those fonts to Text Mesh Pro components.
 

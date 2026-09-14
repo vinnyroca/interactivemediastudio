@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tutorials/12_lists.md",
+                "file": "_Tutorials/16_fonts.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "12_lists"
+              "title": "16_fonts"
             }
           }
         ]
@@ -189,32 +189,39 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "_Tutorials/11_gamemanager.md",
+    "_Tutorials/18_art.md",
+    "_Tutorials/19_animation.md",
+    "_site/Tutorials/19_animation.md",
+    "_site/Tutorials/Untitled.md",
+    "_site/Attachments/Pasted image 20260913165819.png",
+    "Attachments/Pasted image 20260913165819.png",
+    "_site/Attachments/Pasted image 20260913164513.png",
+    "Attachments/Pasted image 20260913164513.png",
+    "_site/Attachments/18_6.gif",
+    "Attachments/18_6.gif",
+    "_site/Attachments/Pasted image 20260913163214.png",
+    "Attachments/Pasted image 20260913163214.png",
+    "_site/Attachments/Pasted image 20260913163143.png",
+    "Attachments/Pasted image 20260913163143.png",
+    "_site/Tutorials/18_art/index.html",
+    "_site/Tutorials/18_art",
+    "_site/Tutorials/18_updatinglivesandscore/index.html",
+    "_site/Tutorials/18_updatinglivesandscore",
+    "_site/Tutorials/18_art.md",
+    "_Tutorials/17_updatinglivesandscore.md",
     "_Tutorials/12_lists.md",
+    "_Tutorials/11_gamemanager.md",
     "_Tutorials/13_asteroidgen.md",
     "_Tutorials/14_livesandrestart.md",
     "_Tutorials/16_fonts.md",
-    "_Tutorials/17_updatinglivesandscore.md",
-    "_Tutorials/Art.md",
     "_site/Tutorials/Art.md",
-    "_site/Tutorials/Untitled.md",
     "_site/Tutorials/17_updatinglivesandscore/index.html",
     "_site/Tutorials/17_updatinglivesandscore",
     "_site/Tutorials/16_fonts/index.html",
     "_site/Tutorials/16_fonts",
-    "_site/Attachments/16_5.gif",
-    "_site/Attachments/16_4.gif",
-    "_site/Attachments/16_3.gif",
-    "_site/Attachments/16_2.gif",
-    "_site/Attachments/16_1.gif",
-    "Attachments/16_5.gif",
     "schedule.md",
     "resources.md",
     "_Tutorials/15_ui.md",
-    "Attachments/16_4.gif",
-    "Attachments/16_3.gif",
-    "Attachments/16_2.gif",
-    "Attachments/16_1.gif",
     "_Tutorials/10_colliderstriggerstags.md",
     "_Tutorials/09_PrefabsInstantiationandDestroy.md",
     "_Tutorials/08_UserInput.md",
@@ -227,13 +234,6 @@
     "_Tutorials/01_IntroductionToUnity.md",
     "_site/Tutorials/15_ui/index.html",
     "_site/Tutorials/15_ui",
-    "_site/Tutorials/17_updatinglivesandscore.md",
-    "_site/Tutorials/16_fonts.md",
-    "arcade.md",
-    "Introduction.md",
-    "_site/intro/index.html",
-    "_site/intro",
-    "Tutorials",
-    "_site/Tutorials/14_livesandrestart/index.html"
+    "_site/Tutorials/17_updatinglivesandscore.md"
   ]
 }

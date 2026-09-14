@@ -1,3 +1,9 @@
+
+
+If we drag our asteroid image into our scene, we will notice that image does not look quite right. The image is a bit too large and it is also blurry along the pixel edges. To fix this, we need to adjust a few setting within our import settings.
+
+
+
 Importing Art Assets
 Sprites
 Explination of what sprites are
@@ -71,4 +77,3 @@ that is becuase of exit time, we dont want a transtion we want instance, we can 
 Watch as animation plays normally.
 
 Challange, customize the animations within your sceen, using software of your choice, create an animation for player destruction and add it to your scene. You may need to add a timer to delay the time by which the player spawns
-
