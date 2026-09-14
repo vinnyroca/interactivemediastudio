@@ -24,7 +24,7 @@ That array length will always be 5. This can work in some situations, but, for o
 
 Within C# we and use `List<T>`. Lists mange resizing automatically and allow us to add and remove items to a list as needed.
 
-Within this tutorial we will use a list of asteroids to keep track of the asteroids within our scene. We will add asteroids to the list when they are instantiated and remove asteroids from the list when they are destroyed. When all asteroids our destroyed, and our list has zero objects, we will create a new set of asteroids.
+Within this tutorial we will use a list of asteroids to keep track of the asteroids within our scene. We will add asteroids to the list when they are instantiated and remove asteroids from the list when they are destroyed. When all asteroids are destroyed, and our list has zero objects, we will create a new set of asteroids.
 
 ## Creating a List
 
@@ -80,7 +80,7 @@ void RemoveAsteroid(GameObject asteroid)
 
 ## Adding and Removing Asteroids
 
-Now that we have our `AddAsteroid()` and `RemoveAsteroid()` methods, we need to implement these methods within our GameManger script. 
+Now that we have our `AddAsteroid()` and `RemoveAsteroid()` methods, we need to implement these methods within our GameManager script. 
 
 For adding asteroids, we can call `AddAsteroid()` in our `SpawnAsteroids()` method following the instantiation of an asteroid. In order to pass our new asteroid object to our `AddAsteroid()` method, we need to store our newly created asteroid in a `GameObject` variable. We can call this variable `newAsteroid`:
 
@@ -110,7 +110,7 @@ public void RemoveAsteroid(GameObject asteroid)
 }
 ```
 
-Once our methods are public, we can then access our `RemoveAsteroid()` method in our Asteroid.cs file by first accessing the `GameManger` class, then the `instance` variable, and finally our `RemoveAsteroid()` method. We will call this in our `OnTriggerEnter2D` method right before our asteroid is destroyed. We can provide the `RemoveAsteroid()` with the value `gameObject` which is equal to the game object the Asteroid component is attached to. When we call this method, our game manger will search for that asteroid within our asteroid list and remove it from the list.
+Once our methods are public, we can then access our `RemoveAsteroid()` method in our Asteroid.cs file by first accessing the `GameManager` class, then the `instance` variable, and finally our `RemoveAsteroid()` method. We will call this in our `OnTriggerEnter2D` method right before our asteroid is destroyed. We can provide the `RemoveAsteroid()` with the value `gameObject` which is equal to the game object the Asteroid component is attached to. When we call this method, our game manager will search for that asteroid within our asteroid list and remove it from the list.
 
 ```cs
 // Asteroid.cs file
@@ -153,7 +153,7 @@ Now when we play our project we will see a new wave of asteroids spawn after the
 
 ![Animated gif showing a new wave of asteroids spawn after a previous wave of asteroids has been destroyed](/Attachments/list_2.gif)
 
-At the end of this tutorial your GameManger.cs and Asteroid.cs file should look like this:
+At the end of this tutorial your GameManager.cs and Asteroid.cs file should look like this:
 
 ```cs
 using System.Collections.Generic;

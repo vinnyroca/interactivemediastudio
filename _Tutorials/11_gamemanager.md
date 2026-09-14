@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Game Manger and Singletons
+title: Game Manager and Singletons
 permalink: /Tutorials/11_gamemanager/
 ---
 
-# Game Manger and Singletons
+# Game Manager and Singletons
 
 Currently our project exists as an interesting asteroid destroyer prototype, but doesn't consist of any game logic. While win states, lose states, etc. are not required to make an interactive media art work, in this tutorial we will explore how to implement a game loop to learn about management scripts and the singleton programming pattern.
 
@@ -14,13 +14,13 @@ Currently our project exists as an interesting asteroid destroyer prototype, but
 
 [Unity Design Patterns](https://www.unitydesignpatterns.com/) (Although this site has all of the hallmarks of being vibe coded, the information for each pattern is a great introduction.)
 
-A programming pattern is a way of structuring code to solve a software design problem. The easiest way to think about programming patterns is as tools at your disposal to structure your code. There is never one solution for every project, and often times projects might include multiple programming patterns. Most likely, your project will consists of a collection of design patterns and custom systems. Its important to note that you don't need to know what programming pattern you will use when starting a project. Often times we restructure our projects to make them simpler and more adaptable after our initial prototypes. This process in called [refactoring](https://en.wikipedia.org/wiki/Code_refactoring).
+A programming pattern is a way of structuring code to solve a software design problem. The easiest way to think about programming patterns is as tools at your disposal to structure your code. There is never one solution for every project, and often times projects might include multiple programming patterns. Most likely, your project will consists of a collection of design patterns and custom systems. Its important to note that you don't need to know what programming pattern you will use when starting a project. Often times we restructure our projects to make them simpler and more adaptable after our initial prototypes. This process is called [refactoring](https://en.wikipedia.org/wiki/Code_refactoring).
 
-While perhaps taken over by the silicon valley ethos of "move fast and break things," designing to get things working and the reworking projects to be easier to understand and more scalable can be found across many types of media production. We can think of it as a process of initially sketching and idea, and then coming back to refine the details. This will become more relevant when you being working on your own projects and when we discuss your design approaches. For now, we are going to focus on a single pattern, the singleton pattern.
+While perhaps taken over by the silicon valley ethos of "move fast and break things," designing to get things working and then reworking projects to be easier to understand and more scalable can be found across many types of media production. We can think of it as a process of initially sketching an idea, and then coming back to refine the details. This will become more relevant when you begin working on your own projects and when we discuss your design approaches. For now, we are going to focus on a single pattern, the singleton pattern.
 
 ## The Problem
 
-Within our Asteroids game, we are able to move our ship around and destroy Asteroids. However, as mentioned above, this game does not contain a game loop. In many arcade games of the 1970's and 1980's, when designers were still figuring out what a video game is, game loops were rather simple compared to today's complex systems. Avoid a thing, hit a thing, etc. Pong infamous game loop: "AVOID MISSING BALL FOR HIGHSCORE."
+Within our Asteroids game, we are able to move our ship around and destroy Asteroids. However, as mentioned above, this game does not contain a game loop. In many arcade games of the 1970's and 1980's, when designers were still figuring out what a video game is, game loops were rather simple compared to today's complex systems. Avoid a thing, hit a thing, etc. Pong's infamous game loop: "AVOID MISSING BALL FOR HIGHSCORE."
 
 The game loop of Asteroids consists of waves of Asteroids. When a wave of asteroids are destroyed, a new wave of asteroids is created. Players attempt to destroy as many asteroids as possible within three chances.
 
@@ -36,9 +36,9 @@ The singleton pattern allows us to create a script that can only exist as one in
 
 ### Creating a Singleton Game Manager
 
-Begin by creating a new MonoBehavior script called `GameManger`.
+Begin by creating a new MonoBehavior script called `GameManager`.
 
-Within the GameManger script we can begin by adding the variable line:
+Within the GameManager script we can begin by adding the variable line:
 
 ```cs
 public static GameManager instance;
@@ -46,9 +46,9 @@ public static GameManager instance;
 
 The important thing to note is the keyword `static`. Unlike other variables that belong to specific instance of a class (think of the `speed` variable for each asteroid), `static` variables belong to the class itself. We have already seen static variables within this course. For example, if we wanted to get access to a (0,0) vector, we could call `Vector2.zero`. In this case, we are not calling a particular instance of the `Vector2` class, instead we are just calling the class itself and getting access to a `static` variable that exist within that class.
 
-When we create our `public static GameManager instance` variable, we are creating a variable that we can call from any script by using the code `GameManger.instance`. We don't need to know which instance we are calling, we can instead just call the whole class.
+When we create our `public static GameManager instance` variable, we are creating a variable that we can call from any script by using the code `GameManager.instance`. We don't need to know which instance we are calling, we can instead just call the whole class.
 
-But what exactly are we calling? Since our `instance` variable is of type `GameManger`, we are calling a GameManger instance. Currently this is unassigned. We want to assign this variable a value of this script, or in other words, the instance of GameManger script within our scene.
+But what exactly are we calling? Since our `instance` variable is of type `GameManager`, we are calling a GameManager instance. Currently this is unassigned. We want to assign this variable a value of this script, or in other words, the instance of GameManager script within our scene.
 
 To do this, let's first create a new function called `Awake()`. This function is called as soon as are game starts.
 
@@ -63,20 +63,20 @@ public class GameManager : MonoBehaviour
     }
 ```
 
-Within this a wake function, we can to set `Instance` to be equal to this script within our scene. To do this, we can use the keyword `this`. `this` just equals *this* script. Now, if we were to place this script within our scene, anytime we call `GameManger.instance`, in any script, we can get access to the GameManger script within our scene.
+Within this a wake function, we can set `Instance` to be equal to this script within our scene. To do this, we can use the keyword `this`. `this` just equals *this* script. Now, if we were to place this script within our scene, anytime we call `GameManager.instance`, in any script, we can get access to the GameManager script within our scene.
 
 ### Limiting Instances
 
-As you might be able to imagine, this code could create some serious problems down the line. As a thought experiment, imagine if we had two different GameManger scripts within our Unity scene, which one would `GameManager.instance` call? The answer would be rather unpredictable and it would basically matter on which instance was called most recently.  Essentially, we would have an unreliable system.
+As you might be able to imagine, this code could create some serious problems down the line. As a thought experiment, imagine if we had two different GameManager scripts within our Unity scene, which one would `GameManager.instance` call? The answer would be rather unpredictable and it would basically matter on which instance was called most recently.  Essentially, we would have an unreliable system.
 
-As a check, we need to implement some code that will ensure that only one instance of our GameManger exists within our scene at any given point. This is the second part of the singleton game pattern.
+As a check, we need to implement some code that will ensure that only one instance of our GameManager exists within our scene at any given point. This is the second part of the singleton game pattern.
 
 To do this, we need to check two things every time we call the `Awake()` function:
 
 - Does `instance` already exists
 - Is `instance` equal to this script
 
-This way, if there are two versions of our script within the scene, after these checks, we can write some code to destroy the script is a previous `instance` already exists.
+This way, if there are two versions of our script within the scene, after these checks, we can write some code to destroy the script if a previous `instance` already exists.
 
 To check if an `instance` already exists we can use the line:
 
@@ -106,7 +106,7 @@ public class GameManager : MonoBehaviour
     }
 ```
 
-As a last step, we what to make sure that we are not continuously destroying the first instance we create. To do this, before destroying an instance, well make sure that if it does exist, it is not equal to the current value of instance. Within our if statement, we can use the line:
+As a last step, we what to make sure that we are not continuously destroying the first instance we create. To do this, before destroying an instance, we will make sure that if it does exist, it is not equal to the current value of instance. Within our if statement, we can use the line:
 
 ```cs
 instance != this
@@ -150,7 +150,7 @@ For the next step in this tutorial, we will use our GameManager script to create
 
 ## Asteroids Game Loop
 
-To control our game loop, our GameManger script needs to control a few elements:
+To control our game loop, our GameManager script needs to control a few elements:
 
 - Starting our game by making our player and asteroids
 - Spawn our asteroids
@@ -163,41 +163,41 @@ In this tutorial, we will focus on starting our game and spawning asteroids.
 
 ### Converting Asteroid and Player into prefabs
 
-As a first step, we need to turn our asteroid and player game objects into prefabs. This will allow our game manger to instantiate our asteroid and our player in our scene. To do this, we can drag our Player and Asteroid game objects into our Project window and delete them from our scene view.
+As a first step, we need to turn our asteroid and player game objects into prefabs. This will allow our game manager to instantiate our asteroid and our player in our scene. To do this, we can drag our Player and Asteroid game objects into our Project window and delete them from our scene view.
 
 ![animated gif showing a user creating a player and asteroid prefab](/Attachments/manager_1.gif)
 
 ### Accessing our Player and Asteroid prefabs
 
-Within our, GameManager.cs file, we can then create variable to hold our player and asteroid prefabs:
+Within our, GameManager.cs file, we can then create variables to hold our player and asteroid prefabs:
 
 ```cs
 public GameObject player;
 public GameObject asteroid;
 ```
 
-Next, we need to assign these variables values within our Unity Editor. We first need to add our GameManager script to our scene by creating a Game Manger object.
+Next, we need to assign these variables values within our Unity Editor. We first need to add our GameManager script to our scene by creating a Game Manager object.
 
-Begin by creating an **Empty Object** by navigating to **GameObject > Empty** and renaming it **Game Manger**:
+Begin by creating an **Empty Object** by navigating to **GameObject > Empty** and renaming it **Game Manager**:
 
 ![animated gif showing a user creating an empty game object](/Attachments/manager_2.gif)
 
-Next, we can add our GameManger script to our Game Manger object:
+Next, we can add our GameManager script to our Game Manager object:
 
-![Animated gif showing a user adding a GameManger script to a game object](/Attachments/manager_3.gif)
+![Animated gif showing a user adding a GameManager script to a game object](/Attachments/manager_3.gif)
 
 Finally, we can drag our Asteroid and Player prefab into the variable slots on our GameManager component:
 
-![Animated gif showing a user drag an asteroid and player prefab in to a GameManger component](/Attachments/manager_4.gif)
+![Animated gif showing a user drag an asteroid and player prefab in to a GameManager component](/Attachments/manager_4.gif)
 
 
 ## Custom Methods
 
 Now that we have access to our Player and Asteroid prefabs, let's write some logic so that when we start the game our Player and Asteroid appear within our scene.
 
-Let's start by creating three custom methods within our GameManger.cs file. These methods will handle spawning our asteroids, our player and starting our game. Let's name these functions
+Let's start by creating three custom methods within our GameManager.cs file. These methods will handle spawning our asteroids, our player and starting our game. Let's name these functions
 
-- StartGame()`
+- `StartGame()`
 - `SpawnPlayer()`
 - `SpawnAsteroids()`
 
@@ -235,7 +235,7 @@ Within our `StartGame()` methods, let's call `SpawnAsteroids()` and `SpawnPlayer
 This way when our game starts we will spawn our player and our asteroids.
 ## Spawn Player
 
-Within `SpawnPlayer()`, we can instantiate our player. We can want to place our player in the center of our screen, so let's provide our `Instantiate()` method with a value of `Vector3.zero`. When we provide a position variable, we also need to provide a rotation variable. We want our player to keep the neutral up rotation it has in our prefab. To do this, we can provide our instantiate method with the value `Quaternion.identity`:
+Within `SpawnPlayer()`, we can instantiate our player. We want to place our player in the center of our screen, so let's provide our `Instantiate()` method with a value of `Vector3.zero`. When we provide a position variable, we also need to provide a rotation variable. We want our player to keep the neutral up rotation it has in our prefab. To do this, we can provide our instantiate method with the value `Quaternion.identity`:
 
 ```cs
 Instantiate(player, Vector3.zero, Quaternion.identity);
@@ -308,7 +308,7 @@ Spawning Asteroids is more complicated than spawning our player. We need to add 
 int asteroidsToSpawn = 5;
 ```
 
-In our `SpawnAsteroids()` method, we can then use a `for` loop to spawn a number asteroids based on `asteroidsToSpawn`:
+In our `SpawnAsteroids()` method, we can then use a `for` loop to spawn a number of asteroids based on `asteroidsToSpawn`:
 
 ```cs
     void SpawnAsteroids()
@@ -320,7 +320,7 @@ In our `SpawnAsteroids()` method, we can then use a `for` loop to spawn a number
     }
 ```
 
-Currently, this will spawn all of our asteroids in the same position. Let's make a method that can return a random position near the edges our screen to place our asteroids.
+Currently, this will spawn all of our asteroids in the same position. Let's make a method that can return a random position near the edges of our screen to place our asteroids.
 
 ### Random Asteroid Positions
 
@@ -437,9 +437,9 @@ void GetRandomAsteroidPosition()
 
 ```
 
-Reading this code closely you will notice that this code is calculating a random number between the width and height of each zone by using our screen height, screen width and padding variable. For example, Zone 1 is at the top of our screen. The width of that zone is between the the positive and negative value of half our overall width. Meaning if the width of screen was 10, the bounds would be from -5 to 5. The height of this zone would be a range from half the height our screen to half the height our screen minus our padding value. As an example, if the height our screen was 8, the height of this zone would be between 4 and 2.
+Reading this code closely you will notice that this code is calculating a random number between the width and height of each zone by using our screen height, screen width and padding variable. For example, Zone 1 is at the top of our screen. The width of that zone is between the the positive and negative value of half our overall width. Meaning if the width of our screen was 10, the bounds would be from -5 to 5. The height of this zone would be a range from half the height our screen to half the height our screen minus our padding value. As an example, if the height of our screen was 8, the height of this zone would be between 4 and 2.
 
-Therefore, to to find a random position in Zone 1, we need a random x value between -5 and 5, and a random y value between 2 and 4. Since position is a `Vector3`, we can provide the z value of our random position with a value of zero.
+Therefore, to find a random position in Zone 1, we need a random x value between -5 and 5, and a random y value between 2 and 4. Since position is a `Vector3`, we can provide the z value of our random position with a value of zero.
 
 ### Returning Values
 
@@ -456,7 +456,7 @@ Then, at the bottom of our method, we can add:
 return randomPosition; 
 ```
 
-As a refresher, if a method returns a value, when we call this method we will get a value. In our case, when we call `GetRandomAsteroidPosition()` we will get back a `Vector3` value. This is similar to when call `Random.Range()` we get a random value back.
+As a refresher, if a method returns a value, when we call this method we will get a value. In our case, when we call `GetRandomAsteroidPosition()` we will get back a `Vector3` value. This is similar to when we call `Random.Range()` we get a random value back.
 
 Our final method should look like this:
 

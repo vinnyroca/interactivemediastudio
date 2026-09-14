@@ -12,14 +12,16 @@ So far within our tutorials we have a playable version of asteroids. Within our 
 
 Before we begin editing our code, we can take a moment to consider what we need our asteroid generation system to do:
 
-- Spawn one large asteroid, give it a large size and a slow speed
-- Add this asteroid to this asteroid list
-- On destruction, spawn two asteroids, remove original asteroid from asteroid list
-- Add two new asteroids to asteroid list and give them a medium size and medium speed
-- On destruction, spawn three small asteroids, remove original asteroid from asteroid list
-- Add three new asteroids to asteroid list and give them a small size and fast speed
-- On destruction, remove from asteroid list
-- When all small asteroids as destroyed, spawn a new wave of large asteroids
+- Spawn one large asteroid (give it a large size and a slow speed)
+	- Add this asteroid to the asteroid list
+- On destruction, spawn two asteroids (medium size and medium speed)
+	- remove original asteroid from asteroid list
+	- Add two new asteroids to asteroid list
+- On destruction, spawn three small asteroids (small size and fast speed)
+	- remove original medium asteroid from asteroid list
+	- Add the three new asteroids to asteroid list
+- On destruction, remove small asteroid from asteroid list
+- When all small asteroids are destroyed, spawn a new wave of large asteroids
 
 Looking at this logic, we can understand that our small, medium, and large asteroids are all essentially the same asteroid game object. The only differences between them is their size, speed and how many asteroids they spawn on destruction.
 
