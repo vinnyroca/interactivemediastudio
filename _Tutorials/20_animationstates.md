@@ -1,3 +1,8 @@
+---
+layout: page
+title: Animation States
+permalink: /Tutorials/20_animationstates/
+---
 
 # Animation States
 
