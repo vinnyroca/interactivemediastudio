@@ -86,7 +86,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Complete Tutorial: [Asteroid Generations](/Tutorials/12_asteroidgen)
+- Complete Tutorial: [Asteroid Generations](/Tutorials/13_asteroidgen/)
 - Complete Tutorial: [Player Lives and Score](/Tutorials/14_livesandrestart)
 
 <h3 style="color: rgb(218, 112, 44)">Friday 9/18: Field Trip</h3>
@@ -286,7 +286,7 @@ permalink: /schedule/
 - Read: Chapter 1 from Nicoll. B., Keogh, B. (2019) *The Unity Game Engine and the Circuits of Cultural Software*.
 - Read: Chapter 1 from Bittanti, M., Ruffino, P., Catricala, V. (2026) *Game Engine Culture(s)*
 
-<h3 style="color: rgb(218, 112, 44)">Tuesday 11/26: Break</h3>
+<h3 style="color: rgb(218, 112, 44)">Thursday 11/26: Break</h3>
 
 - Break
 

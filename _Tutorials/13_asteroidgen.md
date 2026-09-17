@@ -3,7 +3,6 @@ layout: page
 title: Asteroid Generations
 permalink: /Tutorials/13_asteroidgen/
 ---
-
 # Asteroid Generations
 
 So far within our tutorials we have a playable version of asteroids. Within our current version, we can destroy all the asteroids and a new wave of asteroids will spawn. Within the original version of the game, when an asteroid is destroyed, it breaks apart into a smaller asteroid. In this tutorial we will learn more about communication between scripts in Unity to create the effect of asteroids breaking apart. 

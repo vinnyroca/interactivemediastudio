@@ -20,7 +20,7 @@ When you find a font that you like, make sure you can download a typeface file t
 
 ## Importing Fonts
 
-To import a font into your Unity scene, you can Right Click into your Project window and navigate to **Import New Asset** and then the file you want to import. You can also directly drag and drop  files into your assets folder. I've downloaded the *Press Start 2P* typeface from Google Fonts. I can being the .ttf file into my project:
+To import a font into your Unity scene, you can Right Click into your Project window and navigate to **Import New Asset** and then the file you want to import. You can also directly drag and drop  files into your assets folder. I've downloaded the *Press Start 2P* typeface from Google Fonts. I can bring the .ttf file into my project:
 
 ![Animated clip of importing a font](/Attachments/16_1.gif)
 
@@ -37,13 +37,13 @@ To create a Font Asset:
 1. Select your **Source Font**
 2. Choose your Atlas resolution (1024x1024) works in most cases
 3. Select Generate Font Asset
-4. Save you Fong Asset to the Asset folder (or subfolder) of your Unity Project
+4. Save your Font Asset to the Asset folder (or subfolder) of your Unity Project
 
 ![Animated Gif of creating a Font Asset](/Attachments/16_3.gif)
 
 ## Assigning Fonts
 
-Once we create our Font Asset, we can then assign the asset to our text mesh pro objects. To do this, we can navigate to our Score Text and Lives Text, and select our font asset with the Text Mesh Pro component. We may need to adjust the width and height our rect transforms:
+Once we create our Font Asset, we can then assign the asset to our text mesh pro objects. To do this, we can navigate to our Score Text and Lives Text, and select our font asset with the Text Mesh Pro component. We may need to adjust the width and height of our rect transforms:
 
 ![Animated image of assigning fonts](/Attachments/16_4.gif)
 
