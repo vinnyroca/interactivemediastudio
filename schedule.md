@@ -162,18 +162,13 @@ permalink: /schedule/
 
 - Read: Media Island project description
 
-### Thursday 10/15
+<h3 style="color: rgb(218, 112, 44)">Thursday 10/15: I'm away at a conference</h3>
 
-- Interfaces
-- Events
+- Play assigned Media Island Games during class together. 
 
 #### Due:
 
-- Watch/Listen: [How Computers Took Over Our Lives with Laine Nooney - Factually! - 220](https://www.youtube.com/watch?v=Nbd3TrUgX-A). This is an interview with Laine Nooney on their book, *The Apple II Age*. This podcast is a good frame work for the chapter on games you will be reading from Nooney's book
-- Read: [Games](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Nooney, L. (2023). *The Apple II Age: How the Computer Became Personal*.
-- Play (30 min +): [Mystery House](https://archive.org/details/Hi-Res_Adventure_1_Mystery_House_1980_On-Line_Systems) by Roberta and Ken Williams
-- Recommended: Read: [Nooney, L. (2013) A Pedestal, A Table, A Love Letter: Archaeologies of Gender in Video Game History. *Game Studies. 13(1).*](https://gamestudies.org/1302/articles/nooney)
-- Recommended: Read: [Nooney, L. (2017) Let’s Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game/ *American Journal of Play. 10(1).*](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf)
+- Project: Media Island Close Play, Friday @ Midnight
 
 ## Week 8
 
@@ -187,6 +182,20 @@ permalink: /schedule/
 
 ### Thursday 10/22
 
+- Interfaces
+- Events
+
+#### Due:
+
+- Watch/Listen: [How Computers Took Over Our Lives with Laine Nooney - Factually! - 220](https://www.youtube.com/watch?v=Nbd3TrUgX-A). This is an interview with Laine Nooney on their book, *The Apple II Age*. This podcast is a good frame work for the chapter on games you will be reading from Nooney's book
+- Read: [Games](https://scrippscollege.box.com/s/ngfomcmg1dvafduq2pesnrxa8ij7uacq) from Nooney, L. (2023). *The Apple II Age: How the Computer Became Personal*.
+- Play (30 min +): [Mystery House](https://archive.org/details/Hi-Res_Adventure_1_Mystery_House_1980_On-Line_Systems) by Roberta and Ken Williams
+- Recommended: Read: [Nooney, L. (2013) A Pedestal, A Table, A Love Letter: Archaeologies of Gender in Video Game History. *Game Studies. 13(1).*](https://gamestudies.org/1302/articles/nooney)
+- Recommended: Read: [Nooney, L. (2017) Let’s Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game/ *American Journal of Play. 10(1).*](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf)
+## Week 9
+
+### Tuesday 10/27
+
 - Tutorial: Inventory
 
 #### Due:
@@ -198,9 +207,8 @@ permalink: /schedule/
 - Recommended: Play: [The Manhole](https://archive.org/details/TheManholeMacintosh)
 - Recommended: Watch: [Classic Postmortem: The Making Of Myst](https://www.youtube.com/watch?v=7cULHgP8tmo&t=2222s)
 
-## Week 9
 
-### Tuesday 10/27
+### Thursday 10/29
 
 - Tutorial: Dialog
 
@@ -209,14 +217,6 @@ permalink: /schedule/
 - Watch: [Yet Another Excavation Zone: the Multimedia by Erkki Huhtamo](https://www.youtube.com/watch?v=VepVdR7alS0)
 - Read: [Exhibition Text](https://contactzones.cit.cornell.edu/why.html) for Contact Zones: The Art of CD-Rom, Browse the exhibition artists
 - Read: [Resurrecting the Digital Past: Access to Artistic Content on CD-ROMs](https://www.tate.org.uk/research/collection-care-research/resurrecting-the-digital-past-access-to-artistic-content-on-cd-roms)
-
-### Thursday 10/29
-
-- Tutorial: TBD
-
-#### Due:
-
-- Project: Media Island Close Play, Friday @ Midnight
 
 ## Week 10
 
