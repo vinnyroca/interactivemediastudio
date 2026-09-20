@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schedule.md",
+                "file": "_Tutorials/Sound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schedule"
+              "title": "Sound"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.16668701171875
   },
   "right": {
     "id": "daf4acf1f2db33f2",
@@ -189,6 +189,9 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
+    "point and click.md",
+    "_Tutorials/Sound.md",
+    "schedule.md",
     "_Tutorials/20_animationstates.md",
     "_Tutorials/19_animation.md",
     "_Tutorials/18_art.md",
@@ -205,7 +208,6 @@
     "Attachments/20_10.gif",
     "Attachments/20_9.gif",
     "Attachments/20_8.gif",
-    "schedule.md",
     "_Tutorials/13_asteroidgen.md",
     "_Tutorials/12_lists.md",
     "_Tutorials/11_gamemanager.md",
@@ -232,7 +234,6 @@
     "_Tutorials/07_Randomness.md",
     "_Tutorials/06_Camera.md",
     "_Tutorials/05_Physics.md",
-    "_Tutorials/04_GetComponentAndTransform.md",
-    "_Tutorials/03_CSharpFundamentals.md"
+    "_Tutorials/04_GetComponentAndTransform.md"
   ]
 }
