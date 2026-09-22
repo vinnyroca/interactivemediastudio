@@ -189,9 +189,14 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
+    "_Tutorials/22_Scenes.md",
+    "_Tutorials/23_Game Data.md",
+    "Attachments/22_1.gif",
+    "Attachments/Pasted image 20260921205433.png",
+    "Attachments/Pasted image 20260921205407.png",
+    "_Tutorials/21_Sound.md",
     "Attachments/AsteroidsAudio.mp4",
     "_site/Attachments/AsteroidsAudio.mp4",
-    "_Tutorials/21_Sound.md",
     "_site/Attachments/Screen Recording 2026-09-21 174010.mp4",
     "Attachments/Screen Recording 2026-09-21 174010 1.mp4",
     "_site/Attachments/Screen Recording 2026-09-21 174010 1.mp4",
@@ -207,11 +212,7 @@
     "_site/Attachments/Pasted image 20260921165548.png",
     "Attachments/Pasted image 20260921165548.png",
     "_site/Attachments/Pasted image 20260921165536.png",
-    "Attachments/Pasted image 20260921165536.png",
     "_site/Attachments/334266__aceofspadesproduc100__short-explosion-1.wav",
-    "Attachments/334266__aceofspadesproduc100__short-explosion-1.wav",
-    "_site/Attachments/Pasted image 20260921162725.png",
-    "Attachments/Pasted image 20260921162725.png",
     "_Tutorials/20_animationstates.md",
     "point and click.md",
     "schedule.md",
@@ -233,7 +234,6 @@
     "_Tutorials/10_colliderstriggerstags.md",
     "_Tutorials/09_PrefabsInstantiationandDestroy.md",
     "_Tutorials/08_UserInput.md",
-    "_Tutorials/07_Randomness.md",
-    "_Tutorials/06_Camera.md"
+    "_Tutorials/07_Randomness.md"
   ]
 }

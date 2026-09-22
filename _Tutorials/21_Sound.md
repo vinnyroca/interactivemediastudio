@@ -19,20 +19,20 @@ In order for sound to play during your game, there must be an Audio Listener com
 
 [Unity Reference](https://docs.unity3d.com/6000.3/Documentation/Manual/class-AudioSource.html)
 
-Sound is played in Unity using an Audio Source component. In the first part of this tutorial, let's add some background music to our scene:
+Sound is played in Unity using an Audio Source component. In the first part of this tutorial, let's add some background music to our scene using an Audio Source:
 
 1. Create an Empty Game Object and name it "Music"
 2. Add a Audio Source component to the empty game object
 
 ![Animated gif of creating music game object](/Attachments/21_1.gif)
 
-To play background music, we need to check a few setting within our Audio Source component:
+To play background music, we need to check a few settings within our Audio Source component:
 
 1. Play On Awake is enabled, this will cause our audio to play as soon as our game loads
 2. Loop is enabled, this will allow our audio to loop.
-3. Lastly, we need Audio Generator. This is container that holds audio source, often times an Audio Clip.  
+3. Lastly, we need an Audio Generator. This is a container that holds audio source, often times an Audio Clip.  
 
-To play our background music, we need to to have a piece of audio in our scene.
+To play our background music, we need to have a piece of audio in our scene.
 
 Begin by downloading the following background music clip.
 
@@ -53,13 +53,13 @@ Once our audio is imported, we can drag our audio clip into the Audio Generator 
 
 ![Image showing audio generator property containing background music](/Attachments/Pasted%20image%2020260921162725.png)
 
- ## Adjusting Audio
+## Adjusting Audio
 
-Within Unity, we can use a number options to adjust our audio.
+Within Unity, we can use a number of options to adjust our audio.
 
 Our Audio Source component allows us to Adjust volume and change the pitch of our audio clips.
 
-Additionally, we can use a number of components to alter our audio:
+Additionally, we can use a variety of components to alter our audio:
 
 - [Audio Low Pass Filter](https://docs.unity3d.com/6000.3/Documentation/Manual/class-AudioLowPassFilter.html)
 - [Audio High Pass Filter](https://docs.unity3d.com/6000.3/Documentation/Manual/class-AudioHighPassFilter.html)
@@ -70,13 +70,13 @@ Additionally, we can use a number of components to alter our audio:
 
 ## Sound Effects
 
-Unlike background music, sound effects are sound clips that play within our scene one time. These are usually triggered by an event in our scene or an input from a player.
+Unlike background music, sound effects are sound clips that play within our scene during particular moments. These are usually triggered by an event in our scene or an input from a player.
 
 ### Asteroid destruction sound effect
 
 One option for sound effects is to play them once by disabling the Loop parameter on an audio source. 
 
-For example, on my Explosion prefab I could add and Audio source and make sure that Play on Awake is enabled, and Loop is disabled:
+For example, on our Explosion prefab we could add and Audio source and make sure that Play on Awake is enabled, and Loop is disabled:
 
 ![Image of explosion prefab with proper audio source settings](/Attachments/Pasted%20image%2020260921165548.png)
 
@@ -95,7 +95,7 @@ If we then drag our audio clip into our Explosion Audio Generator parameter, we 
 
 ## Play One Shot
 
-Another option for playing audio clips is to use the method `PlayOneShot()` on an Audio Source component. This method allows you to swap out the audio clip you are playing with a different value. This is a particularly good method to use if you have many audio clips that need to play on the game game object. For example, if you have a player that has a jump sound, an action sound, and a walk sound, you could store these audio clips as variables and use the `PlayOneShot()` method to play these clips.
+Another option for playing audio clips is to use the method `PlayOneShot()` on an Audio Source component. This method allows you to swap out the audio clip you are playing with a different value. This is a particularly good method to use if you have many audio clips that need to play on the game object. For example, if you have a player that has a jump sound, an action sound, and a walk sound, you could store these audio clips as variables and use the `PlayOneShot()` method to play these clips.
 
 In this tutorial, let's write some code to get a laser beam sound to play when our player fires a projectile.
 
@@ -110,7 +110,7 @@ Your browser does not support the audio element.
 
 <a href="/Attachments/483508__dominikbraun__laser-shot-3.mp3" download="483508__dominikbraun__laser-shot-3.mp3">Download Audio Clip</a>
 
-Next, let's make sure our Player prefab has an Audio Source component, and the Play on Awake is disabled:
+Next, let's make sure our Player prefab has an Audio Source component, and that Play on Awake is disabled:
 
 ![Image showing player audio source with changes highlighted](/Attachments/Pasted%20image%2020260921172407.png)
 
@@ -118,7 +118,7 @@ Next, let's make sure our Player prefab has an Audio Source component, and the P
 
 Next, let's edit our player script. Begin by opening your Spacecraft.cs file (or Player.cs file if that is what you named it).
 
-Let's begin by adding two variables. We can add a public variable to store our Audio Clip as well as a private variable to store our Audio Source. When storing a piece of audio in Unity, we can use and AudioClip data type:
+Let's begin by adding two variables. We can add a public variable to store our Audio Clip as well as a private variable to store our Audio Source. When storing a piece of audio in Unity, we can use an AudioClip data type:
 
 ```cs
 public AudioClip projectileSound;
@@ -136,7 +136,7 @@ void Start()
 //... rest of code
 ```
 
-Finally, within our `Update()` loop, we can look at the `if` statement in which our projectile is being fired and then call `PlayOneShot()` on our `playerAudio` Audio Source. We need to provide our `PlayOneShot()` method with an Audio Clip; we can provide the method the value of our `projectileSound` variable:
+Finally, within our `Update()` loop, we can look at the `if` statement in which our projectile is being fired and then call `PlayOneShot()` on our `playerAudio` Audio Source. We need to provide our `PlayOneShot()` method with an Audio Clip; we can provide the method with the value of our `projectileSound` variable:
 
 ```cs
 void Update()
@@ -152,7 +152,7 @@ If we then assign Projectile Sound property on our Player prefab with the value 
 
 ![Image showing audio clip provided to the projectile prefab](/Attachments/Pasted%20image%2020260921173851.png)
 
-Now, when we play our game, our projectile sound sound play.
+Now, when we play our game, our projectile sound will play.
 
 At the end of this tutorial, our game should sound like this:
 
