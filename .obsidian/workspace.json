@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tutorials/21_Sound.md",
+                "file": "_Tutorials/23_Game Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21_Sound"
+              "title": "23_Game Data"
             }
           }
         ]
@@ -191,10 +191,20 @@
   "lastOpenFiles": [
     "_Tutorials/22_Scenes.md",
     "_Tutorials/23_Game Data.md",
-    "Attachments/22_1.gif",
-    "Attachments/Pasted image 20260921205433.png",
-    "Attachments/Pasted image 20260921205407.png",
+    "Attachments/Pasted image 20260923211144.png",
+    "_Tutorials/17_updatinglivesandscore.md",
+    "_Tutorials/15_ui.md",
+    "_Tutorials/08_UserInput.md",
+    "Attachments/Pasted image 20260923210504.png",
     "_Tutorials/21_Sound.md",
+    "Attachments/Pasted image 20260923203635.png",
+    "Attachments/Pasted image 20260923203404.png",
+    "Attachments/Pasted image 20260923203356.png",
+    "Attachments/Pasted image 20260923203152.png",
+    "Attachments/Pasted image 20260923202922.png",
+    "Attachments/Pasted image 20260923202612.png",
+    "Attachments/Pasted image 20260923202521.png",
+    "Attachments/22_2.gif",
     "Attachments/AsteroidsAudio.mp4",
     "_site/Attachments/AsteroidsAudio.mp4",
     "_site/Attachments/Screen Recording 2026-09-21 174010.mp4",
@@ -203,24 +213,15 @@
     "_site/Tutorials/21_sound/index.html",
     "_site/Tutorials/21_sound",
     "_site/Tutorials/21_Sound.md",
-    "_site/Attachments/Pasted image 20260921173851.png",
-    "Attachments/Pasted image 20260921173851.png",
-    "_site/Attachments/Pasted image 20260921172407.png",
-    "Attachments/Pasted image 20260921172407.png",
     "_site/Attachments/483508__dominikbraun__laser-shot-3.mp3",
     "Attachments/483508__dominikbraun__laser-shot-3.mp3",
-    "_site/Attachments/Pasted image 20260921165548.png",
-    "Attachments/Pasted image 20260921165548.png",
-    "_site/Attachments/Pasted image 20260921165536.png",
     "_site/Attachments/334266__aceofspadesproduc100__short-explosion-1.wav",
     "_Tutorials/20_animationstates.md",
     "point and click.md",
     "schedule.md",
     "_Tutorials/19_animation.md",
     "_Tutorials/18_art.md",
-    "_Tutorials/17_updatinglivesandscore.md",
     "_Tutorials/16_fonts.md",
-    "_Tutorials/15_ui.md",
     "_Tutorials/13_asteroidgen.md",
     "_Tutorials/12_lists.md",
     "_Tutorials/11_gamemanager.md",
@@ -232,8 +233,6 @@
     "_site/Tutorials/18_art.md",
     "_site/Tutorials/Art.md",
     "_Tutorials/10_colliderstriggerstags.md",
-    "_Tutorials/09_PrefabsInstantiationandDestroy.md",
-    "_Tutorials/08_UserInput.md",
-    "_Tutorials/07_Randomness.md"
+    "_Tutorials/09_PrefabsInstantiationandDestroy.md"
   ]
 }
