@@ -10,11 +10,6 @@ permalink: /resources/
 ### Asteroids
 <ol class="tutorial-list"> {% for Tutorial in site.Tutorials %} <li> <a href="{{ Tutorial.url | relative_url }}">{{ Tutorial.title }}</a> </li> {% endfor %} </ol>
 
-- User Interface
-- Art and Animation
-- (Enemy AI)
-- Sound
-- Scenes
 - Building
 - Itch
 

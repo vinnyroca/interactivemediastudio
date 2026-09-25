@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tutorials/23_Game Data.md",
+                "file": "resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23_Game Data"
+              "title": "resources"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "ec31072f34cb9e68",
   "lastOpenFiles": [
-    "_Tutorials/22_Scenes.md",
     "_Tutorials/23_Game Data.md",
+    "_Tutorials/22_Scenes.md",
     "Attachments/Pasted image 20260923211144.png",
     "_Tutorials/17_updatinglivesandscore.md",
     "_Tutorials/15_ui.md",
