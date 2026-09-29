@@ -11,6 +11,8 @@ Play Myst, canonical multi media point and click adventure +
 [10 Beautiful Post Cards](https://thecatamites.itch.io/10-beautiful-postcards)
 [Night in the Woods](https://finji.itch.io/night-in-the-woods)
 [Yume Nikki](https://store.steampowered.com/app/650700/Yume_Nikki/)
+[Frog's Adventure](https://store.steampowered.com/app/2535670/Frogs_Adventure/)
+Despelote
 
 Laurie Anderson
 Antoni Muntadas

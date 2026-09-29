@@ -10,14 +10,13 @@ permalink: /resources/
 ### Asteroids
 <ol class="tutorial-list"> {% for Tutorial in site.Tutorials %} <li> <a href="{{ Tutorial.url | relative_url }}">{{ Tutorial.title }}</a> </li> {% endfor %} </ol>
 
-- Building
 - Itch
 
 ### Point and Click
 
-- Point and Click Raycast, Moving Around with Character
+- Point and Click Raycast, Moving Around with Character, Camera Follow
 - Interfaces
-- Scriptable Objects
+- Inventory/Scriptable Objects
 - Dialog System
 - World Building
 
