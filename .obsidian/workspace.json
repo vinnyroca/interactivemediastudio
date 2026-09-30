@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources.md",
+                "file": "point and click.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "point and click"
             }
           }
         ],
@@ -204,6 +204,7 @@
   },
   "active": "c77b5356d53b99fb",
   "lastOpenFiles": [
+    "resources.md",
     "_Tutorials/24_Building.md",
     "_Tutorials/23_Game Data.md",
     "Attachments/Pasted image 20260928205703.png",
@@ -214,7 +215,6 @@
     "Attachments/Pasted image 20260928173423.png",
     "schedule.md",
     "projects.md",
-    "resources.md",
     "test.md",
     "WhatIsAGameEngine.md",
     "Revisions.md",
