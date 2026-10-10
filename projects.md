@@ -18,13 +18,13 @@ permalink: /projects/
 
 ## Media Island
 
-[Project Description](/index)
+[Project Description](/mediaisland)
 
-- Close Play and Journal Due: 10/29 11:59 PM
+- Close Play and Journal Due: 10/21 11:59 PM
 - Proposal Due: 11/3 1:15 PM
 - Prototype Due: 11/10 1:15 PM
 - Final Project: 11/17 1:15 PM
-- Writing Due:  11/19 11:59 PM
+- Writing Due:  11/20 11:59 PM
 
 ## New Engines
 

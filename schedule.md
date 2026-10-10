@@ -156,7 +156,8 @@ permalink: /schedule/
 ### Tuesday 10/13
 
 - Lecture: Interactive Multimedia
-- Tutorial: Point and Click
+- Tutorial: Raycasting
+- Tutorial: Interactable and interfaces  
 
 #### Due:
 
@@ -168,7 +169,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Media Island Close Play, Friday @ Midnight
+- Project: Begin Media Island Close Play, Due Wednesday 10/21 @ Midnight
 
 ## Week 8
 
@@ -182,8 +183,8 @@ permalink: /schedule/
 
 ### Thursday 10/22
 
-- Interfaces
-- Events
+- Tutorial: Scriptable Object Inventory
+- Tutorial: Persistent Data
 
 #### Due:
 
@@ -196,7 +197,7 @@ permalink: /schedule/
 
 ### Tuesday 10/27
 
-- Tutorial: Inventory
+- Exercise: FMV JAM!
 
 #### Due:
 
@@ -210,7 +211,7 @@ permalink: /schedule/
 
 ### Thursday 10/29
 
-- Tutorial: Dialog
+- Tutorial: Dialog with Inky
 
 #### Due:
 
