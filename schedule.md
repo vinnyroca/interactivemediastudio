@@ -155,9 +155,10 @@ permalink: /schedule/
 
 ### Tuesday 10/13
 
-- Lecture: Interactive Multimedia
-- Tutorial: Raycasting
-- Tutorial: Interactable and interfaces  
+- Lecture: [Interactive Multimedia](/multimedia)
+- Tutorial: [Input Actions](/Tutorials/25_inputactionasset)
+- Tutorial: [Raycasting](/Tutorials/26_Raycasting/)
+- Tutorial: [Interface](/Tutorials/27_Interface/)
 
 #### Due:
 

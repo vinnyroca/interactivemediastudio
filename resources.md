@@ -7,13 +7,9 @@ permalink: /resources/
 
 ## Technical Tutorials
 
-### Asteroids
-<ol class="tutorial-list"> {% for Tutorial in site.Tutorials %} <li> <a href="{{ Tutorial.url | relative_url }}">{{ Tutorial.title }}</a> </li> {% endfor %} </ol>
+### Tutorials
+<ul class="tutorial-list"> {% for Tutorial in site.Tutorials %} <li> <a href="{{ Tutorial.url | relative_url }}">{{ Tutorial.title }}</a> </li> {% endfor %} </ul>
 
-### Point and Click
-
-- Point and Click Raycast, Moving Around with Character, Camera Follow
-- Interfaces
 - Inventory/Scriptable Objects
 - Dialog System
 - World Building
