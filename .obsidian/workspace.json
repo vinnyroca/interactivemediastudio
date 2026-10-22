@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources.md",
+                "file": "_Tutorials/31_PersistentData.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "31_PersistentData"
             }
           }
         ]
@@ -189,6 +189,29 @@
   },
   "active": "459e5b240125f164",
   "lastOpenFiles": [
+    "_Tutorials/30_Door.md",
+    "_Tutorials/31_PersistentData.md",
+    "_Tutorials/29_Inventory.md",
+    "_Tutorials/28_ScriptableObjects.md",
+    "_Tutorials/27_Interface.md",
+    "Attachments/30_1.gif",
+    "Attachments/29_5.gif",
+    "Attachments/Pasted image 20261021224237.png",
+    "Attachments/29_4.gif",
+    "Attachments/29_3.gif",
+    "Attachments/29_2.gif",
+    "Attachments/29_1.gif",
+    "Attachments/28_2.gif",
+    "Attachments/28_1.gif",
+    "Attachments/Pasted image 20261021151159.png",
+    "mediaisland.md",
+    "New Engines.md",
+    "newengine.md",
+    "projects.md",
+    "resources.md",
+    "Revisions.md",
+    "test.md",
+    "WhatIsAGameEngine.md",
     "InteractiveMultiMedia.md",
     "schedule.md",
     "_site/multimedia/index.html",
@@ -196,27 +219,8 @@
     "_site/m/index.html",
     "_site/m",
     "Introduction.md",
-    "_site/Attachments/Pasted image 20261013003414.png",
-    "Attachments/Pasted image 20261013003414.png",
-    "_site/Attachments/Pasted image 20261013003411.png",
-    "Attachments/Pasted image 20261013003411.png",
-    "_site/Attachments/Pasted image 20261013003402.png",
-    "Attachments/Pasted image 20261013003402.png",
-    "_site/Attachments/Pasted image 20261013003018.png",
-    "Attachments/Pasted image 20261013003018.png",
-    "_site/Attachments/Pasted image 20261013003005.png",
-    "Attachments/Pasted image 20261013003005.png",
     "_site/InteractiveMultiMedia.md",
     "_site/Untitled.md",
-    "mediaisland.md",
-    "New Engines.md",
-    "projects.md",
-    "test.md",
-    "WhatIsAGameEngine.md",
-    "Revisions.md",
-    "resources.md",
-    "newengine.md",
-    "_Tutorials/27_Interface.md",
     "_Tutorials/26_Raycasting.md",
     "_Tutorials/25_inputactionasset.md",
     "_site/Tutorials/27_Interface/index.html",
@@ -229,10 +233,6 @@
     "_site/Tutorials/25_inputactionasset/index.html",
     "_site/Tutorials/25_inputactionasset",
     "_Tutorials/24_itch.md",
-    "_site/Tutorials/26_Raycasting.md",
-    "_site/Tutorials/25_inputactionasset.md",
-    "arcade.md",
-    "index.md",
-    "_site/Revisions.md"
+    "_site/Tutorials/26_Raycasting.md"
   ]
 }
