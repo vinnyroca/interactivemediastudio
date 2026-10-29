@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tutorials/31_PersistentData.md",
+                "file": "_Tutorials/32_dialog.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "31_PersistentData"
+              "title": "32_dialog"
             }
           }
         ]
@@ -189,8 +189,15 @@
   },
   "active": "459e5b240125f164",
   "lastOpenFiles": [
-    "_Tutorials/30_Door.md",
     "_Tutorials/31_PersistentData.md",
+    "_Tutorials/32_dialog.md",
+    "Attachments/31_3.gif",
+    "Attachments/Pasted image 20261028203228.png",
+    "Attachments/Pasted image 20261028203225.png",
+    "Attachments/31_2.gif",
+    "Attachments/Pasted image 20261028200755.png",
+    "Attachments/31_1.gif",
+    "_Tutorials/30_Door.md",
     "_Tutorials/29_Inventory.md",
     "_Tutorials/28_ScriptableObjects.md",
     "_Tutorials/27_Interface.md",
@@ -198,12 +205,6 @@
     "Attachments/29_5.gif",
     "Attachments/Pasted image 20261021224237.png",
     "Attachments/29_4.gif",
-    "Attachments/29_3.gif",
-    "Attachments/29_2.gif",
-    "Attachments/29_1.gif",
-    "Attachments/28_2.gif",
-    "Attachments/28_1.gif",
-    "Attachments/Pasted image 20261021151159.png",
     "mediaisland.md",
     "New Engines.md",
     "newengine.md",
@@ -232,7 +233,6 @@
     "_site/Tutorials/Untitled.md",
     "_site/Tutorials/25_inputactionasset/index.html",
     "_site/Tutorials/25_inputactionasset",
-    "_Tutorials/24_itch.md",
-    "_site/Tutorials/26_Raycasting.md"
+    "_Tutorials/24_itch.md"
   ]
 }
