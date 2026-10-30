@@ -447,4 +447,4 @@ Cake: Oh, okay, bye.
 ->END
 ```
 
-![Animated gif of cake changing animation based on dialog choices](Attachments/31_3.gif)
+![Animated gif of cake changing animation based on dialog choices](/Attachments/31_3.gif)
