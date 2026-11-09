@@ -8,7 +8,7 @@ permalink: /mediaisland/
 
 ## Description
 
-For this project, you will make use of the additional knowledge we gained in this unit to develop a complex multimedia world. Your project does not need to include characters or hallmarks of traditional world building, and instead could be a multimedia experiment that thinks through the relationship between space, text, image, video and interactivity. Although your project does not need to contain a "world" as might be found in adventure video games, your project should play with some idea of cohesive space. Consider the multimedia project *[Puppet Motel](https://www.youtube.com/watch?v=jKecYngnWSw)* by Laurie Anderson. Although not a cohesive world by contemporary video game world building standards, the project makes use of disparate scenes of text, image, video and animation to create a loosely linked world. In this project, Anderson collects new work and past work to create a limited world in which we explore, an island of media.
+For this project, you will make use of the additional knowledge we gained in this unit to develop a complex multimedia world. Your project does not need to include characters or hallmarks of traditional worldbuilding, and instead could be a multimedia experiment that thinks through the relationship between space, text, image, video and interactivity. Although your project does not need to contain a "world" as might be found in adventure video games, your project should play with some idea of cohesive space. Consider the multimedia project *[Puppet Motel](https://www.youtube.com/watch?v=jKecYngnWSw)* by Laurie Anderson. Although not a cohesive world by contemporary video game world building standards, the project makes use of disparate scenes of text, image, video and animation to create a loosely linked environment. In this project, Anderson collects new work and past work to create a limited world in which we explore: an island of media.
 
 ![Screenshot of Puppet Motel](/Attachments/Pasted%20image%2020261010000928.png)
 
@@ -16,7 +16,7 @@ Screenshot of *Puppet Motel*
 
 ![screen shot of myst island](/Attachments/Pasted%20image%2020261010001025.png)
 
-When developing *Myst*, Cyan Worlds developers Rand and Robyn Miller faced the problem of slow loading times on the, at the time, new technology of CD ROMS. In order to package all the information about their game in ways that would be quickly readable on the disk, they decided to store different parts of their world as islands. In this way, the islands not only becomes a conceptual part of the narrative of the game, but also something brought about by direct limitations of the hardware. In this way, the island as both a metaphor and a way to limit to the space of the player due to the impossibility of building an infinite world as been adopted by a variety of adventure games. From *The Witness* to *Dear Esther* to *Oxenfree* to *Mutazione*, islands are a location in which many exploration games turn too. Islands in these games often function as both closed systems, but also as ways to have a narrative bounds to the space of play. Even in games that don't take place on islands go through great effort to restrict our movement to keep us both contained technically, narratively, and conceptual in the small part of the world the game creates. One recent example is *Future? No Thanks!* by Molleindustria which takes places in a fictionalized version of Pittsburgh. Try to take one of the many roads that leave the city and you'll quickly realize your contained within an intentionally designed island of meaning, a limited space in which the developers want us to explore.
+When developing *Myst*, Cyan Worlds developers Rand and Robyn Miller faced the problem of slow loading times on the new technology of CD ROMS. In order to package all the information about their game in ways that would be quickly readable on the disk, they decided to store different parts of their world as islands. In this way, the islands not only became a conceptual part of the narrative of the game, but also something brought about by direct limitations of the hardware. In this way, the dual definition of an island as both a narrative space as well as a way to limit the movement of the player has been adopted by a variety of adventure games; from *The Witness* to *Dear Esther* to *Oxenfree* to *Mutazione*, islands are a location in which many exploration games turn too. Even games that don't take place on islands go through great effort to restrict player movement to keep players contained technically, narratively, and conceptual in the small world the game creates. One recent example is *Future? No Thanks!* by Molleindustria which takes places in a fictionalized version of Pittsburgh. Try to take one of the many roads that leave the city and you'll quickly realize your contained within an intentionally designed island of meaning, a limited space the developers want us to explore.
 
 ![Screenshot of Dear Esther](/Attachments/Pasted%20image%2020261010001115.png)
 
@@ -26,7 +26,7 @@ Island from *Dear Esther*
 
 The bounds of the world in *Future? No Thanks!*
 
-For this project then, your aim is to create a media island of your own. This is not a literal island, but instead an island as thought of in the world of experimental multimedia art and indie adventure games: a space not defined by it's unlimited open world, but oppositely, the careful and intentional decisions to curate what is accessible within this world and what is not.
+With these ideas in mind, for this project, your aim is to create a media island of your own. This project need not be a literal island. Instead, we are considering the ways in which experimental CD rom art and adventure games use the conceptual space of an island to create a small world in which bits of media and meaning can be explored, interacted with, and contrasted.
 
 ## Project Components
 
@@ -41,11 +41,11 @@ For this project then, your aim is to create a media island of your own. This is
 
 ## Readings
 
-To assist in the development of this project, you will be engaging with a variety of reading and media that deal with the history and development of adventure games and experimental CD rom multi media art. During this unit, we will be engaging with the following text and videos:
+To assist in the development of this project, you will be engaging with a variety of reading and media that deal with the history and development of adventure games and experimental CD rom multimedia art. During this unit, we will be engaging with the following text and videos:
 
 - Nooney, L. (2023). The Apple II Age: How the Computer Became Personal.
 - Hutchison, A. (2008) Making the Water Move: Techno-Historic Limits in the Game Aesthetics of Myst and Doom. Game Studies. 8(1)
-- Yet Another Excavation Zone: the Multimedia by Erkki Huhtamo
+- Yet Another Excavation Zone: the Multimedia CD-ROM by Erkki Huhtamo
 - Exhibition Text for Contact Zones: The Art of CD-Rom
 
 We will additionally be playing the following games:
@@ -117,6 +117,12 @@ Submit a prototype that includes all the major interactions your project will in
 ### Submit
 
 Bring your playable prototype to class and have it set up for students and the instructor to engage with.
+
+## Writing
+
+Referencing at least two of the readings and two of the games we have played during this unit, write a 600-word reflection on how these readings and games either informed or were in conversation with the media island work you produced.
+
+Submit your writing to Canvas.
 
 ## Final Game
 

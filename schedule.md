@@ -216,7 +216,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Watch: [Yet Another Excavation Zone: the Multimedia by Erkki Huhtamo](https://www.youtube.com/watch?v=VepVdR7alS0)
+- Watch: [Yet Another Excavation Zone: the Multimedia CD-ROM by Erkki Huhtamo](https://www.youtube.com/watch?v=VepVdR7alS0)
 - Read: [Exhibition Text](https://contactzones.cit.cornell.edu/why.html) for Contact Zones: The Art of CD-Rom, Browse the exhibition artists
 - Read: [Resurrecting the Digital Past: Access to Artistic Content on CD-ROMs](https://www.tate.org.uk/research/collection-care-research/resurrecting-the-digital-past-access-to-artistic-content-on-cd-roms)
 

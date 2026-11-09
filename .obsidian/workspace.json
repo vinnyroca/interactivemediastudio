@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Tutorials/32_dialog.md",
+                "file": "schedule.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "32_dialog"
+              "title": "schedule"
             }
           }
         ]
@@ -189,8 +189,10 @@
   },
   "active": "459e5b240125f164",
   "lastOpenFiles": [
-    "_Tutorials/31_PersistentData.md",
+    "mediaisland.md",
+    "schedule.md",
     "_Tutorials/32_dialog.md",
+    "_Tutorials/31_PersistentData.md",
     "Attachments/31_3.gif",
     "Attachments/Pasted image 20261028203228.png",
     "Attachments/Pasted image 20261028203225.png",
@@ -205,7 +207,6 @@
     "Attachments/29_5.gif",
     "Attachments/Pasted image 20261021224237.png",
     "Attachments/29_4.gif",
-    "mediaisland.md",
     "New Engines.md",
     "newengine.md",
     "projects.md",
@@ -214,7 +215,6 @@
     "test.md",
     "WhatIsAGameEngine.md",
     "InteractiveMultiMedia.md",
-    "schedule.md",
     "_site/multimedia/index.html",
     "_site/multimedia",
     "_site/m/index.html",
