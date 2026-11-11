@@ -251,6 +251,7 @@ permalink: /schedule/
 ### Thursday 11/12
 
 - Studio Time: Media Island
+- 
 #### Due:
 
 - Project: Continue work on Media Island
@@ -259,27 +260,27 @@ permalink: /schedule/
 
 ### Tuesday 11/17
 
+- Studio Time: Media Island
+
+#### Due:
+
+- Project: Continue work on Media Island
+
+### Thursday 11/19
+
 - Crit: Media Island
 
 #### Due:
 
 - Project: Media Island project
 
-### Thursday 11/19
-
-- Lecture: Nuovo Games
-- Discuss: New Engines project
-- Studio Time: New Engines
-
-#### Due:
-
-- Read: New Engines project description
-
 
 ## Week 13
 
 ### Tuesday 11/24
 
+- Lecture: Nuovo Games
+- Discuss: New Engines project
 - Studio Time: New Engines
 
 #### Due:
