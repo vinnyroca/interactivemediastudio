@@ -301,6 +301,7 @@ permalink: /schedule/
 ### Tuesday 12/1
 
 - Studio Time: New Engines
+- Visiting Lecturer: 1:30-2:00
 
 #### Due:
 
