@@ -285,7 +285,7 @@ permalink: /schedule/
 
 #### Due:
 
-- Project: Continue work on New Engines
+- Project: Proposal for New Engines
 - Read: Chapter 1 from Nicoll. B., Keogh, B. (2019) *The Unity Game Engine and the Circuits of Cultural Software*.
 - Read: Chapter 1 from Bittanti, M., Ruffino, P., Catricala, V. (2026) *Game Engine Culture(s)*
 

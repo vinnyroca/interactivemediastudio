@@ -18,8 +18,8 @@ permalink: /resources/
 
 - [Introduction](/intro)
 - [Arcades and Asteroids](/ArcadesAndAsteroids)
-- Multimedia Interactivity
-- Nuovo Games
+- [Multimedia Interactivity](/multimedia/)
+- [New Engines](/newengineslecture/)
 
 ## Unity Documentation
 
