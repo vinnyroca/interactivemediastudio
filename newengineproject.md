@@ -8,13 +8,14 @@ permalink: /newengineproject/
 
 ## Description
 
-For this project, we will be exploring how artists, animators, and indie game designers are using the technology of game engines to craft new and exciting interactive media artworks. While previous unit have explore the historical relationship between media technologies and interactive media art, this unit explores current developments in game engine technologies.
+For this project, we will be exploring how artists, animators, and indie game designers are using the technology of game engines to craft new and exciting interactive media artworks. While previous units have explore the historical relationship between media technologies and interactive media art, this unit explores current developments in game engine technologies.
 
 In line with the themes of this unit, for this project, each student will either develop a new work of interactive media art that explores one of the follow topics, or can continue developing the first or second project developed within the course:
 
 Topics to explore include:
 
 - Game Engine Cinema
+- Simulation
 - Zero Player Games
 - Social Critique Games
 - Exploration Games
@@ -56,9 +57,9 @@ You may find the following prompts helpful as you write each journal entry (From
 - How does the game begin — Where are you? Who are you playing? What do you want or need to do? As the game unfolds, what happens that moves you? Do you relate to any characters or situations? What do you bring to the game from your own lived experiences?
 - Are there peak moments of play that make you want to capture them as screenshots or to remember
 
-Students should either choose 2 games from their chosen topic, or, if they are developing a previous project, should consult with the instructor to choose two games that will assist in further their project.
+Students should either choose 2 games/video from their chosen topic, or, if they are developing a previous project, should consult with the instructor to choose two games that will assist in furthering their project.
 
-A list of games/videos can be found here: 
+A list of games/videos can be found here: [New Engines](/newenginelecture/)
 
 ## Proposal
 

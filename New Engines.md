@@ -13,7 +13,7 @@ Machinima/Game Engine Cinema
 Simulations
 - [The Kuutar Garden](https://www.jakobsteensen.com/the-kuutar-garden), Jakob Kudsk Steensen ([MoMA](https://www.moma.org/calendar/exhibitions/5936) show) (Unreal Engine)
 - [Emissaries Trilogy](https://iancheng.com/emissaries) and [BOB](https://iancheng.com/BOB), Ian Cheng ([Lecture](https://www.youtube.com/watch?v=gBOfkWTUnvI))
-- Gospel of Departed Meeple, Aidan Strong
+- [Gospel of Departed Meeple](https://aidanstrong.info/departed-meeple), Aidan Strong
 
 Zero Player Games
 - [Mountain](https://www.davidoreilly.com/mountain/), David OReilly
@@ -46,7 +46,7 @@ Exploratory Games/ Walking Simulators
 - [Mezzanine](https://rhizome.org/editorial/2022/oct/06/first-look-mezzanine/), Inpatient Interactive
 - [Proteus](https://twistedtree.itch.io/proteus), Ed Key and David Kanaga
 - [Fugue in Void](https://moshelinke.itch.io/fugue-in-void), Moshe Linke
-- [Promesa](https://julian-palacios.itch.io/promesa)
+- [Promesa](https://julian-palacios.itch.io/promesa), 
 - [The Space Between](https://chrstphfr.itch.io/the-space-between), Christoph Frey
 - [Escape from Lavender Island](https://www.akuparagames.com/game/escape-from-lavender-island/), Jeremy Couillard
 - [Airplane Mode](https://games.amc.com/game/airplanemode/), Bacronym

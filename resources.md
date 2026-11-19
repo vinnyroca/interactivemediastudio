@@ -19,7 +19,7 @@ permalink: /resources/
 - [Introduction](/intro)
 - [Arcades and Asteroids](/ArcadesAndAsteroids)
 - [Multimedia Interactivity](/multimedia/)
-- [New Engines](/newengineslecture/)
+- [New Engines](/newenginelecture/)
 
 ## Unity Documentation
 
